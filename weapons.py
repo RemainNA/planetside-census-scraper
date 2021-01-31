@@ -43,9 +43,12 @@ for i in ids:
 	try:
 		weapons[i] = {
 			"name": weapData["name"]["en"],
-			"description": weapData["description"]["en"],
-			"image_id": weapData["image_id"],	
+			"description": weapData["description"]["en"]
 		}
+		if "image_id" in weapData:
+			weapons[i]["image_id"] = weapData["image_id"]
+		else: #literally only for the Armory War Asset Orbital Strike at time of writing
+			weapons[i]["image_id"] = -1
 	except:
 		continue
 
