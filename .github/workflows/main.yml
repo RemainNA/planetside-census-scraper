@@ -1,0 +1,45 @@
+
+name: Automatically update files
+
+# Run daily
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+  # Allow for running manually
+  workflow_dispatch:
+
+jobs:
+  check-for-updates:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Clear existing data
+        run: |-
+          echo {} > alerts.json
+          echo {} > asp.json
+          echo {} > bases.json
+          echo {} > implants.json
+          echo {} > vehicles.json
+          echo {} > weapons.json
+      
+      - name: Run py files
+        run: |-
+          python3 alerts.py ${{ secrets.SERVICE_ID }}
+          python3 asp.py ${{ secrets.SERVICE_ID }}
+          python3 bases.py ${{ secrets.SERVICE_ID }}
+          python3 implants.py ${{ secrets.SERVICE_ID }}
+          python3 vehicles.py ${{ secrets.SERVICE_ID }}
+          python3 weapons.py ${{ secrets.SERVICE_ID }}
+          
+#     Following pulled from https://til.simonwillison.net/github-actions/commit-if-file-changed
+      - name: Commit and push if files changed
+        run: |-
+          git config user.name "Automated Actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
