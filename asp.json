@@ -1,0 +1,150 @@
+{
+    "6004307": {
+        "description": "Allows Anti-Materiel Rifles to be equipped in the secondary weapon slot. Engineer only.",
+        "name": "Engineer AMR Secondary"
+    },
+    "6004308": {
+        "description": "Allows characters to equip sidearms in their primary weapon slot. Does not include Directive reward weapons. ",
+        "name": "Sidearm Primaries"
+    },
+    "6004309": {
+        "description": "Unlocks access to Smoke Grenades for ALL classes.",
+        "name": "Universal Smoke Grenades"
+    },
+    "6004310": {
+        "description": "Unlocks access to Decoy Grenades for ALL classes.",
+        "name": "Universal Decoy Grenades"
+    },
+    "6004311": {
+        "description": "Reduces the nanite cost of Flash by 50% and Harasser by 20%.",
+        "name": "Light Ground Discount"
+    },
+    "6004312": {
+        "description": "Reduces the nanite cost of ANT and Sunderer by 20%.",
+        "name": "Ground Transport Discount"
+    },
+    "6004313": {
+        "description": "Reduces the nanite cost of Lightning and Main Battle Tank by 20%.",
+        "name": "Combat Armor Discount"
+    },
+    "6004314": {
+        "description": "Reduces the nanite cost of ESF and Valkyrie by 20%.",
+        "name": "Light Air Discount"
+    },
+    "6004315": {
+        "description": "Reduces the nanite cost of Liberator and Galaxy by 20%.",
+        "name": "Heavy Air Discount"
+    },
+    "6004316": {
+        "description": "Allows Shotguns to be equipped in the secondary weapon slot. Does not include Directive reward weapons. Engineer only.",
+        "name": "Shotgun Secondary"
+    },
+    "6004317": {
+        "description": "Unlocks access to LMGs. Does not include Directive reward weapons. Engineer only.",
+        "name": "LMG Access"
+    },
+    "6004318": {
+        "description": "Unlocks access to Assault Rifles. Does not include Directive reward weapons. Engineer only.",
+        "name": "Assault Rifle Access"
+    },
+    "6004319": {
+        "description": "Unlocks access to EMP Grenades. Engineer only.",
+        "name": "EMP Grenade Access"
+    },
+    "6004320": {
+        "description": "Unlocks access to Anti-Vehicle Grenades. Engineer only.",
+        "name": "Anti-Vehicle Grenade Access"
+    },
+    "6004321": {
+        "description": "Allows Carbines to be equipped in the secondary weapon slot. Light Assault only.",
+        "name": "Carbine Secondary"
+    },
+    "6004322": {
+        "description": "Allows SMGs to be equipped in the secondary weapon slot. Does not include Directive reward weapons. Light Assault only.",
+        "name": "SMG Secondary"
+    },
+    "6004323": {
+        "description": "Unlocks access to Concussion Grenades. Light Assault only.",
+        "name": "Concussion Grenade Access"
+    },
+    "6004324": {
+        "description": "Unlocks access to Anti-Personnel Mines. Light Assault only.",
+        "name": "Light Assault Proximity Mine Access"
+    },
+    "6004325": {
+        "description": "Unlocks access to Scout Rifles. Light Assault only.",
+        "name": "Light Assault Scout Rifle Access"
+    },
+    "6004326": {
+        "description": "Allows LMGs to be used in the secondary weapon slot. Does not include Directive reward weapons. Heavy Assault only.",
+        "name": "LMG Secondary"
+    },
+    "6004327": {
+        "description": "Allows Heavy Weapons to be used in the secondary weapon slot. Does not include Directive reward weapons. Heavy Assault only.",
+        "name": "Heavy Weapon Secondary"
+    },
+    "6004328": {
+        "description": "Unlocks access to Anti-Materiel Rifles. Heavy Assault only.",
+        "name": "Heavy Assault Anti-Materiel Rifle Access"
+    },
+    "6004329": {
+        "description": "Unlocks access to Flash Grenades. Heavy Assault only.",
+        "name": "Flash Grenade Access"
+    },
+    "6004330": {
+        "description": "Unlocks access to Sticky Grenades. Heavy Assault only.",
+        "name": "Heavy Assault Sticky Grenade Access"
+    },
+    "6004331": {
+        "description": "Unlocks access to the Reserve Hardlight Barrier. Heavy Assault only.",
+        "name": "Reserve Hardlight Barrier Access"
+    },
+    "6004332": {
+        "description": "Unlocks access to Hardlight Barrier. Heavy Assault only.",
+        "name": "Heavy Assault Hardlight Barrier Access"
+    },
+    "6004333": {
+        "description": "Allows SMGs to be used in the secondary weapon slot. Infiltrator only.",
+        "name": "Infiltrator SMG Secondary"
+    },
+    "6004334": {
+        "description": "Unlocks access to Carbines. Does not include Directive reward weapons. Infiltrator only.",
+        "name": "Carbine Access"
+    },
+    "6004335": {
+        "description": "Unlocks access to Sticky Grenades. Infiltrator only.",
+        "name": "Sticky Grenade Access"
+    },
+    "6004336": {
+        "description": "Unlocks access to Flash Grenades. Infiltrator only.",
+        "name": "Flash Grenade Access"
+    },
+    "6004337": {
+        "description": "Unlocks access to Tank Mines. Infiltrator only.",
+        "name": "Infiltrator Tank Mine Access"
+    },
+    "6004338": {
+        "description": "Unlocks access to Spitfire Turrets. Infiltrator only.",
+        "name": "Infiltrator Spitfire Turret Access"
+    },
+    "6004339": {
+        "description": "Allows use of Battle Rifles in the secondary weapon slot. Does not include Directive reward weapons. Combat Medic only.",
+        "name": "Battle Rifle Secondary"
+    },
+    "6004340": {
+        "description": "Unlocks access to Scout Rifles. Combat Medic only.",
+        "name": "Combat Medic Scout Rifle Access"
+    },
+    "6004341": {
+        "description": "Unlocks access to Carbines. Does not include Directive reward weapons. Combat Medic only.",
+        "name": "Carbine Access"
+    },
+    "6004342": {
+        "description": "Unlocks access to Nano-Repair Grenades. Combat Medic only.",
+        "name": "Combat Medic Nano-Repair Grenade Access"
+    },
+    "6004343": {
+        "description": "Unlocks access to Concussion Grenades. Combat Medic only.",
+        "name": "Concussion Grenade Access"
+    }
+}
