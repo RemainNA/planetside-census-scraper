@@ -13,7 +13,7 @@ url = 'http://census.daybreakgames.com/s:'+sys.argv[1]+'/get/ps2:v2/item?item_ty
 req = requests.get(url = url)
 data = req.json()
 
-file = open('weapons2.json', 'r')
+file = open('weapons.json', 'r')
 jsonData = file.read()
 weapons = json.loads(jsonData)
 ids = []
@@ -240,5 +240,5 @@ for i in ids:
 
 	weaponsJSON = json.dumps(weapons, indent=4, sort_keys=True)
 
-	file = open('weapons2.json', 'w')
+	file = open('weapons.json', 'w')
 	file.write(weaponsJSON)
