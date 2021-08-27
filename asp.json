@@ -16,7 +16,7 @@
         "name": "Universal Decoy Grenades"
     },
     "6004311": {
-        "description": "Reduces the nanite cost of Flash by 50% and Harasser by 20%.",
+        "description": "Reduces the nanite cost of Flash and Javelin by 50% and Harasser by 20%.",
         "name": "Light Ground Discount"
     },
     "6004312": {
@@ -128,8 +128,8 @@
         "name": "Infiltrator Spitfire Turret Access"
     },
     "6004339": {
-        "description": "Allows use of Battle Rifles in the secondary weapon slot. Does not include Directive reward weapons. Combat Medic only.",
-        "name": "Battle Rifle Secondary"
+        "description": "Allows use of Scout Rifles in the secondary weapon slot. Does not include Directive reward weapons. Combat Medic only.",
+        "name": "Scout Rifle Secondary"
     },
     "6004340": {
         "description": "Unlocks access to Scout Rifles. Combat Medic only.",
