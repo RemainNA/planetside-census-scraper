@@ -994,9 +994,14 @@
     "1276": {
         "category": "Infantry Abilities",
         "description": "A deployable ammunition pack that replenishes the ammo supplies of nearby soldiers",
-        "fireModes": [],
+        "fireModes": [
+            "Thrown"
+        ],
+        "hipCofRecoil": "0",
         "image_id": "1474",
-        "name": "Ammunition Package 4"
+        "name": "Ammunition Package 4",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
     },
     "1277": {
         "category": "Infantry Abilities",
