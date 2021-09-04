@@ -32583,9 +32583,14 @@
     "71565": {
         "category": "Infantry Abilities",
         "description": "Allows the engineer to construct a MANA anti-vehicle missile turret. The missile is laser guided and requires the operator to guide the missile to its target.",
-        "fireModes": [],
+        "fireModes": [
+            "Semi-Auto"
+        ],
+        "hipCofRecoil": "0",
         "image_id": "8011",
-        "name": "Anti-Vehicle MANA Turret"
+        "name": "Anti-Vehicle MANA Turret",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
     },
     "7169": {
         "adsCofRecoil": "0.05",
