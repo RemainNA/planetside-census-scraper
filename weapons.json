@@ -1217,7 +1217,6 @@
         "category": "LMG",
         "chamber": "780",
         "clip": "65",
-        "damage": "125",
         "defZoom": "1",
         "description": "Co-developed with Genudine's Offense Development team, the NC6A GODSAW incorporates an alternate firing mode which allows the weapon to pierce heavy armor in exchange for reduced infantry damage.",
         "fireModes": [],
@@ -2802,7 +2801,7 @@
         "ammo": "1",
         "category": "Knife",
         "clip": "1",
-        "damage": "500",
+        "damage": "1050",
         "defZoom": "1",
         "description": "Although slower than the NC standard issue Mag-Cutter, when wielded, this knife can be activated, increasing its damage output. NC use only.",
         "directDamage": "500",
@@ -7654,7 +7653,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A \"Heatwave\"",
-        "pelletSpread": "0",
         "pellets": "1",
         "reload": "2000",
         "speed": "550"
@@ -8148,7 +8146,6 @@
         "category": "Heavy Weapon",
         "chamber": "1000",
         "clip": "15",
-        "damage": "112",
         "defZoom": "1",
         "description": "The NC05 Jackhammer's stopping power and sustained fire capabilities make it a frightening weapon in close quarters combat. It features a unique burst fire mode that doubles its rate of fire. NC use only.",
         "directDamage": "112",
@@ -9657,7 +9654,7 @@
         "ammo": "1",
         "category": "Knife",
         "clip": "1",
-        "damage": "1050",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although slower than the NC standard issue Mag-Cutter, when wielded, this knife can be activated, increasing its damage output. NC use only.",
         "directDamage": "500",
@@ -13513,14 +13510,14 @@
     },
     "6009583": {
         "category": "Grenade",
-        "description": "Who knows how these nasty pumpkin-like grenades are made, all we can tell is that they explode into an unholy fire upon detonation. <font color=\"#dc9c36\">Destroying Space Pumpkins and Galact-O-Lanterns will restock these grenades. <br><br>Limited event item.</font>",
+        "description": "Who knows how these nasty pumpkin-like grenades are made, all we can tell is that they explode into an unholy fire upon detonation.",
         "fireModes": [],
         "image_id": "88278",
         "name": "Infernal Grenade"
     },
     "6009600": {
         "category": "Knife",
-        "damage": "1050",
+        "damage": "500",
         "defZoom": "1",
         "description": "Originally developed for exploration on Esamir as a companion tool to the NS Icebreaker, the Firebug has recently gained popularity among soldiers looking for a more dramatic option in close-quarters combat.",
         "fireModes": [],
@@ -13528,7 +13525,6 @@
         "name": "NS Firebug",
         "pelletSpread": "0",
         "pellets": "1",
-        "reload": "0",
         "speed": "13"
     },
     "6009604": {
@@ -13621,7 +13617,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11 \"Endeavor\" Carbine",
-        "pelletSpread": "0",
         "pellets": "1",
         "reload": "1850",
         "speed": "550"
@@ -15149,7 +15144,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A",
-        "pelletSpread": "0",
         "pellets": "1",
         "reload": "2000",
         "speed": "550"
@@ -16021,7 +16015,7 @@
         "pelletSpread": "0",
         "pellets": "1",
         "reload": "3960",
-        "speed": "550"
+        "speed": "600"
     },
     "7256": {
         "ammo": "300",
@@ -16278,10 +16272,10 @@
         "heatBleedOff": "500",
         "heatCapacity": "1000",
         "image_id": "13758",
-        "maxDamage": "550",
+        "maxDamage": "400",
         "maxDamageRange": "10",
-        "minDamage": "400",
-        "minDamageRange": "400",
+        "minDamage": "334",
+        "minDamageRange": "85",
         "name": "Phaseshift VX-S",
         "overheatPenalty": "1000",
         "pelletSpread": "0",
@@ -16574,6 +16568,7 @@
         "category": "Pistol",
         "chamber": "315",
         "clip": "16",
+        "damage": "50",
         "defZoom": "1",
         "description": "Reverse-engineered from ancient Vanu tech, the Spiker makes use of a standard 2x burst, as well as an alternate firing mode which charges up an armor piercing blast.",
         "fireModes": [],
@@ -17100,6 +17095,7 @@
         "category": "Heavy Weapon",
         "chamber": "1000",
         "clip": "15",
+        "damage": "112",
         "defZoom": "1",
         "description": "The NC05 Jackhammer's stopping power and sustained fire capabilities make it a frightening weapon in close quarters combat. It features a unique burst fire mode that doubles its rate of fire. NC use only.",
         "directDamage": "112",
@@ -17503,6 +17499,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CB",
+        "pelletSpread": "0",
         "pellets": "1",
         "reload": "1850",
         "speed": "550"
@@ -18122,7 +18119,7 @@
         "pelletSpread": "0",
         "pellets": "1",
         "reload": "4000",
-        "speed": "50"
+        "speed": "150"
     },
     "803007": {
         "category": "Pistol",
