@@ -28232,7 +28232,7 @@
     "6009605": {
         "category": "Infantry Abilities",
         "damage": "25",
-        "description": "This handheld version of the mining laser technology patented by Nascent Expeditions is primarily used to liquify crystalized ore, but can be used to ward off enemies in a pinch. All factions can use this weapon.",
+        "description": "This handheld version of the mining laser technology patented by Nascent Expeditions is primarily used to liquify crystalized ore, but can be used to ward off enemies in a pinch.",
         "fireModes": [
             "Mineral Cutter"
         ],
