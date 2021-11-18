@@ -147,12 +147,12 @@
         "name": "Pumpkin Patch"
     },
     "2039": {
-        "description": "A prototype ANT design reconfigured for carrying infantry and MAX units.",
+        "description": "A prototype ANT reconfigured to act as an advanced mobile station.",
         "image_id": "84726",
         "name": "Deliverer Prototype"
     },
     "2040": {
-        "description": "This is a prototype configuration of the Valkyrie transport vehicle that can harvest and deposit Cortium while providing close-range anti-vehicle support.",
+        "description": "This is a prototype Valkyrie configuration can harvest and deposit Cortium.",
         "image_id": "79698",
         "name": "Wasp Prototype"
     },
