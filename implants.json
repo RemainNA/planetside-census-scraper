@@ -184,7 +184,7 @@
         "image": "89405"
     },
     "Infravision": {
-        "desc": "While equipped, the player will highlight infantry and vehicles within 125 meters at all times, while reducing vision at long range. <font color=\"#dc9c36\">MAX units can equip. Does not work in vehicles.</font>",
+        "desc": "While equipped, the player will highlight infantry and vehicles within 125 meters, while reducing vision at long range. <font color=\"#dc9c36\">MAX units can equip. Does not work in vehicles.</font>",
         "image": "87774"
     },
     "Jockey": {
@@ -340,7 +340,7 @@
         "2": "Your strafe speed is increased by 23%, but accelerating and decelerating while strafing takes twice as long.",
         "3": "Your strafe speed is increased by 28%, but accelerating and decelerating while strafing takes twice as long.",
         "4": "Your strafe speed is increased by 35%, but accelerating and decelerating while strafing takes twice as long.",
-        "5": "Your strafe speed is increased by 35%, but accelerating and decelerating while strafing takes twice as long. In addition, your backpedal speed is increased by 35% at all times.",
+        "5": "Your strafe speed is increased by 35%, but accelerating and decelerating while strafing takes twice as long. In addition, your backpedal speed is increased by 35%.",
         "image": "89302"
     },
     "Survivalist": {
