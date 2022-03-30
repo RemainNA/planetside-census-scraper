@@ -4,7 +4,7 @@
         "name": "Engineer AMR Secondary"
     },
     "6004308": {
-        "description": "Allows characters to equip sidearms in their primary weapon slot. Does not include Directive reward weapons. ",
+        "description": "Allows characters to equip sidearms in their primary weapon slot.",
         "name": "Sidearm Primaries"
     },
     "6004309": {
@@ -36,15 +36,15 @@
         "name": "Heavy Air Discount"
     },
     "6004316": {
-        "description": "Allows Shotguns to be equipped in the secondary weapon slot. Does not include Directive reward weapons. Engineer only.",
+        "description": "Allows Shotguns to be equipped in the secondary weapon slot. Engineer only.",
         "name": "Shotgun Secondary"
     },
     "6004317": {
-        "description": "Unlocks access to LMGs. Does not include Directive reward weapons. Engineer only.",
+        "description": "Unlocks access to LMGs. Engineer only.",
         "name": "LMG Access"
     },
     "6004318": {
-        "description": "Unlocks access to Assault Rifles. Does not include Directive reward weapons. Engineer only.",
+        "description": "Unlocks access to Assault Rifles. Engineer only.",
         "name": "Assault Rifle Access"
     },
     "6004319": {
@@ -60,7 +60,7 @@
         "name": "Carbine Secondary"
     },
     "6004322": {
-        "description": "Allows SMGs to be equipped in the secondary weapon slot. Does not include Directive reward weapons. Light Assault only.",
+        "description": "Allows SMGs to be equipped in the secondary weapon slot. Light Assault only.",
         "name": "SMG Secondary"
     },
     "6004323": {
@@ -76,11 +76,11 @@
         "name": "Light Assault Scout Rifle Access"
     },
     "6004326": {
-        "description": "Allows LMGs to be used in the secondary weapon slot. Does not include Directive reward weapons. Heavy Assault only.",
+        "description": "Allows LMGs to be used in the secondary weapon slot. Heavy Assault only.",
         "name": "LMG Secondary"
     },
     "6004327": {
-        "description": "Allows Heavy Weapons to be used in the secondary weapon slot. Does not include Directive reward weapons. Heavy Assault only.",
+        "description": "Allows Heavy Weapons to be used in the secondary weapon slot. Heavy Assault only.",
         "name": "Heavy Weapon Secondary"
     },
     "6004328": {
@@ -108,7 +108,7 @@
         "name": "Infiltrator SMG Secondary"
     },
     "6004334": {
-        "description": "Unlocks access to Carbines. Does not include Directive reward weapons. Infiltrator only.",
+        "description": "Unlocks access to Carbines. Infiltrator only.",
         "name": "Carbine Access"
     },
     "6004335": {
@@ -128,7 +128,7 @@
         "name": "Infiltrator Spitfire Turret Access"
     },
     "6004339": {
-        "description": "Allows use of Scout Rifles in the secondary weapon slot. Does not include Directive reward weapons. Combat Medic only.",
+        "description": "Allows use of Scout Rifles in the secondary weapon slot. Combat Medic only.",
         "name": "Scout Rifle Secondary"
     },
     "6004340": {
@@ -136,7 +136,7 @@
         "name": "Combat Medic Scout Rifle Access"
     },
     "6004341": {
-        "description": "Unlocks access to Carbines. Does not include Directive reward weapons. Combat Medic only.",
+        "description": "Unlocks access to Carbines. Combat Medic only.",
         "name": "Carbine Access"
     },
     "6004342": {

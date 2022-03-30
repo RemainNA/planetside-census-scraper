@@ -136,7 +136,7 @@
         "image": "88845"
     },
     "Experimental Stims": {
-        "desc": "Using a Stim will also provide 12 seconds of benefit from another rank 5 implant. The implant chosen is random from this list: Safe Fall, Vampire, Battle Hardened, Heavyweight, Response Jacket. Experimental Stims only triggers when there is no active benefit.",
+        "desc": "Passively increases the carry capacity of all stims by 1, and using a stim will provide 12 seconds of another rank 5 implant's benefits. The implant chosen is random from this list: Safe Fall, Vampire, Battle Hardened, Heavyweight, Response Jacket. Experimental Stims only triggers when there is no active benefit.",
         "image": "87717"
     },
     "Failsafe": {
@@ -360,11 +360,11 @@
         "image": "87512"
     },
     "Symbiote": {
-        "1": "While your personal shield is active, receiving small arms damage now heals 50 health immediately. This effect may only trigger once every 8 seconds.",
-        "2": "While your personal shield is active, receiving small arms damage now heals 50 health immediately. This effect may only trigger once every 7.5 seconds.",
-        "3": "While your personal shield is active, receiving small arms damage now heals 50 health immediately. This effect may only trigger once every 6 seconds.",
-        "4": "While your personal shield is active, receiving small arms damage now heals 50 health immediately. This effect may only trigger once every 4 seconds.",
-        "5": "While your personal shield is active, receiving small arms or common explosive damage now heals 50 health immediately. Both damage types have independent cooldowns, and each effect may only trigger once every 4 seconds.",
+        "1": "While your personal shield is active, receiving small arms damage now heals 125 health immediately. This effect may only trigger once every 8 seconds.",
+        "2": "While your personal shield is active, receiving small arms damage now heals 125 health immediately. This effect may only trigger once every 7.5 seconds.",
+        "3": "While your personal shield is active, receiving small arms damage now heals 125 health immediately. This effect may only trigger once every 6 seconds.",
+        "4": "While your personal shield is active, receiving small arms damage now heals 125 health immediately. This effect may only trigger once every 4 seconds.",
+        "5": "While your personal shield is active, receiving small arms or common explosive damage now heals 125 health immediately. Both damage types have independent cooldowns, and each effect may only trigger once every 4 seconds.",
         "image": "89058"
     },
     "Target Focus": {
