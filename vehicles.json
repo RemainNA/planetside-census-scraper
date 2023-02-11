@@ -62,8 +62,8 @@
         "name": "Valkyrie"
     },
     "15": {
-        "description": "ANT Prototype Description",
-        "image_id": "84726",
+        "description": "The ANT is a construction vehicle capable of siphoning Cortium from nodes found on the planet's surface, and can convert the stored energy into field equipment.",
+        "image_id": "95284",
         "name": "ANT"
     },
     "150": {
@@ -148,7 +148,7 @@
     },
     "2039": {
         "description": "A prototype ANT reconfigured to act as an advanced mobile station.",
-        "image_id": "84726",
+        "image_id": "95284",
         "name": "Deliverer Prototype"
     },
     "2040": {
@@ -217,8 +217,38 @@
     },
     "2136": {
         "description": "The Dervish is an airborne, heavy fighter. The pilot commands light forward-facing weaponry while a secondary gunner operates a top-turret that is capable of warding off enemy air vehicles and applying additional pressure to attack targets.",
-        "image_id": "3981",
+        "image_id": "93595",
         "name": "Dervish"
+    },
+    "2137": {
+        "description": "The Chimera sports wheels instead of treads, which increases maneuverability through rough terrain. Up to four additional rumble seat passengers may be carried, complementing the driver-operated main cannon, and forward-facing secondary turret.",
+        "image_id": "93592",
+        "name": "Chimera"
+    },
+    "2139": {
+        "description": "The Sunderer is a large transport capable of holding 12 soldiers.  It can also be outfitted with several support functions such as a mobile respawn station, vehicle repair or vehicle ammo resupply.",
+        "image_id": "4002",
+        "name": "Deliverer Prototype"
+    },
+    "2140": {
+        "description": "This prototype Galaxy configuration can deploy as an advanced mobile station.",
+        "image_id": "3978",
+        "name": "Lodestar Prototype"
+    },
+    "2141": {
+        "description": "The Valkyrie is a six person aircraft used for close air support and transportation. It is crewed by a pilot and a forward gunner with room for four passengers that are able to use their personal equipment while in flight.",
+        "image_id": "79698",
+        "name": "Wasp Prototype"
+    },
+    "2142": {
+        "description": "The Corsair assault craft has two gunner turrets, and can transport a total of 8 soldiers. The last 5 seats in the vehicle are fitted with a catapult system that launches personnel safely into battle.",
+        "image_id": "94995",
+        "name": "Corsair"
+    },
+    "2144": {
+        "description": "The Bastion is a multi-purpose airship with multiple weapon systems, soldier respawn capabilities and fighter launch pads.",
+        "image_id": "92694",
+        "name": "Derelict Fleet Carrier"
     },
     "3": {
         "description": "The Lightning is a light one man tank.  The Lightning can be outfitted with various types of turrets allowing it to fill anti-air and anti-armor roles.",

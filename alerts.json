@@ -311,6 +311,150 @@
         "description": "Control territory to lock Koltyr",
         "name": "Koltyr Enlightenment"
     },
+    "211": {
+        "description": "Control territory to lock Amerish",
+        "name": "Amerish Conquest"
+    },
+    "212": {
+        "description": "Control territory to lock Esamir",
+        "name": "Esamir Conquest"
+    },
+    "213": {
+        "description": "Control territory to lock Hossin",
+        "name": "Hossin Conquest"
+    },
+    "214": {
+        "description": "Control territory to lock Indar",
+        "name": "Indar Conquest"
+    },
+    "215": {
+        "description": "Control territory to lock Koltyr",
+        "name": "Koltyr Conquest"
+    },
+    "216": {
+        "description": "Escort your Payload Drone to its destination before enemies do the same.",
+        "name": "PAYLOAD"
+    },
+    "217": {
+        "description": "Escort your Payload Drone to its destination before enemies do the same.",
+        "name": "PAYLOAD"
+    },
+    "218": {
+        "description": "Escort your Payload Drone to its destination before enemies do the same.",
+        "name": "PAYLOAD"
+    },
+    "219": {
+        "description": "Escort your Payload Drone to its destination before enemies do the same.",
+        "name": "PAYLOAD"
+    },
+    "220": {
+        "description": "Escort your Payload Drone to its destination before enemies do the same.",
+        "name": "PAYLOAD"
+    },
+    "221": {
+        "description": "Escort your Payload Drone to its destination before enemies do the same.",
+        "name": "PAYLOAD"
+    },
+    "222": {
+        "description": "Control territory to lock Oshur",
+        "name": "Oshur Liberation"
+    },
+    "223": {
+        "description": "Control territory to lock Oshur",
+        "name": "Oshur Superiority"
+    },
+    "224": {
+        "description": "Control territory to lock Oshur",
+        "name": "Oshur Enlightenment"
+    },
+    "225": {
+        "description": "Take readings of aerial anomalies",
+        "name": "Aerial Anomalies"
+    },
+    "226": {
+        "description": "Control territory to lock Oshur",
+        "name": "Oshur Conquest"
+    },
+    "227": {
+        "description": "Control the most territory to conquer the continent",
+        "name": "OUTFIT WARS"
+    },
+    "228": {
+        "description": "Take readings of aerial anomalies",
+        "name": "Aerial Anomalies"
+    },
+    "229": {
+        "description": "Take readings of aerial anomalies",
+        "name": "Aerial Anomalies"
+    },
+    "230": {
+        "description": "Take readings of aerial anomalies",
+        "name": "Aerial Anomalies"
+    },
+    "231": {
+        "description": "Take readings of aerial anomalies",
+        "name": "Aerial Anomalies"
+    },
+    "232": {
+        "description": "Take readings of aerial anomalies",
+        "name": "Aerial Anomalies"
+    },
+    "233": {
+        "description": "Kill as many enemies as possible",
+        "name": "Maximum Pressure"
+    },
+    "234": {
+        "description": "Prepare for the Outfit War!",
+        "name": "OUTFIT WARS (pre-match)"
+    },
+    "235": {
+        "description": "Active Relics Changing",
+        "name": "OUTFIT WARS"
+    },
+    "236": {
+        "description": "Kill as many enemies as possible",
+        "name": "Sudden Death"
+    },
+    "237": {
+        "description": "Kill as many enemies as possible",
+        "name": "Sudden Death"
+    },
+    "238": {
+        "description": "Kill as many enemies as possible",
+        "name": "Sudden Death"
+    },
+    "239": {
+        "description": "Kill as many enemies as possible",
+        "name": "Sudden Death"
+    },
+    "240": {
+        "description": "Kill as many enemies as possible",
+        "name": "Sudden Death"
+    },
+    "241": {
+        "description": "Kill as many enemies as possible",
+        "name": "Sudden Death"
+    },
+    "242": {
+        "description": "Aircraft are free during this event.",
+        "name": "Forgotten Fleet Carrier"
+    },
+    "243": {
+        "description": "Aircraft are free during this event.",
+        "name": "Forgotten Fleet Carrier"
+    },
+    "244": {
+        "description": "Aircraft are free during this event.",
+        "name": "Forgotten Fleet Carrier"
+    },
+    "245": {
+        "description": "Aircraft are free during this event.",
+        "name": "Forgotten Fleet Carrier"
+    },
+    "246": {
+        "description": "Aircraft are free during this event.",
+        "name": "Forgotten Fleet Carrier"
+    },
     "3": {
         "description": "Capture Amerish within the time limit",
         "name": "Seeing Green"
