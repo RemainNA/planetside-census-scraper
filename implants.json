@@ -219,6 +219,10 @@
         "desc": "While piloting a vehicle, that vehicle becomes capable of spawning squadmates directly into it if there is an open seat.<font color=\"#dc9c36\"> Does not apply to Bastion Fleet Carriers.</font>",
         "image": "88154"
     },
+    "Logistics Specialist [Perfect]": {
+        "desc": "While piloting a vehicle, that vehicle becomes capable of spawning squadmates directly into it if there is an open seat.<font color=\"#dc9c36\"> Does not apply to Bastion Fleet Carriers.<br><br>Perfect implants cannot be broken down.</font>",
+        "image": "88154"
+    },
     "Mending Field": {
         "1": "Allies who are below 100 health passively heal for 15 health per second while you are within 7 meters. <font color=\"#dc9c36\">Combat Medic only.</font>",
         "2": "Allies who are below 150 health passively heal for 15 health per second while you are within 7 meters. <font color=\"#dc9c36\">Combat Medic only.</font>",
