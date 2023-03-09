@@ -8092,7 +8092,7 @@
         "ammo": "1",
         "category": "Knife",
         "clip": "1",
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although slower than the TR standard issue Chainblade, when wielded this knife can be activated, increasing its damage output. TR use only.",
         "directDamage": "500",
@@ -8116,7 +8116,7 @@
         "ammo": "1",
         "category": "Knife",
         "clip": "1",
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although slower than the VS standard issue Force-Blade, when wielded this knife can be activated, increasing its damage output. VS use only.",
         "directDamage": "500",
@@ -16232,6 +16232,7 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A \"Heatwave\"",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -20908,7 +20909,7 @@
         "ammo": "1",
         "category": "Knife",
         "clip": "1",
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although slower than the TR standard issue Chainblade, when wielded this knife can be activated, increasing its damage output. TR use only.",
         "directDamage": "500",
@@ -23885,7 +23886,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "PSA-02 Diamondback",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -33117,24 +33117,6 @@
         "standingCofMin": "0.2",
         "standingCofMinADS": "0.2"
     },
-    "6011914": {
-        "category": "Knife",
-        "damage": "600",
-        "description": "Settle your disputes in a gentlemanly manner with this modern take on the classic melee weapon. All factions can use this weapon.",
-        "fireModes": [
-            "Quick Melee",
-            "Melee"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "94610",
-        "name": "Wyrdwood Shillelagh",
-        "pelletSpread": "0",
-        "pellets": "1",
-        "reload": "0",
-        "speed": "13",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
     "6011915": {
         "category": "Explosive",
         "description": "Detonates on enemy movement and will temporarily blind, deafen, and reduce the accuracy of infantry within its blast radius.",
@@ -35630,6 +35612,7 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A Frontline",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -35706,7 +35689,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11C Frostbite",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -35871,6 +35853,66 @@
         "pelletSpread": "0",
         "pellets": "1",
         "speed": "30",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014760": {
+        "category": "Infantry Abilities",
+        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within 10 meters passively recover 40 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "93425",
+        "name": "Repair Drone 1",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014761": {
+        "category": "Infantry Abilities",
+        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within 10 meters passively recover 43 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "93425",
+        "name": "Repair Drone 2",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014762": {
+        "category": "Infantry Abilities",
+        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within 10 meters passively recover 46 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "93425",
+        "name": "Repair Drone 3",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014763": {
+        "category": "Infantry Abilities",
+        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within 10 meters passively recover 49 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "93425",
+        "name": "Repair Drone 4",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014764": {
+        "category": "Infantry Abilities",
+        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, MAX units, and construction objects within 10 meters passively recover 52 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "93425",
+        "name": "Repair Drone 5",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -37171,6 +37213,7 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -40319,10 +40362,10 @@
         "heatRecoveryDelay": "700",
         "hipCofRecoil": "0.8",
         "image_id": "13758",
-        "maxDamage": "400",
+        "maxDamage": "550",
         "maxDamageRange": "10",
-        "minDamage": "334",
-        "minDamageRange": "85",
+        "minDamage": "400",
+        "minDamageRange": "400",
         "name": "Phaseshift VX-S",
         "overheatPenalty": "1000",
         "pelletSpread": "0",
@@ -42411,6 +42454,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CP",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -42561,8 +42605,8 @@
         "hipCofRecoil": "0",
         "image_id": "2438",
         "name": "NC05 Jackhammer",
-        "pelletSpread": "2.5",
-        "pellets": "5",
+        "pelletSpread": "3.5",
+        "pellets": "4",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
         "recoilHorizontalMax": "0.4",
@@ -43688,6 +43732,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CG",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -46602,8 +46647,8 @@
         "hipCofRecoil": "0",
         "image_id": "84814",
         "name": "NC05 Jackhammer AE",
-        "pelletSpread": "3.5",
-        "pellets": "4",
+        "pelletSpread": "2.5",
+        "pellets": "5",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
         "recoilHorizontalMax": "0.4",
