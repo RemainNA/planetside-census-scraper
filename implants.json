@@ -92,11 +92,11 @@
         "image": "87720"
     },
     "Combat Surgeon": {
-        "1": "Kills and revives restore 15% of your Nano-Regen Device energy. <font color=\"#dc9c36\">Combat Medic only.</font>",
-        "2": "Kills and revives restore 18% of your Nano-Regen Device energy. <font color=\"#dc9c36\">Combat Medic only.</font>",
-        "3": "Kills and revives restore 23% of your Nano-Regen Device energy. <font color=\"#dc9c36\">Combat Medic only.</font>",
-        "4": "Kills and revives restore 30% of your Nano-Regen Device energy. <font color=\"#dc9c36\">Combat Medic only.</font>",
-        "5": "Kills and revives restore 30% of your Nano-Regen Device energy, and reviving an ally increases your resistance to small arms damage by 25% for 3.5 seconds. <font color=\"#dc9c36\">Combat Medic only.</font>",
+        "1": "Kills and revives restore 15% of your energy-based Combat Medic abilities. <font color=\"#dc9c36\">Combat Medic only.</font>",
+        "2": "Kills and revives restore 18% of your energy-based Combat Medic abilities. <font color=\"#dc9c36\">Combat Medic only.</font>",
+        "3": "Kills and revives restore 23% of your energy-based Combat Medic abilities. <font color=\"#dc9c36\">Combat Medic only.</font>",
+        "4": "Kills and revives restore 30% of your energy-based Combat Medic abilities. <font color=\"#dc9c36\">Combat Medic only.</font>",
+        "5": "Kills and revives restore 30% of your energy-based Combat Medic abilities, and reviving an ally increases your resistance to small arms damage by 25% for 3.5 seconds. <font color=\"#dc9c36\">Combat Medic only.</font>",
         "image": "88947"
     },
     "Counter-Intelligence": {
@@ -288,7 +288,7 @@
         "image": "88875"
     },
     "Phylactery": {
-        "desc": "Each time you are revived, a charge is added to the phylactery. At 3 charges, your next death will allow you to self-revive once at 50% health. Phylactery's self-revive does not count toward these charges. <font color=\"#dc9c36\">Charges cannot be gained while in a vehicle, and redeploying or using an equipment terminal will wipe your current progress. MAXes can use this implant.</font>",
+        "desc": "Each time you are revived, a charge is added to the phylactery. At 3 charges, your next death will allow you to self-revive once at 50% health. Phylactery's self-revive does not count toward these charges. <font color=\"#dc9c36\">Charges cannot be gained while in a vehicle, and redeploying or using an equipment terminal will wipe your current progress.</font>",
         "image": "88254"
     },
     "Ransack": {
@@ -340,11 +340,11 @@
         "image": "87479"
     },
     "Safeguard": {
-        "1": "Upon being revived, damage taken is reduced by 20% for 1.5 seconds. <font color=\"#dc9c36\">MAX units can equip.</font>",
-        "2": "Upon being revived, damage taken is reduced by 20% for 1.75 seconds. <font color=\"#dc9c36\">MAX units can equip.</font>",
-        "3": "Upon being revived, damage taken is reduced by 20% for 2.5 seconds. <font color=\"#dc9c36\">MAX units can equip.</font>",
-        "4": "Upon being revived, damage taken is reduced by 20% for 3.5 seconds. <font color=\"#dc9c36\">MAX units can equip.</font>",
-        "5": "Upon being revived, damage taken is reduced by 20% for 3.5 seconds, and you instantly restore 200 shield health as infantry, or an extra 500 health while in a MAX suit. <font color=\"#dc9c36\">MAX units can equip.</font>",
+        "1": "Upon being revived, damage taken is reduced by 20% for 1.5 seconds.",
+        "2": "Upon being revived, damage taken is reduced by 20% for 1.75 seconds.",
+        "3": "Upon being revived, damage taken is reduced by 20% for 2.5 seconds.",
+        "4": "Upon being revived, damage taken is reduced by 20% for 3.5 seconds.",
+        "5": "Upon being revived, damage taken is reduced by 20% for 3.5 seconds, and you instantly restore 200 shield health.",
         "image": "87558"
     },
     "Salvage": {
