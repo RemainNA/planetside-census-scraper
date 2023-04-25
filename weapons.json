@@ -37500,9 +37500,7 @@
         "defZoom": "1",
         "description": "The VLG fires a laser guided missile that seeks toward the gunner's crosshairs. The missile is effective against armor on direct hits and produces a moderate blast. Missile will detonate after traveling 400 meters. All factions can use this weapon.",
         "directDamage": "575",
-        "fireModes": [
-            "Laser Guided"
-        ],
+        "fireModes": [],
         "fireRate": "500",
         "image_id": "79709",
         "indirectDamage": "450",
