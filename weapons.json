@@ -14101,6 +14101,7 @@
     "553": {
         "adsCofRecoil": "0.25",
         "adsMoveSpeed": "1",
+        "category": "Vehicle Weapons",
         "defZoom": "2",
         "description": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "fireModes": [
