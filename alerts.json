@@ -455,6 +455,26 @@
         "description": "Aircraft are free during this event.",
         "name": "Forgotten Fleet Carrier"
     },
+    "251": {
+        "description": "Survive the nanite storm.",
+        "name": "Nanite Storm"
+    },
+    "252": {
+        "description": "Survive the nanite storm.",
+        "name": "Nanite Storm"
+    },
+    "253": {
+        "description": "Survive the nanite storm.",
+        "name": "Nanite Storm"
+    },
+    "254": {
+        "description": "Survive the nanite storm.",
+        "name": "Nanite Storm"
+    },
+    "255": {
+        "description": "Survive the nanite storm.",
+        "name": "Nanite Storm"
+    },
     "3": {
         "description": "Capture Amerish within the time limit",
         "name": "Seeing Green"

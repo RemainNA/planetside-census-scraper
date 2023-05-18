@@ -43,7 +43,7 @@
     },
     "1044": {
         "category": "Explosive",
-        "description": "A New Conglomerate anti-personnel Bouncing Betty that detonates upon detecting nearby enemy movement.",
+        "description": "A New Conglomerate anti-infantry Bouncing Betty that detonates upon detecting nearby enemy movement.",
         "fireModes": [
             "Thrown"
         ],
@@ -55,7 +55,7 @@
     },
     "1045": {
         "category": "Explosive",
-        "description": "A Vanu Sovereignty anti-personnel Proximity Mine that detonates upon detecting nearby enemy movement.",
+        "description": "A Vanu Sovereignty anti-infantry Proximity Mine that detonates upon detecting nearby enemy movement.",
         "fireModes": [
             "Thrown"
         ],
@@ -8091,7 +8091,7 @@
         "ammo": "1",
         "category": "Knife",
         "clip": "1",
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although slower than the TR standard issue Chainblade, when wielded this knife can be activated, increasing its damage output. TR use only.",
         "directDamage": "500",
@@ -11197,7 +11197,7 @@
     },
     "429": {
         "category": "Explosive",
-        "description": "A Terran Republic anti-personnel Claymore that detonates upon detecting enemy movement.",
+        "description": "A Terran Republic anti-infantry Claymore that detonates upon detecting enemy movement.",
         "fireModes": [
             "Thrown"
         ],
@@ -13721,7 +13721,7 @@
         "adsMoveSpeed": "1",
         "category": "Vehicle Weapons",
         "defZoom": "2",
-        "description": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+        "description": "The Xiphos Anti-Infantry Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "fireModes": [
             "Auto"
         ],
@@ -13735,7 +13735,7 @@
         "maxDamageRange": "10",
         "minDamage": "167",
         "minDamageRange": "85",
-        "name": "Xiphos Anti-Personnel Phalanx Turret",
+        "name": "Xiphos Anti-Infantry Phalanx Turret",
         "overheatPenalty": "2000",
         "reload": "0",
         "speed": "600",
@@ -13981,7 +13981,7 @@
         "adsMoveSpeed": "1",
         "category": "Vehicle Weapons",
         "defZoom": "2",
-        "description": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+        "description": "The Xiphos Anti-Infantry Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "fireModes": [
             "Auto"
         ],
@@ -13995,7 +13995,7 @@
         "maxDamageRange": "10",
         "minDamage": "167",
         "minDamageRange": "85",
-        "name": "Xiphos Anti-Personnel Phalanx Turret",
+        "name": "Xiphos Anti-Infantry Phalanx Turret",
         "overheatPenalty": "2000",
         "reload": "0",
         "speed": "600",
@@ -14103,7 +14103,7 @@
         "adsMoveSpeed": "1",
         "category": "Vehicle Weapons",
         "defZoom": "2",
-        "description": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+        "description": "The Xiphos Anti-Infantry Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "fireModes": [
             "Auto"
         ],
@@ -14117,7 +14117,7 @@
         "maxDamageRange": "10",
         "minDamage": "167",
         "minDamageRange": "85",
-        "name": "Xiphos Anti-Personnel Phalanx Turret",
+        "name": "Xiphos Anti-Infantry Phalanx Turret",
         "overheatPenalty": "2000",
         "reload": "0",
         "speed": "600",
@@ -14131,7 +14131,7 @@
         "adsMoveSpeed": "1",
         "category": "Infantry Weapons",
         "defZoom": "1.35",
-        "description": "MANA (Manned Aggressor Neutralizing Assault) Anti-Personnel turret is deployed by engineers and is effective against soft and medium armored targets.",
+        "description": "MANA (Manned Aggressor Neutralizing Assault) Anti-Infantry turret is deployed by engineers and is effective against soft and medium armored targets.",
         "fireModes": [
             "Auto"
         ],
@@ -14145,7 +14145,7 @@
         "maxDamageRange": "10",
         "minDamage": "125",
         "minDamageRange": "65",
-        "name": "MANA Anti-Personnel Turret",
+        "name": "MANA Anti-Infantry Turret",
         "overheatPenalty": "1000",
         "reload": "3000",
         "speed": "600",
@@ -14159,7 +14159,7 @@
         "adsMoveSpeed": "1",
         "category": "Infantry Weapons",
         "defZoom": "1.35",
-        "description": "MANA (Manned Aggressor Neutralizing Assault) Anti-Personnel turret is deployed by engineers and is effective against soft and medium armored targets.",
+        "description": "MANA (Manned Aggressor Neutralizing Assault) Anti-Infantry turret is deployed by engineers and is effective against soft and medium armored targets.",
         "fireModes": [
             "Auto"
         ],
@@ -14174,7 +14174,7 @@
         "maxDamageRange": "10",
         "minDamage": "125",
         "minDamageRange": "65",
-        "name": "MANA Anti-Personnel Turret",
+        "name": "MANA Anti-Infantry Turret",
         "overheatPenalty": "1000",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
@@ -14191,7 +14191,7 @@
         "adsMoveSpeed": "1",
         "category": "Infantry Weapons",
         "defZoom": "1.35",
-        "description": "MANA (Manned Aggressor Neutralizing Assault) Anti-Personnel turret is deployed by engineers and is effective against soft and medium armored targets.",
+        "description": "MANA (Manned Aggressor Neutralizing Assault) Anti-Infantry turret is deployed by engineers and is effective against soft and medium armored targets.",
         "fireModes": [
             "Auto"
         ],
@@ -14206,7 +14206,7 @@
         "maxDamageRange": "10",
         "minDamage": "125",
         "minDamageRange": "65",
-        "name": "MANA Anti-Personnel Turret",
+        "name": "MANA Anti-Infantry Turret",
         "overheatPenalty": "1000",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
@@ -14223,7 +14223,7 @@
         "adsMoveSpeed": "1",
         "category": "Infantry Weapons",
         "defZoom": "1.35",
-        "description": "MANA (Manned Aggressor Neutralizing Assault) Anti-Personnel turret is deployed by engineers and is effective against soft and medium armored targets.",
+        "description": "MANA (Manned Aggressor Neutralizing Assault) Anti-Infantry turret is deployed by engineers and is effective against soft and medium armored targets.",
         "fireModes": [
             "Auto"
         ],
@@ -14238,7 +14238,7 @@
         "maxDamageRange": "10",
         "minDamage": "125",
         "minDamageRange": "65",
-        "name": "MANA Anti-Personnel Turret",
+        "name": "MANA Anti-Infantry Turret",
         "overheatPenalty": "1000",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
@@ -14416,8 +14416,8 @@
             "Auto"
         ],
         "hipCofRecoil": "0",
-        "image_id": "85883",
-        "name": "Alarm Module",
+        "image_id": "96119",
+        "name": "Recon Array",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -14428,8 +14428,8 @@
             "Auto"
         ],
         "hipCofRecoil": "0",
-        "image_id": "85883",
-        "name": "Alarm Module",
+        "image_id": "96119",
+        "name": "Recon Array",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -14440,8 +14440,8 @@
             "Auto"
         ],
         "hipCofRecoil": "0",
-        "image_id": "85883",
-        "name": "Alarm Module",
+        "image_id": "96119",
+        "name": "Recon Array",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -16167,7 +16167,7 @@
             "Deployable"
         ],
         "hipCofRecoil": "0",
-        "image_id": "86715",
+        "image_id": "96195",
         "name": "Router",
         "standingCofMax": "0",
         "standingCofMin": "0"
@@ -16179,7 +16179,7 @@
             "Deployable"
         ],
         "hipCofRecoil": "0",
-        "image_id": "86715",
+        "image_id": "96195",
         "name": "Router",
         "standingCofMax": "0",
         "standingCofMin": "0"
@@ -16191,7 +16191,7 @@
             "Deployable"
         ],
         "hipCofRecoil": "0",
-        "image_id": "86715",
+        "image_id": "96195",
         "name": "Router",
         "standingCofMax": "0",
         "standingCofMin": "0"
@@ -16231,7 +16231,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A \"Heatwave\"",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -17596,8 +17595,8 @@
         "hipCofRecoil": "0",
         "image_id": "88577",
         "name": "NC05-P Jackhammer",
-        "pelletSpread": "2.5",
-        "pellets": "5",
+        "pelletSpread": "3.5",
+        "pellets": "4",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
         "recoilHorizontalMax": "0.4",
@@ -17905,18 +17904,6 @@
         "standingCofMinADS": "0.1",
         "verticalRecoil": "0.3"
     },
-    "6004284": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a spire that will damage enemy infantry and MAX within 15 meters of the spire. All Factions can use this item.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "89065",
-        "name": "Pain Spire",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
     "6004286": {
         "category": "Infantry Abilities",
         "description": "Allows cortium to be used to create a spire that, when powered, houses a spawnpoint Router. All Factions can use this item.",
@@ -18140,30 +18127,6 @@
         "standingCofMin": "1",
         "standingCofMinADS": "0.3",
         "verticalRecoil": "0.23"
-    },
-    "6004421": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a spire that will damage enemy infantry and MAX within 15 meters of the spire. All Factions can use this item.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "89065",
-        "name": "Pain Spire",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "6004423": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a spire that will damage enemy infantry and MAX within 15 meters of the spire. All Factions can use this item.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "89065",
-        "name": "Pain Spire",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
     },
     "6004425": {
         "category": "Infantry Abilities",
@@ -19150,7 +19113,7 @@
         "crouchWalkingCofMin": "0.5",
         "crouchingCofMax": "0.5",
         "crouchingCofMin": "0.5",
-        "description": "The standard anti-personnel fragmentation grenade provided to Nanite Systems Operatives. <font color=\"#dc9c36\"><br><br>3 second fuse.</font>",
+        "description": "The standard anti-infantry fragmentation grenade provided to Nanite Systems Operatives. <font color=\"#dc9c36\"><br><br>3 second fuse.</font>",
         "fallingCofMax": "7",
         "fallingCofMin": "7",
         "fireModes": [
@@ -20599,7 +20562,7 @@
         "adsMoveSpeed": "1",
         "category": "Infantry Weapons",
         "defZoom": "1.35",
-        "description": "MANA (Manned Aggressor Neutralizing Assault) Anti-Personnel turret is deployed by engineers and is effective against soft and medium armored targets.",
+        "description": "MANA (Manned Aggressor Neutralizing Assault) Anti-Infantry turret is deployed by engineers and is effective against soft and medium armored targets.",
         "fireModes": [
             "Auto"
         ],
@@ -20614,7 +20577,7 @@
         "maxDamageRange": "10",
         "minDamage": "125",
         "minDamageRange": "65",
-        "name": "MANA Anti-Personnel Turret",
+        "name": "MANA Anti-Infantry Turret",
         "overheatPenalty": "1000",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
@@ -20884,7 +20847,7 @@
         "ammo": "1",
         "category": "Knife",
         "clip": "1",
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although slower than the VS standard issue Force-Blade, when wielded this knife can be activated, increasing its damage output. VS use only.",
         "directDamage": "500",
@@ -20908,7 +20871,7 @@
         "ammo": "1",
         "category": "Knife",
         "clip": "1",
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although slower than the TR standard issue Chainblade, when wielded this knife can be activated, increasing its damage output. TR use only.",
         "directDamage": "500",
@@ -21675,13 +21638,13 @@
     },
     "6005624": {
         "category": "Infantry Abilities",
-        "description": "Construct a Xiphos Anti-Personnel Phalanx Tower that may be manned by allied players.",
+        "description": "Construct a Xiphos Anti-Infantry Phalanx Tower that may be manned by allied players.",
         "fireModes": [
             "Auto"
         ],
         "hipCofRecoil": "0",
         "image_id": "85836",
-        "name": "Xiphos Anti-Personnel Tower",
+        "name": "Xiphos Anti-Infantry Tower",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -21704,8 +21667,8 @@
             "Auto"
         ],
         "hipCofRecoil": "0",
-        "image_id": "85883",
-        "name": "Alarm Module",
+        "image_id": "96119",
+        "name": "Recon Array",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -21872,7 +21835,7 @@
             "Deployable"
         ],
         "hipCofRecoil": "0",
-        "image_id": "86715",
+        "image_id": "96195",
         "name": "Router",
         "standingCofMax": "0",
         "standingCofMin": "0"
@@ -22036,18 +21999,6 @@
         "hipCofRecoil": "0",
         "image_id": "89068",
         "name": "Routing Spire",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "6005706": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a spire that will damage enemy infantry and MAX within 15 meters of the spire. All Factions can use this item.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "89065",
-        "name": "Pain Spire",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -26252,7 +26203,7 @@
         ],
         "hipCofRecoil": "0",
         "image_id": "92725",
-        "name": "Cortium Bomb",
+        "name": "Cortium Bomb Module",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -28011,7 +27962,7 @@
     },
     "6009600": {
         "category": "Knife",
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Originally developed for exploration on Esamir as a companion tool to the NS Icebreaker, the Firebug has recently gained popularity among soldiers looking for a more dramatic option in close-quarters combat.",
         "fireModes": [
@@ -28024,7 +27975,6 @@
         "name": "NS Firebug",
         "pelletSpread": "0",
         "pellets": "1",
-        "reload": "0",
         "speed": "13",
         "standingCofMax": "0",
         "standingCofMin": "0"
@@ -30601,24 +30551,6 @@
         "standingCofMaxADS": "7",
         "standingCofMin": "4",
         "standingCofMinADS": "4"
-    },
-    "6011053": {
-        "category": "Knife",
-        "damage": "500",
-        "description": "These alien shards are held in place with a psykinetic link channeled through the gauntlet. This weapon was re-created from Briggs' original design, constructed after his mind-altering encounter with an ancient Vanu artifact.",
-        "fireModes": [
-            "Quick Melee",
-            "Melee"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "92271",
-        "name": "Ancient Psykinetic Blade",
-        "pelletSpread": "0",
-        "pellets": "1",
-        "reload": "0",
-        "speed": "13",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
     },
     "6011064": {
         "adsCofRecoil": "1",
@@ -35918,6 +35850,7 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A Frontline",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -35942,7 +35875,7 @@
     },
     "6014446": {
         "category": "Knife",
-        "damage": "500",
+        "damage": "600",
         "defZoom": "1",
         "description": "Carve your way through hordes of frosty foes with this Auraximas-themed hatchet. All factions can use this weapon.",
         "fireModes": [
@@ -36159,6 +36092,126 @@
         "pelletSpread": "0",
         "pellets": "1",
         "speed": "30",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014578": {
+        "category": "Infantry Abilities",
+        "description": "Allows cortium to be used to create a tree stand structure that can be used by infantry units.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96113",
+        "name": "Infantry Tree Stand",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014580": {
+        "category": "Infantry Abilities",
+        "description": "Allows cortium to be used to create a tree stand structure that can be used by infantry units.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96113",
+        "name": "Infantry Tree Stand",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014582": {
+        "category": "Infantry Abilities",
+        "description": "Allows cortium to be used to create a tree stand structure that can be used by infantry units.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96113",
+        "name": "Infantry Tree Stand",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014584": {
+        "category": "Infantry Abilities",
+        "description": "Allows cortium to be used to create a tree stand structure that can be used by infantry units.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96113",
+        "name": "Infantry Tree Stand",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014585": {
+        "category": "Infantry Abilities",
+        "description": "Reserve Silos hold up to 25,000 Cortium and offer supplemental storage for the builder of the base. ANTs are required to deposit additional Cortium into a Silo.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96104",
+        "name": "Cortium Silo Reserve",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014586": {
+        "category": "Infantry Abilities",
+        "description": "Reserve Silos hold up to 25,000 Cortium and offer supplemental storage for the builder of the base. ANTs are required to deposit additional Cortium into a Silo.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96104",
+        "name": "Cortium Silo Reserve",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014587": {
+        "category": "Infantry Abilities",
+        "description": "Reserve Silos hold up to 25,000 Cortium and offer supplemental storage for the builder of the base. ANTs are required to deposit additional Cortium into a Silo.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96104",
+        "name": "Cortium Silo Reserve",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014588": {
+        "category": "Infantry Abilities",
+        "description": "Reserve Silos hold up to 25,000 Cortium and offer supplemental storage for the builder of the base. ANTs are required to deposit additional Cortium into a Silo.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96104",
+        "name": "Cortium Silo Reserve",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014603": {
+        "category": "Infantry Abilities",
+        "description": "Allows cortium to be used to create a tunnel structure that can be used by infantry units.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96078",
+        "name": "Infantry Tunnel",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014614": {
+        "category": "Infantry Abilities",
+        "description": "Constructs a large, fortified Command Center with a spawn room, aircraft pad, vehicle pad, and four module sockets.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96107",
+        "name": "Command Center",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -36392,6 +36445,66 @@
         "standingCofMinADS": "0.075",
         "verticalRecoil": "0.4"
     },
+    "6014727": {
+        "category": "Infantry Abilities",
+        "description": "Calls down an Orbital Mining Drill that will periodically expose Cortium Nodes near the marked location. Lasts for 5 minutes. Mining will temporarily cease if enemy forces are nearby.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96229",
+        "name": "Orbital Mining Drill",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014728": {
+        "category": "Infantry Abilities",
+        "description": "Calls down an Orbital Mining Drill that will periodically expose Cortium Nodes near the marked location. Lasts for 5 minutes. Mining will temporarily cease if enemy forces are nearby.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96229",
+        "name": "Orbital Mining Drill",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014729": {
+        "category": "Infantry Abilities",
+        "description": "Calls down an Orbital Mining Drill that will periodically expose Cortium Nodes near the marked location. Lasts for 5 minutes. Mining will temporarily cease if enemy forces are nearby.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96229",
+        "name": "Orbital Mining Drill",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014730": {
+        "category": "Infantry Abilities",
+        "description": "Calls down an Orbital Mining Drill that will periodically expose Cortium Nodes near the marked location. Lasts for 5 minutes. Mining will temporarily cease if enemy forces are nearby.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96229",
+        "name": "Orbital Mining Drill",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014748": {
+        "category": "Infantry Abilities",
+        "description": "Allows cortium to be used to create an awning structure that can be used by infantry units.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96075",
+        "name": "Infantry Awning",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
     "6014760": {
         "category": "Infantry Abilities",
         "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within 10 meters passively recover 40 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
@@ -36452,6 +36565,18 @@
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
+    "6014778": {
+        "category": "Infantry Abilities",
+        "description": "Constructs a secure spawn location with a built-in equipment terminal and two module sockets.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96110",
+        "name": "Rebirthing Center",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
     "6014780": {
         "category": "Knife",
         "damage": "600",
@@ -36462,7 +36587,494 @@
         ],
         "hipCofRecoil": "0",
         "image_id": "96066",
-        "name": "Fishing Spear",
+        "name": "Wavestinger Harpoon",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014813": {
+        "category": "Infantry Abilities",
+        "description": "Allows cortium to be used to create a bridge that can be used by infantry and vehicle units.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96147",
+        "name": "Vehicle Bridge",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014815": {
+        "category": "Infantry Abilities",
+        "description": "Allows cortium to be used to create a narrow bulwark wall that can be used by infantry units.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96122",
+        "name": "Narrow Bulwark Wall",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014817": {
+        "category": "Infantry Abilities",
+        "description": "Allows cortium to be used to create a wide bulwark wall that can be used by infantry units.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96125",
+        "name": "Wide Bulwark Wall",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014819": {
+        "category": "Infantry Abilities",
+        "description": "Allows cortium, at the normal cost, to be used to create various modules for players to slot into sockets attached to structures. Once cortium is drained from the dispenser, it will replenish its cortium from the nearby silo.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96116",
+        "name": "Module Dispenser",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014825": {
+        "adsCofRecoil": "0.05",
+        "adsMoveSpeed": "0.75",
+        "ammo": "200",
+        "category": "SMG",
+        "chamber": "1060",
+        "clip": "25",
+        "crouchWalkingCofMax": "7",
+        "crouchWalkingCofMaxADS": "3",
+        "crouchWalkingCofMin": "1.25",
+        "crouchWalkingCofMinADS": "0.3",
+        "crouchingCofMax": "7",
+        "crouchingCofMaxADS": "3",
+        "crouchingCofMin": "1",
+        "crouchingCofMinADS": "0.3",
+        "defZoom": "1.35",
+        "description": "The Eridani SX5 fully automatic submachine gun excels in close quarter combat situations. VS use only.",
+        "fallingCofMax": "7",
+        "fallingCofMaxADS": "3",
+        "fallingCofMin": "7",
+        "fallingCofMinADS": "3",
+        "fireModes": [
+            "Auto"
+        ],
+        "fireRate": "80",
+        "firstShotMultiplier": "2",
+        "headshotMultiplier": "1",
+        "hipCofRecoil": "0.05",
+        "image_id": "96223",
+        "maxDamage": "143",
+        "maxDamageRange": "10",
+        "minDamage": "91",
+        "minDamageRange": "40",
+        "name": "\"Apex\" Eridani SX5",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "recoilAngleMax": "20",
+        "recoilAngleMin": "20",
+        "recoilHorizontalMax": "0.392",
+        "recoilHorizontalMin": "0.3",
+        "recoilHorizontalTolerance": "0.9",
+        "reload": "1740",
+        "runningCofMax": "7",
+        "runningCofMaxADS": "3",
+        "runningCofMin": "1.5",
+        "runningCofMinADS": "0.3",
+        "speed": "375",
+        "sprintingCofMax": "7",
+        "sprintingCofMaxADS": "3",
+        "sprintingCofMin": "5",
+        "sprintingCofMinADS": "2",
+        "standingCofMax": "7",
+        "standingCofMaxADS": "3",
+        "standingCofMin": "1",
+        "standingCofMinADS": "0.3",
+        "verticalRecoil": "0.2"
+    },
+    "6014826": {
+        "adsCofRecoil": "0.06",
+        "adsMoveSpeed": "0.75",
+        "ammo": "175",
+        "category": "SMG",
+        "chamber": "1145",
+        "clip": "25",
+        "crouchWalkingCofMax": "7",
+        "crouchWalkingCofMaxADS": "3",
+        "crouchWalkingCofMin": "1.25",
+        "crouchWalkingCofMinADS": "0.3",
+        "crouchingCofMax": "7",
+        "crouchingCofMaxADS": "3",
+        "crouchingCofMin": "1",
+        "crouchingCofMinADS": "0.3",
+        "defZoom": "1.35",
+        "description": "The AF-4 Cyclone is a fully automatic submachine gun that has a higher damage output than most weapons in its class. NC use only.",
+        "fallingCofMax": "7",
+        "fallingCofMaxADS": "3",
+        "fallingCofMin": "7",
+        "fallingCofMinADS": "3",
+        "fireModes": [
+            "Auto"
+        ],
+        "fireRate": "92",
+        "firstShotMultiplier": "2.5",
+        "headshotMultiplier": "1",
+        "hipCofRecoil": "0.06",
+        "image_id": "96217",
+        "maxDamage": "167",
+        "maxDamageRange": "6",
+        "minDamage": "100",
+        "minDamageRange": "46",
+        "name": "\"Apex\" AF-4 Cyclone",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "recoilAngleMax": "0",
+        "recoilAngleMin": "0",
+        "recoilHorizontalMax": "0.4",
+        "recoilHorizontalMin": "0.212",
+        "recoilHorizontalTolerance": "0.9",
+        "reload": "1855",
+        "runningCofMax": "7",
+        "runningCofMaxADS": "3",
+        "runningCofMin": "1.5",
+        "runningCofMinADS": "0.3",
+        "speed": "375",
+        "sprintingCofMax": "7",
+        "sprintingCofMaxADS": "3",
+        "sprintingCofMin": "5",
+        "sprintingCofMinADS": "2",
+        "standingCofMax": "7",
+        "standingCofMaxADS": "3",
+        "standingCofMin": "1",
+        "standingCofMinADS": "0.3",
+        "verticalRecoil": "0.3"
+    },
+    "6014827": {
+        "adsCofRecoil": "0.05",
+        "adsMoveSpeed": "0.75",
+        "ammo": "240",
+        "category": "SMG",
+        "chamber": "670",
+        "clip": "30",
+        "crouchWalkingCofMax": "7",
+        "crouchWalkingCofMaxADS": "3",
+        "crouchWalkingCofMin": "1.25",
+        "crouchWalkingCofMinADS": "0.3",
+        "crouchingCofMax": "7",
+        "crouchingCofMaxADS": "3",
+        "crouchingCofMin": "1",
+        "crouchingCofMinADS": "0.3",
+        "defZoom": "1.35",
+        "description": "The SMG-46 Armistice fully automatic submachine gun features an extremely fast rate of fire. TR use only.",
+        "fallingCofMax": "7",
+        "fallingCofMaxADS": "3",
+        "fallingCofMin": "7",
+        "fallingCofMinADS": "3",
+        "fireModes": [
+            "Auto"
+        ],
+        "fireRate": "67",
+        "firstShotMultiplier": "2",
+        "headshotMultiplier": "1",
+        "hipCofRecoil": "0.05",
+        "image_id": "96220",
+        "maxDamage": "125",
+        "maxDamageRange": "6",
+        "minDamage": "84",
+        "minDamageRange": "42",
+        "name": "\"Apex\" SMG-46 Armistice",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "recoilAngleMax": "0",
+        "recoilAngleMin": "0",
+        "recoilHorizontalMax": "0.376",
+        "recoilHorizontalMin": "0.347",
+        "recoilHorizontalTolerance": "0.9",
+        "reload": "2250",
+        "runningCofMax": "7",
+        "runningCofMaxADS": "3",
+        "runningCofMin": "1.5",
+        "runningCofMinADS": "0.3",
+        "speed": "375",
+        "sprintingCofMax": "7",
+        "sprintingCofMaxADS": "3",
+        "sprintingCofMin": "5",
+        "sprintingCofMinADS": "2",
+        "standingCofMax": "7",
+        "standingCofMaxADS": "3",
+        "standingCofMin": "1",
+        "standingCofMinADS": "0.3",
+        "verticalRecoil": "0.15"
+    },
+    "6014828": {
+        "adsCofRecoil": "0.05",
+        "adsMoveSpeed": "0.75",
+        "ammo": "240",
+        "category": "SMG",
+        "chamber": "400",
+        "clip": "40",
+        "crouchWalkingCofMax": "7",
+        "crouchWalkingCofMaxADS": "3",
+        "crouchWalkingCofMin": "1.25",
+        "crouchWalkingCofMinADS": "0.3",
+        "crouchingCofMax": "7",
+        "crouchingCofMaxADS": "3",
+        "crouchingCofMin": "1",
+        "crouchingCofMinADS": "0.3",
+        "defZoom": "1.35",
+        "description": "The incredibly popular PMG-100 became standard-issue after operatives lauded its high rate of fire, and the versatility afforded by its large magazine. NSO use only.",
+        "fallingCofMax": "7",
+        "fallingCofMaxADS": "3",
+        "fallingCofMin": "7",
+        "fallingCofMinADS": "3",
+        "fireModes": [
+            "Auto"
+        ],
+        "fireRate": "67",
+        "firstShotMultiplier": "2",
+        "headshotMultiplier": "1",
+        "hipCofRecoil": "0.05",
+        "image_id": "96226",
+        "maxDamage": "112",
+        "maxDamageRange": "10",
+        "minDamage": "84",
+        "minDamageRange": "40",
+        "name": "\"Apex\" PMG-100",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "recoilAngleMax": "20",
+        "recoilAngleMin": "17",
+        "recoilHorizontalMax": "0.331",
+        "recoilHorizontalMin": "0.3",
+        "recoilHorizontalTolerance": "0.75",
+        "reload": "1850",
+        "runningCofMax": "7",
+        "runningCofMaxADS": "3",
+        "runningCofMin": "1.5",
+        "runningCofMinADS": "0.3",
+        "speed": "450",
+        "sprintingCofMax": "7",
+        "sprintingCofMaxADS": "3",
+        "sprintingCofMin": "5",
+        "sprintingCofMinADS": "2",
+        "standingCofMax": "7",
+        "standingCofMaxADS": "3",
+        "standingCofMin": "1",
+        "standingCofMinADS": "0.3",
+        "verticalRecoil": "0.2"
+    },
+    "6014932": {
+        "category": "Infantry Abilities",
+        "description": "Modified Blast Wall to now allow infantry traversal. Once fully constructed can withstand a moderate amount of damage.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96141",
+        "name": "Blast Gate",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014935": {
+        "category": "Infantry Abilities",
+        "description": "A light source that infantry can place to brighten their surroundings.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96144",
+        "name": "Light Post",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014952": {
+        "adsCofRecoil": "0.05",
+        "adsMoveSpeed": "1",
+        "chamber": "1000",
+        "crouchWalkingCofMax": "7",
+        "crouchWalkingCofMaxADS": "7",
+        "crouchWalkingCofMin": "2",
+        "crouchWalkingCofMinADS": "2",
+        "crouchingCofMax": "7",
+        "crouchingCofMaxADS": "7",
+        "crouchingCofMin": "1.5",
+        "crouchingCofMinADS": "1.5",
+        "defZoom": "1",
+        "description": "The NS-D Helios is a fiery weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
+        "fallingCofMax": "7",
+        "fallingCofMaxADS": "7",
+        "fallingCofMin": "7",
+        "fallingCofMinADS": "7",
+        "fireModes": [
+            "5x Burst",
+            "Semi-Auto"
+        ],
+        "firstShotMultiplier": "1",
+        "headshotMultiplier": "1",
+        "hipCofRecoil": "0.1",
+        "image_id": -1,
+        "maxDamage": "125",
+        "maxDamageRange": "10",
+        "minDamage": "100",
+        "minDamageRange": "40",
+        "name": "NS-D Helios",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "recoilAngleMax": "25",
+        "recoilAngleMin": "23",
+        "recoilHorizontalMax": "0.3",
+        "recoilHorizontalMin": "0.225",
+        "recoilHorizontalTolerance": "0",
+        "reload": "4000",
+        "runningCofMax": "7",
+        "runningCofMaxADS": "7",
+        "runningCofMin": "2.5",
+        "runningCofMinADS": "2.5",
+        "speed": "600",
+        "sprintingCofMax": "7",
+        "sprintingCofMaxADS": "7",
+        "sprintingCofMin": "5",
+        "sprintingCofMinADS": "5",
+        "standingCofMax": "7",
+        "standingCofMaxADS": "7",
+        "standingCofMin": "2",
+        "standingCofMinADS": "2",
+        "verticalRecoil": "0.2"
+    },
+    "6014956": {
+        "adsCofRecoil": "0.05",
+        "adsMoveSpeed": "1",
+        "ammo": "450",
+        "category": "Heavy Weapon",
+        "chamber": "1000",
+        "clip": "150",
+        "crouchWalkingCofMax": "7",
+        "crouchWalkingCofMaxADS": "7",
+        "crouchWalkingCofMin": "2",
+        "crouchWalkingCofMinADS": "2",
+        "crouchingCofMax": "7",
+        "crouchingCofMaxADS": "7",
+        "crouchingCofMin": "1.5",
+        "crouchingCofMinADS": "1.5",
+        "defZoom": "1",
+        "description": "The NS-D Helios is a fiery weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
+        "fallingCofMax": "7",
+        "fallingCofMaxADS": "7",
+        "fallingCofMin": "7",
+        "fallingCofMinADS": "7",
+        "fireModes": [
+            "5x Burst",
+            "Semi-Auto"
+        ],
+        "fireRate": "400",
+        "firstShotMultiplier": "1",
+        "headshotMultiplier": "1",
+        "hipCofRecoil": "0.1",
+        "image_id": "96150",
+        "maxDamage": "125",
+        "maxDamageRange": "10",
+        "minDamage": "100",
+        "minDamageRange": "40",
+        "name": "NS-D Helios",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "recoilAngleMax": "25",
+        "recoilAngleMin": "23",
+        "recoilHorizontalMax": "0.3",
+        "recoilHorizontalMin": "0.225",
+        "recoilHorizontalTolerance": "0",
+        "reload": "4000",
+        "runningCofMax": "7",
+        "runningCofMaxADS": "7",
+        "runningCofMin": "2.5",
+        "runningCofMinADS": "2.5",
+        "speed": "600",
+        "sprintingCofMax": "7",
+        "sprintingCofMaxADS": "7",
+        "sprintingCofMin": "5",
+        "sprintingCofMinADS": "5",
+        "standingCofMax": "7",
+        "standingCofMaxADS": "7",
+        "standingCofMin": "2",
+        "standingCofMinADS": "2",
+        "verticalRecoil": "0.2"
+    },
+    "6014957": {
+        "adsCofRecoil": "0.05",
+        "adsMoveSpeed": "1",
+        "ammo": "450",
+        "category": "Heavy Weapon",
+        "clip": "150",
+        "crouchWalkingCofMax": "7",
+        "crouchWalkingCofMaxADS": "7",
+        "crouchWalkingCofMin": "2",
+        "crouchWalkingCofMinADS": "2",
+        "crouchingCofMax": "7",
+        "crouchingCofMaxADS": "7",
+        "crouchingCofMin": "1.5",
+        "crouchingCofMinADS": "1.5",
+        "damage": "450",
+        "defZoom": "1",
+        "description": "The NS-D Helios is a fiery weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
+        "fallingCofMax": "7",
+        "fallingCofMaxADS": "7",
+        "fallingCofMin": "7",
+        "fallingCofMinADS": "7",
+        "fireModes": [
+            "5x Burst",
+            "Semi-Auto"
+        ],
+        "fireRate": "400",
+        "firstShotMultiplier": "1",
+        "headshotMultiplier": "1",
+        "hipCofRecoil": "0.1",
+        "image_id": "96153",
+        "maxDamage": "125",
+        "maxDamageRange": "10",
+        "minDamage": "100",
+        "minDamageRange": "40",
+        "name": "NS-D Helios EX",
+        "pellets": "1",
+        "recoilAngleMax": "25",
+        "recoilAngleMin": "23",
+        "recoilHorizontalMax": "0.3",
+        "recoilHorizontalMin": "0.225",
+        "recoilHorizontalTolerance": "0",
+        "reload": "4000",
+        "runningCofMax": "7",
+        "runningCofMaxADS": "7",
+        "runningCofMin": "2.5",
+        "runningCofMinADS": "2.5",
+        "speed": "40",
+        "sprintingCofMax": "7",
+        "sprintingCofMaxADS": "7",
+        "sprintingCofMin": "5",
+        "sprintingCofMinADS": "5",
+        "standingCofMax": "7",
+        "standingCofMaxADS": "7",
+        "standingCofMin": "2",
+        "standingCofMinADS": "2",
+        "verticalRecoil": "0.2"
+    },
+    "6014991": {
+        "category": "Knife",
+        "damage": "500",
+        "description": "The Fusion Blade boasts an impossibly sharp edge designed for close quarters combat.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96212",
+        "name": "NSX Fusion Blade",
         "pelletSpread": "0",
         "pellets": "1",
         "reload": "0",
@@ -40015,7 +40627,7 @@
         "adsMoveSpeed": "1",
         "category": "Vehicle Weapons",
         "defZoom": "2",
-        "description": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+        "description": "The Xiphos Anti-Infantry Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "fireModes": [
             "Auto"
         ],
@@ -40029,7 +40641,7 @@
         "maxDamageRange": "10",
         "minDamage": "167",
         "minDamageRange": "85",
-        "name": "Xiphos Anti-Personnel Phalanx Turret",
+        "name": "Xiphos Anti-Infantry Phalanx Turret",
         "overheatPenalty": "2000",
         "reload": "0",
         "speed": "600",
@@ -40044,13 +40656,13 @@
         "category": "Vehicle Weapons",
         "damage": "75",
         "defZoom": "1",
-        "description": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+        "description": "The Xiphos Anti-Infantry Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "fireModes": [
             "Auto"
         ],
         "hipCofRecoil": "0.25",
         "image_id": "880",
-        "name": "Xiphos Anti-Personnel Phalanx Turret",
+        "name": "Xiphos Anti-Infantry Phalanx Turret",
         "reload": "3000",
         "speed": "175",
         "standingCofMax": "1",
@@ -40355,13 +40967,13 @@
         "category": "Vehicle Weapons",
         "damage": "850",
         "defZoom": "1",
-        "description": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+        "description": "The Xiphos Anti-Infantry Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "fireModes": [
             "Semi-Auto"
         ],
         "hipCofRecoil": "0",
         "image_id": "880",
-        "name": "Xiphos Anti-Personnel Phalanx Turret",
+        "name": "Xiphos Anti-Infantry Phalanx Turret",
         "reload": "3750",
         "speed": "275",
         "standingCofMax": "0",
@@ -40916,10 +41528,10 @@
         "heatRecoveryDelay": "700",
         "hipCofRecoil": "0.8",
         "image_id": "13758",
-        "maxDamage": "550",
+        "maxDamage": "400",
         "maxDamageRange": "10",
-        "minDamage": "400",
-        "minDamageRange": "400",
+        "minDamage": "334",
+        "minDamageRange": "85",
         "name": "Phaseshift VX-S",
         "overheatPenalty": "1000",
         "pelletSpread": "0",
@@ -41769,6 +42381,7 @@
         "crouchingCofMaxADS": "3",
         "crouchingCofMin": "1",
         "crouchingCofMinADS": "0.5",
+        "damage": "50",
         "defZoom": "1",
         "description": "Reverse-engineered from ancient Vanu tech, the Spiker makes use of a standard 2x burst, as well as an alternate firing mode which charges up an armor piercing blast.",
         "fallingCofMax": "7",
@@ -43007,6 +43620,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CP",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -43955,7 +44569,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11AB",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -44070,7 +44683,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11AG",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -44128,6 +44740,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CG",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -46360,37 +46973,37 @@
     },
     "803591": {
         "category": "Infantry Abilities",
-        "description": "Construct a Xiphos Anti-Personnel Phalanx Tower that may be manned by allied players.",
+        "description": "Construct a Xiphos Anti-Infantry Phalanx Tower that may be manned by allied players.",
         "fireModes": [
             "Auto"
         ],
         "hipCofRecoil": "0",
         "image_id": "85836",
-        "name": "Xiphos Anti-Personnel Tower",
+        "name": "Xiphos Anti-Infantry Tower",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
     "803592": {
         "category": "Infantry Abilities",
-        "description": "Construct a Xiphos Anti-Personnel Phalanx Tower that may be manned by allied players.",
+        "description": "Construct a Xiphos Anti-Infantry Phalanx Tower that may be manned by allied players.",
         "fireModes": [
             "Auto"
         ],
         "hipCofRecoil": "0",
         "image_id": "85836",
-        "name": "Xiphos Anti-Personnel Tower",
+        "name": "Xiphos Anti-Infantry Tower",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
     "803593": {
         "category": "Infantry Abilities",
-        "description": "Construct a Xiphos Anti-Personnel Phalanx Tower that may be manned by allied players.",
+        "description": "Construct a Xiphos Anti-Infantry Phalanx Tower that may be manned by allied players.",
         "fireModes": [
             "Auto"
         ],
         "hipCofRecoil": "0",
         "image_id": "85836",
-        "name": "Xiphos Anti-Personnel Tower",
+        "name": "Xiphos Anti-Infantry Tower",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -46401,9 +47014,9 @@
         "fireModes": [
             "Auto"
         ],
-        "heatBleedOff": "16",
-        "heatCapacity": "50",
-        "heatPerShot": "1",
+        "heatBleedOff": "160",
+        "heatCapacity": "500",
+        "heatPerShot": "10",
         "heatRecoveryDelay": "1000",
         "image_id": "4046",
         "maxDamage": "130",
@@ -46424,9 +47037,9 @@
         "fireModes": [
             "Auto"
         ],
-        "heatBleedOff": "16",
-        "heatCapacity": "50",
-        "heatPerShot": "1",
+        "heatBleedOff": "160",
+        "heatCapacity": "500",
+        "heatPerShot": "10",
         "heatRecoveryDelay": "1000",
         "image_id": "4046",
         "maxDamage": "130",
@@ -46447,9 +47060,9 @@
         "fireModes": [
             "Auto"
         ],
-        "heatBleedOff": "16",
-        "heatCapacity": "50",
-        "heatPerShot": "1",
+        "heatBleedOff": "160",
+        "heatCapacity": "500",
+        "heatPerShot": "10",
         "heatRecoveryDelay": "1000",
         "image_id": "4046",
         "maxDamage": "130",
@@ -46470,9 +47083,9 @@
         "fireModes": [
             "Auto"
         ],
-        "heatBleedOff": "16",
-        "heatCapacity": "50",
-        "heatPerShot": "1",
+        "heatBleedOff": "160",
+        "heatCapacity": "500",
+        "heatPerShot": "10",
         "heatRecoveryDelay": "1000",
         "image_id": "4046",
         "maxDamage": "130",
@@ -46491,13 +47104,13 @@
         "adsMoveSpeed": "1",
         "category": "Vehicle Weapons",
         "defZoom": "2",
-        "description": "The Xiphos Anti-Personnel Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+        "description": "The Xiphos Anti-Infantry Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "fireModes": [
             "Auto"
         ],
-        "heatBleedOff": "25",
-        "heatCapacity": "80",
-        "heatPerShot": "1",
+        "heatBleedOff": "250",
+        "heatCapacity": "800",
+        "heatPerShot": "10",
         "heatRecoveryDelay": "500",
         "hipCofRecoil": "0",
         "image_id": "4043",
@@ -46505,7 +47118,7 @@
         "maxDamageRange": "10",
         "minDamage": "167",
         "minDamageRange": "85",
-        "name": "Xiphos Anti-Personnel Phalanx Tower",
+        "name": "Xiphos Anti-Infantry Phalanx Tower",
         "overheatPenalty": "2000",
         "reload": "0",
         "speed": "600",
@@ -46519,13 +47132,13 @@
         "adsMoveSpeed": "1",
         "category": "Vehicle Weapons",
         "defZoom": "2",
-        "description": "The Xiphos Anti-Personnel Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+        "description": "The Xiphos Anti-Infantry Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "fireModes": [
             "Auto"
         ],
-        "heatBleedOff": "25",
-        "heatCapacity": "80",
-        "heatPerShot": "1",
+        "heatBleedOff": "250",
+        "heatCapacity": "800",
+        "heatPerShot": "10",
         "heatRecoveryDelay": "500",
         "hipCofRecoil": "0",
         "image_id": "4052",
@@ -46533,7 +47146,7 @@
         "maxDamageRange": "10",
         "minDamage": "167",
         "minDamageRange": "85",
-        "name": "Xiphos Anti-Personnel Phalanx Tower",
+        "name": "Xiphos Anti-Infantry Phalanx Tower",
         "overheatPenalty": "2000",
         "reload": "0",
         "speed": "600",
@@ -46547,13 +47160,13 @@
         "adsMoveSpeed": "1",
         "category": "Vehicle Weapons",
         "defZoom": "2",
-        "description": "The Xiphos Anti-Personnel Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+        "description": "The Xiphos Anti-Infantry Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "fireModes": [
             "Auto"
         ],
-        "heatBleedOff": "25",
-        "heatCapacity": "80",
-        "heatPerShot": "1",
+        "heatBleedOff": "250",
+        "heatCapacity": "800",
+        "heatPerShot": "10",
         "heatRecoveryDelay": "500",
         "hipCofRecoil": "0",
         "image_id": "4043",
@@ -46561,7 +47174,7 @@
         "maxDamageRange": "10",
         "minDamage": "167",
         "minDamageRange": "85",
-        "name": "Xiphos Anti-Personnel Phalanx Tower",
+        "name": "Xiphos Anti-Infantry Phalanx Tower",
         "overheatPenalty": "2000",
         "reload": "0",
         "speed": "600",
@@ -46575,13 +47188,13 @@
         "adsMoveSpeed": "1",
         "category": "Vehicle Weapons",
         "defZoom": "2",
-        "description": "The Xiphos Anti-Personnel Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+        "description": "The Xiphos Anti-Infantry Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "fireModes": [
             "Auto"
         ],
-        "heatBleedOff": "25",
-        "heatCapacity": "80",
-        "heatPerShot": "1",
+        "heatBleedOff": "250",
+        "heatCapacity": "800",
+        "heatPerShot": "10",
         "heatRecoveryDelay": "500",
         "hipCofRecoil": "0",
         "image_id": "4043",
@@ -46589,7 +47202,7 @@
         "maxDamageRange": "10",
         "minDamage": "167",
         "minDamageRange": "85",
-        "name": "Xiphos Anti-Personnel Phalanx Tower",
+        "name": "Xiphos Anti-Infantry Phalanx Tower",
         "overheatPenalty": "2000",
         "reload": "0",
         "speed": "600",
@@ -46597,6 +47210,42 @@
         "standingCofMaxADS": "2",
         "standingCofMin": "1.1",
         "standingCofMinADS": "1.1"
+    },
+    "803602": {
+        "category": "Infantry Abilities",
+        "description": "Allows cortium to be used to create a tunnel structure that can be used by infantry units.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96078",
+        "name": "Infantry Tunnel",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "803603": {
+        "category": "Infantry Abilities",
+        "description": "Allows cortium to be used to create a tunnel structure that can be used by infantry units.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96078",
+        "name": "Infantry Tunnel",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "803604": {
+        "category": "Infantry Abilities",
+        "description": "Allows cortium to be used to create a tunnel structure that can be used by infantry units.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96078",
+        "name": "Infantry Tunnel",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
     },
     "803605": {
         "category": "Infantry Abilities",
@@ -46886,8 +47535,8 @@
         "hipCofRecoil": "0",
         "image_id": "84814",
         "name": "NC05 Jackhammer AE",
-        "pelletSpread": "2.5",
-        "pellets": "5",
+        "pelletSpread": "3.5",
+        "pellets": "4",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
         "recoilHorizontalMax": "0.4",
@@ -50997,7 +51646,7 @@
         "crouchingCofMinADS": "0.1",
         "damage": "725",
         "defZoom": "1.35",
-        "description": "The unguided Shrike rocket launcher is equipped with high-explosive warheads and has both anti-personnel and anti-armor capabilities. NC use only.",
+        "description": "The unguided Shrike rocket launcher is equipped with high-explosive warheads and has both anti-infantry and anti-armor capabilities. NC use only.",
         "directDamage": "725",
         "fallingCofMax": "7",
         "fallingCofMaxADS": "3",

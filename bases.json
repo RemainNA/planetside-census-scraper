@@ -1401,7 +1401,7 @@
     },
     "400329": {
         "continent": "344",
-        "name": "Mirror Bay Watchtower",
+        "name": "Centri Import Hub",
         "type": "Large Outpost"
     },
     "400330": {
@@ -1416,7 +1416,7 @@
     },
     "400332": {
         "continent": "344",
-        "name": "Centri Import Hub",
+        "name": "Bathala Overlook",
         "type": "Construction Outpost"
     },
     "400333": {
@@ -1601,17 +1601,17 @@
     },
     "400369": {
         "continent": "344",
-        "name": "Oshur Northwest Flotilla",
+        "name": "Oshur West Flotilla",
         "type": "Warpgate"
     },
     "400370": {
         "continent": "344",
-        "name": "Oshur Northeast Flotilla",
+        "name": "Oshur North Flotilla",
         "type": "Warpgate"
     },
     "400371": {
         "continent": "344",
-        "name": "Oshur South Flotilla",
+        "name": "Oshur Southeast Flotilla",
         "type": "Warpgate"
     },
     "400372": {
@@ -1656,7 +1656,7 @@
     },
     "400407": {
         "continent": "344",
-        "name": "Wakerift Beachhead",
+        "name": "Wakerift Plateau",
         "type": "Construction Outpost"
     },
     "400409": {
@@ -1726,12 +1726,22 @@
     },
     "400427": {
         "continent": "344",
-        "name": "Bathala Garden",
-        "type": "Construction Outpost"
+        "name": "Excavion Cleanup Site",
+        "type": "Large Outpost"
     },
     "400428": {
         "continent": "344",
         "name": "HMS Technologies",
+        "type": "Small Outpost"
+    },
+    "400430": {
+        "continent": "344",
+        "name": "Hunter's Respite",
+        "type": "Construction Outpost"
+    },
+    "400431": {
+        "continent": "344",
+        "name": "Leif Biochemical",
         "type": "Small Outpost"
     },
     "4010": {

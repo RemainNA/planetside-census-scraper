@@ -10,14 +10,14 @@
         "name": "Liberator"
     },
     "100": {
-        "description": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+        "description": "The Xiphos Anti-Infantry Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "image_id": "10950",
-        "name": "Xiphos Anti-Personnel Phalanx Turret"
+        "name": "Xiphos Anti-Infantry Phalanx Turret"
     },
     "101": {
-        "description": "MANA (Manned Aggressor Neutralizing Assault) Anti-Personnel turret is deployed by engineers and is effective against soft and medium armored targets.",
+        "description": "MANA (Manned Aggressor Neutralizing Assault) Anti-Infantry turret is deployed by engineers and is effective against soft and medium armored targets.",
         "image_id": "4040",
-        "name": "MANA Anti-Personnel Turret"
+        "name": "MANA Anti-Infantry Turret"
     },
     "1013": {
         "description": "A remote control aerial drone that can be used to spot enemy forces.",
@@ -87,9 +87,9 @@
         "name": "Aspis Anti-Aircraft Phalanx Tower"
     },
     "162": {
-        "description": "The Xiphos Anti-Personnel Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+        "description": "The Xiphos Anti-Infantry Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "image_id": "10950",
-        "name": "Xiphos Anti-Personnel Tower"
+        "name": "Xiphos Anti-Infantry Tower"
     },
     "163": {
         "description": "The Glaive Ionized Particle Cannon is unmanned mid-range artillery that disrupts defensive shield systems but only inflicts minor damage to personnel and equipment due to its lack of conventional payload. The IPC requires AI module support as well as a manually fired targeting dart to acquire a target.",
@@ -116,9 +116,9 @@
         "name": "Drop Pod"
     },
     "2009": {
-        "description": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+        "description": "The Xiphos Anti-Infantry Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
         "image_id": "10950",
-        "name": "Xiphos Anti-Personnel Phalanx Turret"
+        "name": "Xiphos Anti-Infantry Phalanx Turret"
     },
     "2010": {
         "description": "<font color=\"#dc9c36\">Single use consumable. Carry up to 2 on the field between resupplies.</font><br>The Flash XS-1 is a lightly armored, single-passenger vehicle designed for rapid deployment anywhere on the battlefield.",
