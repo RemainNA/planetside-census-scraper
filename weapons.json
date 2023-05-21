@@ -3218,6 +3218,7 @@
         "crouchingCofMaxADS": "3",
         "crouchingCofMin": "3.25",
         "crouchingCofMinADS": "0",
+        "damage": "125",
         "defZoom": "1",
         "description": "Co-developed with Genudine's Offense Development team, the NC6A GODSAW incorporates an alternate firing mode which allows the weapon to pierce heavy armor in exchange for reduced infantry damage.",
         "fallingCofMax": "7",
@@ -8091,7 +8092,7 @@
         "ammo": "1",
         "category": "Knife",
         "clip": "1",
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although slower than the TR standard issue Chainblade, when wielded this knife can be activated, increasing its damage output. TR use only.",
         "directDamage": "500",
@@ -8115,7 +8116,7 @@
         "ammo": "1",
         "category": "Knife",
         "clip": "1",
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although slower than the VS standard issue Force-Blade, when wielded this knife can be activated, increasing its damage output. VS use only.",
         "directDamage": "500",
@@ -15047,7 +15048,7 @@
         "runningCofMaxADS": "3",
         "runningCofMin": "5",
         "runningCofMinADS": "1",
-        "speed": "50",
+        "speed": "150",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "7",
@@ -16231,6 +16232,7 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A \"Heatwave\"",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -20847,7 +20849,7 @@
         "ammo": "1",
         "category": "Knife",
         "clip": "1",
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although slower than the VS standard issue Force-Blade, when wielded this knife can be activated, increasing its damage output. VS use only.",
         "directDamage": "500",
@@ -20871,7 +20873,7 @@
         "ammo": "1",
         "category": "Knife",
         "clip": "1",
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although slower than the TR standard issue Chainblade, when wielded this knife can be activated, increasing its damage output. TR use only.",
         "directDamage": "500",
@@ -21816,18 +21818,6 @@
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
-    "6005654": {
-        "category": "Infantry Abilities",
-        "description": "Provides allies with the location and movement of enemies within 50 meters of this module.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "86649",
-        "name": "Reconnaissance Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
     "6005655": {
         "category": "Infantry Abilities",
         "description": "When placed, the Router becomes a spawn point for allies.",
@@ -21903,54 +21893,6 @@
         "pellets": "1",
         "reload": "0",
         "speed": "13",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "6005666": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a module that, when powered, renders nearby structures nearly indestructible thanks to lightning-fast repairs. NC use only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85883",
-        "name": "Repair Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "6005668": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a module that, when powered, applies automated targeting systems to nearby constructed turrets, allowing them fire upon enemies while unmanned. NC use only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85874",
-        "name": "Turret AI Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "6005669": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a module that, when powered, applies one-way shields to structure openings to help protect the defenders inside. NC only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85886",
-        "name": "Structure Shield Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "6005672": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to construct a module that, when powered, protects against aerial bombardment and infantry drops. Structures in range will gain resistance to orbital strike damage. NC only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85880",
-        "name": "Skywall Shield Emitter",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -26195,18 +26137,6 @@
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
-    "6009069": {
-        "category": "Infantry Abilities",
-        "description": "Deploy a powerful cortium bomb that will explode after 20 seconds, doing high damage over a large radius. Detonation is cancelled if disarmed before the timer expires.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "92725",
-        "name": "Cortium Bomb Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
     "6009090": {
         "category": "Infantry Abilities",
         "description": "Deploys a Caltrop tank trap that inhibits the movement of vehicles. Lasts 30 minutes or until destroyed. Up to four Caltrops can be active at a time.",
@@ -27962,7 +27892,7 @@
     },
     "6009600": {
         "category": "Knife",
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Originally developed for exploration on Esamir as a companion tool to the NS Icebreaker, the Firebug has recently gained popularity among soldiers looking for a more dramatic option in close-quarters combat.",
         "fireModes": [
@@ -27975,6 +27905,7 @@
         "name": "NS Firebug",
         "pelletSpread": "0",
         "pellets": "1",
+        "reload": "0",
         "speed": "13",
         "standingCofMax": "0",
         "standingCofMin": "0"
@@ -28210,6 +28141,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11 \"Endeavor\" Carbine",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -35875,7 +35807,7 @@
     },
     "6014446": {
         "category": "Knife",
-        "damage": "600",
+        "damage": "500",
         "defZoom": "1",
         "description": "Carve your way through hordes of frosty foes with this Auraximas-themed hatchet. All factions can use this weapon.",
         "fireModes": [
@@ -36954,64 +36886,6 @@
         "adsMoveSpeed": "1",
         "ammo": "450",
         "category": "Heavy Weapon",
-        "chamber": "1000",
-        "clip": "150",
-        "crouchWalkingCofMax": "7",
-        "crouchWalkingCofMaxADS": "7",
-        "crouchWalkingCofMin": "2",
-        "crouchWalkingCofMinADS": "2",
-        "crouchingCofMax": "7",
-        "crouchingCofMaxADS": "7",
-        "crouchingCofMin": "1.5",
-        "crouchingCofMinADS": "1.5",
-        "defZoom": "1",
-        "description": "The NS-D Helios is a fiery weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
-        "fallingCofMax": "7",
-        "fallingCofMaxADS": "7",
-        "fallingCofMin": "7",
-        "fallingCofMinADS": "7",
-        "fireModes": [
-            "5x Burst",
-            "Semi-Auto"
-        ],
-        "fireRate": "400",
-        "firstShotMultiplier": "1",
-        "headshotMultiplier": "1",
-        "hipCofRecoil": "0.1",
-        "image_id": "96150",
-        "maxDamage": "125",
-        "maxDamageRange": "10",
-        "minDamage": "100",
-        "minDamageRange": "40",
-        "name": "NS-D Helios",
-        "pelletSpread": "0",
-        "pellets": "1",
-        "recoilAngleMax": "25",
-        "recoilAngleMin": "23",
-        "recoilHorizontalMax": "0.3",
-        "recoilHorizontalMin": "0.225",
-        "recoilHorizontalTolerance": "0",
-        "reload": "4000",
-        "runningCofMax": "7",
-        "runningCofMaxADS": "7",
-        "runningCofMin": "2.5",
-        "runningCofMinADS": "2.5",
-        "speed": "600",
-        "sprintingCofMax": "7",
-        "sprintingCofMaxADS": "7",
-        "sprintingCofMin": "5",
-        "sprintingCofMinADS": "5",
-        "standingCofMax": "7",
-        "standingCofMaxADS": "7",
-        "standingCofMin": "2",
-        "standingCofMinADS": "2",
-        "verticalRecoil": "0.2"
-    },
-    "6014957": {
-        "adsCofRecoil": "0.05",
-        "adsMoveSpeed": "1",
-        "ammo": "450",
-        "category": "Heavy Weapon",
         "clip": "150",
         "crouchWalkingCofMax": "7",
         "crouchWalkingCofMaxADS": "7",
@@ -37036,12 +36910,12 @@
         "firstShotMultiplier": "1",
         "headshotMultiplier": "1",
         "hipCofRecoil": "0.1",
-        "image_id": "96153",
+        "image_id": "96150",
         "maxDamage": "125",
         "maxDamageRange": "10",
         "minDamage": "100",
         "minDamageRange": "40",
-        "name": "NS-D Helios EX",
+        "name": "NS-D Helios",
         "pellets": "1",
         "recoilAngleMax": "25",
         "recoilAngleMin": "23",
@@ -37054,6 +36928,64 @@
         "runningCofMin": "2.5",
         "runningCofMinADS": "2.5",
         "speed": "40",
+        "sprintingCofMax": "7",
+        "sprintingCofMaxADS": "7",
+        "sprintingCofMin": "5",
+        "sprintingCofMinADS": "5",
+        "standingCofMax": "7",
+        "standingCofMaxADS": "7",
+        "standingCofMin": "2",
+        "standingCofMinADS": "2",
+        "verticalRecoil": "0.2"
+    },
+    "6014957": {
+        "adsCofRecoil": "0.05",
+        "adsMoveSpeed": "1",
+        "ammo": "450",
+        "category": "Heavy Weapon",
+        "chamber": "1000",
+        "clip": "150",
+        "crouchWalkingCofMax": "7",
+        "crouchWalkingCofMaxADS": "7",
+        "crouchWalkingCofMin": "2",
+        "crouchWalkingCofMinADS": "2",
+        "crouchingCofMax": "7",
+        "crouchingCofMaxADS": "7",
+        "crouchingCofMin": "1.5",
+        "crouchingCofMinADS": "1.5",
+        "defZoom": "1",
+        "description": "The NS-D Helios is a fiery weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
+        "fallingCofMax": "7",
+        "fallingCofMaxADS": "7",
+        "fallingCofMin": "7",
+        "fallingCofMinADS": "7",
+        "fireModes": [
+            "5x Burst",
+            "Semi-Auto"
+        ],
+        "fireRate": "400",
+        "firstShotMultiplier": "1",
+        "headshotMultiplier": "1",
+        "hipCofRecoil": "0.1",
+        "image_id": "96153",
+        "maxDamage": "125",
+        "maxDamageRange": "10",
+        "minDamage": "100",
+        "minDamageRange": "40",
+        "name": "NS-D Helios EX",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "recoilAngleMax": "25",
+        "recoilAngleMin": "23",
+        "recoilHorizontalMax": "0.3",
+        "recoilHorizontalMin": "0.225",
+        "recoilHorizontalTolerance": "0",
+        "reload": "4000",
+        "runningCofMax": "7",
+        "runningCofMaxADS": "7",
+        "runningCofMin": "2.5",
+        "runningCofMinADS": "2.5",
+        "speed": "600",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "7",
         "sprintingCofMin": "5",
@@ -43620,7 +43552,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CP",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -43771,8 +43702,8 @@
         "hipCofRecoil": "0",
         "image_id": "2438",
         "name": "NC05 Jackhammer",
-        "pelletSpread": "2.5",
-        "pellets": "5",
+        "pelletSpread": "3.5",
+        "pellets": "4",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
         "recoilHorizontalMax": "0.4",
@@ -47535,8 +47466,8 @@
         "hipCofRecoil": "0",
         "image_id": "84814",
         "name": "NC05 Jackhammer AE",
-        "pelletSpread": "3.5",
-        "pellets": "4",
+        "pelletSpread": "2.5",
+        "pellets": "5",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
         "recoilHorizontalMax": "0.4",
@@ -49455,7 +49386,6 @@
         "adsCofRecoil": "0.05",
         "adsMoveSpeed": "0.5",
         "ammo": "286",
-        "category": "Scout Rifle",
         "chamber": "800",
         "clip": "22",
         "crouchWalkingCofMax": "7",
@@ -49619,150 +49549,6 @@
         "standingCofMin": "1.75",
         "standingCofMinADS": "0.15",
         "verticalRecoil": "0.4"
-    },
-    "804263": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to construct a module that, when powered, protects against aerial bombardment and infantry drops. Structures in range will gain resistance to orbital strike damage. NC only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85880",
-        "name": "Skywall Shield Emitter",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "804264": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to construct a module that, when powered, protects against aerial bombardment and infantry drops. Structures in range will gain resistance to orbital strike damage. TR only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85880",
-        "name": "Skywall Shield Emitter",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "804265": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to construct a module that, when powered, protects against aerial bombardment and infantry drops. Structures in range will gain resistance to orbital strike damage. VS only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85880",
-        "name": "Skywall Shield Emitter",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "804266": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a module that, when powered, applies one-way shields to structure openings to help protect the defenders inside. NC only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85886",
-        "name": "Structure Shield Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "804267": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a module that, when powered, applies one-way shields to structure openings to help protect the defenders inside. TR only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85886",
-        "name": "Structure Shield Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "804268": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a module that, when powered, applies one-way shields to structure openings to help protect the defenders inside. VS only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85886",
-        "name": "Structure Shield Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "804269": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a module that, when powered, renders nearby structures nearly indestructible thanks to lightning-fast repairs. NC use only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85883",
-        "name": "Repair Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "804270": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a module that, when powered, renders nearby structures nearly indestructible thanks to lightning-fast repairs. TR use only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85883",
-        "name": "Repair Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "804271": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a module that, when powered, renders nearby structures nearly indestructible thanks to lightning-fast repairs. VS use only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85883",
-        "name": "Repair Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "804272": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a module that, when powered, applies automated targeting systems to nearby constructed turrets, allowing them fire upon enemies while unmanned. NC use only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85874",
-        "name": "Turret AI Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "804273": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a module that, when powered, applies automated targeting systems to nearby constructed turrets, allowing them fire upon enemies while unmanned. TR use only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85874",
-        "name": "Turret AI Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "804274": {
-        "category": "Infantry Abilities",
-        "description": "Allows cortium to be used to create a module that, when powered, applies automated targeting systems to nearby constructed turrets, allowing them fire upon enemies while unmanned. VS use only.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "85874",
-        "name": "Turret AI Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
     },
     "804405": {
         "adsCofRecoil": "0.05",
@@ -51557,42 +51343,6 @@
         "standingCofMin": "1.75",
         "standingCofMinADS": "0.1",
         "verticalRecoil": "3"
-    },
-    "804974": {
-        "category": "Infantry Abilities",
-        "description": "Provides allies with the location and movement of enemies within 50 meters of this module.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "86649",
-        "name": "Reconnaissance Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "804975": {
-        "category": "Infantry Abilities",
-        "description": "Provides allies with the location and movement of enemies within 50 meters of this module.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "86649",
-        "name": "Reconnaissance Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "804976": {
-        "category": "Infantry Abilities",
-        "description": "Provides allies with the location and movement of enemies within 50 meters of this module.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "86649",
-        "name": "Reconnaissance Module",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
     },
     "804980": {
         "category": "Infantry Abilities",
