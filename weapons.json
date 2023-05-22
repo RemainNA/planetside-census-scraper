@@ -49386,6 +49386,7 @@
         "adsCofRecoil": "0.05",
         "adsMoveSpeed": "0.5",
         "ammo": "286",
+        "category": "Scout Rifle",
         "chamber": "800",
         "clip": "22",
         "crouchWalkingCofMax": "7",
