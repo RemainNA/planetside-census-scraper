@@ -14509,17 +14509,12 @@
         "standingCofMinADS": "0.5"
     },
     "6002397": {
-        "adsCofRecoil": "0.5",
-        "adsMoveSpeed": "1",
         "category": "Vehicle Weapons",
         "defZoom": "1",
         "description": "The Glaive Ionized Particle Cannon is unmanned mid-range artillery that disrupts defensive shield systems but only inflicts minor damage to personnel and equipment due to its lack of conventional payload. The IPC requires AI module support as well as a manually fired targeting dart to acquire a target.",
-        "fireModes": [
-            "Auto"
-        ],
+        "fireModes": [],
         "heatBleedOff": "25",
         "heatCapacity": "80",
-        "hipCofRecoil": "0.5",
         "image_id": "86709",
         "maxDamage": "750",
         "maxDamageRange": "10",
@@ -14528,11 +14523,7 @@
         "name": "Glaive IPC",
         "overheatPenalty": "2000",
         "reload": "0",
-        "speed": "180",
-        "standingCofMax": "1.5",
-        "standingCofMaxADS": "1.5",
-        "standingCofMin": "0.5",
-        "standingCofMinADS": "0.5"
+        "speed": "180"
     },
     "6002398": {
         "adsCofRecoil": "0.5",
