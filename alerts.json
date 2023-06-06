@@ -455,6 +455,18 @@
         "description": "Aircraft are free during this event.",
         "name": "Forgotten Fleet Carrier"
     },
+    "248": {
+        "description": "Control territory to lock Oshur",
+        "name": "Oshur Unstable Meltdown"
+    },
+    "249": {
+        "description": "Control territory to lock Oshur",
+        "name": "Oshur Unstable Meltdown"
+    },
+    "250": {
+        "description": "Control territory to lock Oshur",
+        "name": "Oshur Unstable Meltdown"
+    },
     "251": {
         "description": "Survive the nanite storm.",
         "name": "Nanite Storm"

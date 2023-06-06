@@ -92,7 +92,7 @@
         "name": "Xiphos Anti-Infantry Tower"
     },
     "163": {
-        "description": "The Glaive Ionized Particle Cannon is unmanned mid-range artillery that disrupts defensive shield systems but only inflicts minor damage to personnel and equipment due to its lack of conventional payload. The IPC requires AI module support as well as a manually fired targeting dart to acquire a target.",
+        "description": "The Glaive Ionized Particle Cannon is unmanned mid-range artillery that disrupts defensive shield systems but only inflicts minor damage to personnel and equipment due to its lack of conventional payload. The IPC requires a manually fired targeting dart to acquire a target.",
         "image_id": "4052",
         "name": "Glaive IPC"
     },
@@ -134,7 +134,7 @@
         "name": "Bastion Fleet Carrier"
     },
     "2021": {
-        "description": "The Flail fires a volley of 4 mortar shells in quick succession, doing moderate damage to all in range. Requires AI module as well as a manually fired targeting dart in order to fire.",
+        "description": "The Flail fires a volley of 4 mortar shells in quick succession, doing moderate damage to all in range. Requires a manually fired targeting dart in order to fire.",
         "image_id": "93301",
         "name": "The Flail"
     },
