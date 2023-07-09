@@ -7838,7 +7838,9 @@
     "3081": {
         "defZoom": "1",
         "description": "The G30 Walker is a heavy machine gun with a high elevation range and soft point ammunition designed to be more effective against aircraft. All factions can use this weapon.",
-        "fireModes": [],
+        "fireModes": [
+            "Auto"
+        ],
         "image_id": "10048",
         "maxDamage": "130",
         "maxDamageRange": "50",
@@ -7846,7 +7848,9 @@
         "minDamageRange": "400",
         "name": "G30 Walker",
         "reload": "2000",
-        "speed": "1000"
+        "speed": "1000",
+        "standingCofMax": "0.65",
+        "standingCofMin": "0.65"
     },
     "3082": {
         "defZoom": "1",
