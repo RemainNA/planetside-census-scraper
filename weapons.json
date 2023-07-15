@@ -10637,23 +10637,10 @@
         "verticalRecoil": "1.5"
     },
     "474": {
-        "adsCofRecoil": "1.2",
-        "adsMoveSpeed": "1",
         "description": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds.",
-        "fireModes": [
-            "Single Shot"
-        ],
-        "headshotMultiplier": "0",
-        "hipCofRecoil": "1.2",
+        "fireModes": [],
         "image_id": "3713",
-        "name": "Recon Detection Device 3",
-        "recoilAngleMax": "0",
-        "recoilAngleMin": "0",
-        "standingCofMax": "0",
-        "standingCofMaxADS": "0",
-        "standingCofMin": "0",
-        "standingCofMinADS": "0",
-        "verticalRecoil": "1.5"
+        "name": "Recon Detection Device 3"
     },
     "4745": {
         "adsCofRecoil": "0",
@@ -16853,21 +16840,9 @@
         "verticalRecoil": "3"
     },
     "6005069": {
-        "damage": "700",
-        "defZoom": "1",
         "description": "The Python AP is loaded with fast-moving armor-piercing rounds that are strong against armored targets, but have little explosive yield. All factions can use this weapon.",
-        "fireModes": [
-            "Semi-Auto"
-        ],
         "image_id": "89681",
-        "name": "LB00 Python AP",
-        "recoilAngleMax": "0",
-        "recoilAngleMin": "0",
-        "reload": "3000",
-        "speed": "250",
-        "standingCofMax": "0",
-        "standingCofMin": "0",
-        "verticalRecoil": "3"
+        "name": "LB00 Python AP"
     },
     "6005070": {
         "damage": "700",
