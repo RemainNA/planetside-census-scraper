@@ -2695,15 +2695,34 @@
     },
     "17013": {
         "chamber": "150",
+        "crouchWalkingCofMax": "0.2",
+        "crouchWalkingCofMin": "0.2",
+        "crouchingCofMax": "0.2",
+        "crouchingCofMin": "0.2",
         "damage": "175",
         "description": "The Comet VM2 is the standard-issue anti-vehicle MAX weaponry. The explosive plasma orbs it fires are capable of melting through heavy tank armor. VS use only.",
-        "fireModes": [],
+        "fallingCofMax": "7",
+        "fallingCofMin": "7",
+        "fireModes": [
+            "Auto"
+        ],
+        "headshotMultiplier": "0",
+        "hipCofRecoil": "0",
         "image_id": "1611",
         "name": "Comet VM2",
         "pelletSpread": "0",
         "pellets": "1",
+        "recoilAngleMax": "0.5",
+        "recoilAngleMin": "-0.5",
         "reload": "1350",
-        "speed": "75"
+        "runningCofMax": "0.2",
+        "runningCofMin": "0.2",
+        "speed": "75",
+        "sprintingCofMax": "5",
+        "sprintingCofMin": "5",
+        "standingCofMax": "0.2",
+        "standingCofMin": "0.2",
+        "verticalRecoil": "0.4"
     },
     "17016": {
         "chamber": "500",
