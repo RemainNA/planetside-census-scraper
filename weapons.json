@@ -7445,7 +7445,7 @@
         "standingCofMin": "0"
     },
     "286": {
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although slower than the VS standard issue Force-Blade, when wielded this knife can be activated, increasing its damage output. VS use only.",
         "fireModes": [
@@ -13319,63 +13319,11 @@
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
-    "6002553": {
-        "adsCofRecoil": "1.2",
-        "adsMoveSpeed": "1",
-        "description": "The IPC Targeting Dart fires a dart projectile that can be targeted by Glaive IPC, the projectiles of each tool is linked to and can only be targeted by the cannon it is pulled from.",
-        "fireModes": [
-            "Single Shot"
-        ],
-        "headshotMultiplier": "0",
-        "hipCofRecoil": "1.2",
-        "image_id": "86724",
-        "name": "IPC Targeting Dart",
-        "recoilAngleMax": "0",
-        "recoilAngleMin": "0",
-        "standingCofMax": "0",
-        "standingCofMaxADS": "0",
-        "standingCofMin": "0",
-        "standingCofMinADS": "0",
-        "verticalRecoil": "1.5"
-    },
-    "6002554": {
-        "adsCofRecoil": "0",
-        "adsMoveSpeed": "0.5",
-        "crouchWalkingCofMax": "4",
-        "crouchWalkingCofMaxADS": "3",
-        "crouchWalkingCofMin": "4",
-        "crouchWalkingCofMinADS": "0.3",
-        "crouchingCofMax": "4",
-        "crouchingCofMaxADS": "3",
-        "crouchingCofMin": "4",
-        "crouchingCofMinADS": "0.1",
-        "description": "Designates a target for the connected OS uplink. For valid acquisition, the target must be no less than 200 meters from the uplink, fall within its current strike range (displayed on the map), and be within visual range of the designator.",
-        "fallingCofMax": "4",
-        "fallingCofMaxADS": "3",
-        "fallingCofMin": "4",
-        "fallingCofMinADS": "0.3",
-        "fireModes": [
-            "Single Shot"
-        ],
-        "headshotMultiplier": "0",
-        "hipCofRecoil": "0",
-        "image_id": "86743",
-        "name": "Orbital Strike Target Designator",
-        "recoilAngleMax": "0",
-        "recoilAngleMin": "0",
-        "runningCofMax": "4",
-        "runningCofMaxADS": "3",
-        "runningCofMin": "4",
-        "runningCofMinADS": "0.5",
-        "sprintingCofMax": "4",
-        "sprintingCofMaxADS": "3",
-        "sprintingCofMin": "4",
-        "sprintingCofMinADS": "1",
-        "standingCofMax": "4",
-        "standingCofMaxADS": "3",
-        "standingCofMin": "4",
-        "standingCofMinADS": "0.3",
-        "verticalRecoil": "0"
+    "6002558": {
+        "description": "Aim at a location you want the orbital strike to hit.  Must maintain fire for several seconds to establish a target. Each tool is linked to and can only be targeted by the Orbital Strike Uplink it is pulled from.",
+        "fireModes": [],
+        "image_id": "3713",
+        "name": "Orbital Strike Targeting Laser"
     },
     "6002637": {
         "adsCofRecoil": "0.5",
@@ -13408,7 +13356,7 @@
         "runningCofMaxADS": "3",
         "runningCofMin": "5",
         "runningCofMinADS": "1",
-        "speed": "50",
+        "speed": "150",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "7",
@@ -16034,25 +15982,6 @@
         "name": "The Flail",
         "standingCofMax": "0",
         "standingCofMin": "0"
-    },
-    "6004292": {
-        "description": "The Flail Targeting Dart fires a dart projectile that can be targeted by the Flail. The projecitles of each tool is linked to and can only be targeted by the Flail it is pulled from.",
-        "fireModes": [
-            "Single Shot"
-        ],
-        "headshotMultiplier": "0",
-        "heatBleedOff": "15000",
-        "heatCapacity": "15000",
-        "heatPerShot": "15000",
-        "hipCofRecoil": "1.2",
-        "image_id": "86724",
-        "name": "Flail Targeting Dart",
-        "overheatPenalty": "10000",
-        "recoilAngleMax": "0",
-        "recoilAngleMin": "0",
-        "standingCofMax": "0",
-        "standingCofMin": "0",
-        "verticalRecoil": "1.5"
     },
     "6004294": {
         "adsCofRecoil": "0.6",
@@ -18784,7 +18713,7 @@
         "standingCofMin": "0"
     },
     "6005452": {
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although slower than the TR standard issue Chainblade, when wielded this knife can be activated, increasing its damage output. TR use only.",
         "fireModes": [
@@ -21568,7 +21497,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "PSA-02 Diamondback",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -25129,7 +25057,7 @@
         "standingCofMin": "0"
     },
     "6009600": {
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Originally developed for exploration on Esamir as a companion tool to the NS Icebreaker, the Firebug has recently gained popularity among soldiers looking for a more dramatic option in close-quarters combat.",
         "fireModes": [
@@ -25142,6 +25070,7 @@
         "name": "NS Firebug",
         "pelletSpread": "0",
         "pellets": "1",
+        "reload": "0",
         "speed": "13",
         "standingCofMax": "0",
         "standingCofMin": "0"
@@ -31757,7 +31686,7 @@
         "runningCofMaxADS": "3",
         "runningCofMin": "5",
         "runningCofMinADS": "1",
-        "speed": "150",
+        "speed": "50",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "7",
@@ -32356,7 +32285,7 @@
         "verticalRecoil": "0.22"
     },
     "6014446": {
-        "damage": "500",
+        "damage": "600",
         "defZoom": "1",
         "description": "Carve your way through hordes of frosty foes with this Auraximas-themed hatchet. All factions can use this weapon.",
         "fireModes": [
@@ -32404,7 +32333,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11C Frostbite",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -33374,6 +33302,7 @@
         "crouchingCofMaxADS": "4",
         "crouchingCofMin": "1.5",
         "crouchingCofMinADS": "0.3",
+        "damage": "200",
         "defZoom": "1",
         "description": "The NS-D Helios is a fiery weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
         "fallingCofMax": "7",
@@ -33393,7 +33322,6 @@
         "minDamage": "100",
         "minDamageRange": "40",
         "name": "NS-D Helios EX",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "25",
         "recoilAngleMin": "23",
@@ -33405,7 +33333,7 @@
         "runningCofMaxADS": "4",
         "runningCofMin": "2.5",
         "runningCofMinADS": "0.4",
-        "speed": "600",
+        "speed": "40",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "7",
         "sprintingCofMin": "5",
@@ -33432,6 +33360,126 @@
         "speed": "13",
         "standingCofMax": "0",
         "standingCofMin": "0"
+    },
+    "6014996": {
+        "description": "Aim at a location you want the Flail to hit.  Must maintain fire for several seconds to establish a target. Each tool is linked to and can only be used to designate targets for the Flail it is pulled from.",
+        "fireModes": [],
+        "image_id": "3713",
+        "name": "Flail Targeting Laser"
+    },
+    "6014997": {
+        "description": "Aim at a location you want the Glaive to hit.  Must maintain fire for several seconds to establish a target. Each tool is linked to and can only be used to designate targets for the Glaive it is pulled from.",
+        "fireModes": [],
+        "image_id": "3713",
+        "name": "Glaive Targeting Laser"
+    },
+    "6015075": {
+        "description": "Deploys a Spitfire Auto-Turret that automatically engages hostile infantry within 50 meters. Only one spitfire can be active at a time. <font color=\"#dc9c36\"><br><br>35 second cooldown.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96587",
+        "name": "\"The Second\" Spitfire Auto-Turret",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6015076": {
+        "description": "Deploys a Spitfire Auto-Turret that automatically engages hostile infantry within 50 meters. Only one spitfire can be active at a time. <font color=\"#dc9c36\"><br><br>35 second cooldown.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96587",
+        "name": "\"The Second\" Spitfire Auto-Turret",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6015077": {
+        "description": "Deploys a Spitfire Auto-Turret that automatically engages hostile infantry within 50 meters. Only one spitfire can be active at a time. <font color=\"#dc9c36\"><br><br>35 second cooldown.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96587",
+        "name": "\"The Second\" Spitfire Auto-Turret",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6015078": {
+        "description": "Deploys a Spitfire Auto-Turret that automatically engages hostile infantry within 50 meters. Only one spitfire can be active at a time. <font color=\"#dc9c36\"><br><br>35 second cooldown.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96587",
+        "name": "\"The Second\" Spitfire Auto-Turret",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6015086": {
+        "description": "The Spitfire Auto-Turret is a deployable that automatically fires at hostile infantry within 50 meters.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "82148",
+        "maxDamage": "100",
+        "maxDamageRange": "10",
+        "minDamage": "50",
+        "minDamageRange": "50",
+        "name": "\"The Second\" Spitfire Auto-Turret",
+        "speed": "425",
+        "standingCofMax": "0.15",
+        "standingCofMin": "0.15"
+    },
+    "6015087": {
+        "description": "The Spitfire Auto-Turret is a deployable that automatically fires at hostile infantry within 50 meters.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "82148",
+        "maxDamage": "100",
+        "maxDamageRange": "10",
+        "minDamage": "50",
+        "minDamageRange": "50",
+        "name": "\"The Second\" Spitfire Auto-Turret",
+        "speed": "425",
+        "standingCofMax": "0.15",
+        "standingCofMin": "0.15"
+    },
+    "6015088": {
+        "description": "The Spitfire Auto-Turret is a deployable that automatically fires at hostile infantry within 50 meters.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "82148",
+        "maxDamage": "100",
+        "maxDamageRange": "10",
+        "minDamage": "50",
+        "minDamageRange": "50",
+        "name": "\"The Second\" Spitfire Auto-Turret",
+        "speed": "425",
+        "standingCofMax": "0.15",
+        "standingCofMin": "0.15"
+    },
+    "6015089": {
+        "description": "The Spitfire Auto-Turret is a deployable that automatically fires at hostile infantry within 50 meters.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "82148",
+        "maxDamage": "100",
+        "maxDamageRange": "10",
+        "minDamage": "50",
+        "minDamageRange": "50",
+        "name": "\"The Second\" Spitfire Auto-Turret",
+        "speed": "425",
+        "standingCofMax": "0.15",
+        "standingCofMin": "0.15"
     },
     "6050": {
         "crouchWalkingCofMax": "0.5",
@@ -34298,7 +34346,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11P",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -34510,7 +34557,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -37445,10 +37491,10 @@
         "heatRecoveryDelay": "700",
         "hipCofRecoil": "0.8",
         "image_id": "13758",
-        "maxDamage": "550",
+        "maxDamage": "400",
         "maxDamageRange": "10",
-        "minDamage": "400",
-        "minDamageRange": "400",
+        "minDamage": "334",
+        "minDamageRange": "85",
         "name": "Phaseshift VX-S",
         "overheatPenalty": "1000",
         "pelletSpread": "0",
@@ -39381,6 +39427,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CP",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -40476,6 +40523,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CB",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -40529,7 +40577,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11AG",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
