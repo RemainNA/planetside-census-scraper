@@ -24619,14 +24619,19 @@
     },
     "6009294": {
         "description": "The Spitfire Auto-Turret is a deployable that automatically fires at hostile infantry within 50 meters.",
-        "fireModes": [],
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
         "image_id": "82148",
         "maxDamage": "100",
         "maxDamageRange": "10",
         "minDamage": "50",
         "minDamageRange": "50",
         "name": "Spitfire Auto-Turret",
-        "speed": "425"
+        "speed": "425",
+        "standingCofMax": "0.15",
+        "standingCofMin": "0.15"
     },
     "6009426": {
         "adsCofRecoil": "0.1",
