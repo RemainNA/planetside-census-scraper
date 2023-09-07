@@ -19551,9 +19551,14 @@
     },
     "6005652": {
         "description": "Small fortified structure that can provide cover for both infantry and deployed equipment.",
-        "fireModes": [],
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
         "image_id": "86712",
-        "name": "Pillbox"
+        "name": "Pillbox",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
     },
     "6005655": {
         "description": "When placed, the Router becomes a spawn point for allies.",
@@ -25954,6 +25959,7 @@
     "6009897": {
         "adsCofRecoil": "0.05",
         "adsMoveSpeed": "0.75",
+        "chamber": "300",
         "crouchWalkingCofMax": "7",
         "crouchWalkingCofMaxADS": "3",
         "crouchWalkingCofMin": "1.25",
@@ -25962,6 +25968,7 @@
         "crouchingCofMaxADS": "3",
         "crouchingCofMin": "1",
         "crouchingCofMinADS": "0.3",
+        "defZoom": "1.35",
         "description": "The PMG-200 opts for better per-bullet stopping power and snappy reloads, at cost to its magazine size. NSO use only.",
         "fallingCofMax": "7",
         "fallingCofMaxADS": "3",
@@ -25974,16 +25981,24 @@
         "headshotMultiplier": "1",
         "hipCofRecoil": "0.05",
         "image_id": "93720",
+        "maxDamage": "125",
+        "maxDamageRange": "8",
+        "minDamage": "91",
+        "minDamageRange": "40",
         "name": "PMG-200",
+        "pelletSpread": "0",
+        "pellets": "1",
         "recoilAngleMax": "20",
         "recoilAngleMin": "17",
         "recoilHorizontalMax": "0.331",
         "recoilHorizontalMin": "0.3",
         "recoilHorizontalTolerance": "0.75",
+        "reload": "1650",
         "runningCofMax": "7",
         "runningCofMaxADS": "3",
         "runningCofMin": "1.5",
         "runningCofMinADS": "0.3",
+        "speed": "450",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "5",
