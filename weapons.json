@@ -47404,25 +47404,10 @@
         "standingCofMin": "0.5"
     },
     "884": {
-        "crouchWalkingCofMax": "0.5",
-        "crouchWalkingCofMin": "0.5",
-        "crouchingCofMax": "0.5",
-        "crouchingCofMin": "0.5",
         "description": "Upon detonation, this Revive Grenade releases a swarm of Rebirth nanites capable of healing fallen allies to 50% health. <font color=\"#dc9c36\"><br><br>2.5 second fuse.</font>",
-        "fallingCofMax": "7",
-        "fallingCofMin": "7",
-        "fireModes": [
-            "Thrown"
-        ],
-        "hipCofRecoil": "1",
+        "fireModes": [],
         "image_id": "3674",
-        "name": "Nanite Revive Grenade",
-        "runningCofMax": "0.5",
-        "runningCofMin": "0.5",
-        "sprintingCofMax": "0.5",
-        "sprintingCofMin": "0.5",
-        "standingCofMax": "0.5",
-        "standingCofMin": "0.5"
+        "name": "Nanite Revive Grenade"
     },
     "89": {
         "adsCofRecoil": "0.15",
