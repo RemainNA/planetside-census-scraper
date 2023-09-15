@@ -33380,7 +33380,7 @@
         ],
         "hipCofRecoil": "0",
         "image_id": "96587",
-        "name": "Spitfire \"Deluxe\" Auto-Turret",
+        "name": "Spitfire \"Prime Directive\" Auto-Turret",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -33391,7 +33391,7 @@
         ],
         "hipCofRecoil": "0",
         "image_id": "96587",
-        "name": "Spitfire \"Deluxe\" Auto-Turret",
+        "name": "Spitfire \"Prime Directive\" Auto-Turret",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -33402,7 +33402,7 @@
         ],
         "hipCofRecoil": "0",
         "image_id": "96587",
-        "name": "Spitfire \"Deluxe\" Auto-Turret",
+        "name": "Spitfire \"Prime Directive\" Auto-Turret",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -33413,7 +33413,7 @@
         ],
         "hipCofRecoil": "0",
         "image_id": "96587",
-        "name": "Spitfire \"Deluxe\" Auto-Turret",
+        "name": "Spitfire \"Prime Directive\" Auto-Turret",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -33428,7 +33428,7 @@
         "maxDamageRange": "10",
         "minDamage": "50",
         "minDamageRange": "50",
-        "name": "Spitfire \"Deluxe\" Auto-Turret",
+        "name": "Spitfire \"Prime Directive\" Auto-Turret",
         "speed": "425",
         "standingCofMax": "0.15",
         "standingCofMin": "0.15"
@@ -33444,7 +33444,7 @@
         "maxDamageRange": "10",
         "minDamage": "50",
         "minDamageRange": "50",
-        "name": "Spitfire \"Deluxe\" Auto-Turret",
+        "name": "Spitfire \"Prime Directive\" Auto-Turret",
         "speed": "425",
         "standingCofMax": "0.15",
         "standingCofMin": "0.15"
@@ -33460,7 +33460,7 @@
         "maxDamageRange": "10",
         "minDamage": "50",
         "minDamageRange": "50",
-        "name": "Spitfire \"Deluxe\" Auto-Turret",
+        "name": "Spitfire \"Prime Directive\" Auto-Turret",
         "speed": "425",
         "standingCofMax": "0.15",
         "standingCofMin": "0.15"
@@ -33476,7 +33476,7 @@
         "maxDamageRange": "10",
         "minDamage": "50",
         "minDamageRange": "50",
-        "name": "Spitfire \"Deluxe\" Auto-Turret",
+        "name": "Spitfire \"Prime Directive\" Auto-Turret",
         "speed": "425",
         "standingCofMax": "0.15",
         "standingCofMin": "0.15"
@@ -47404,10 +47404,25 @@
         "standingCofMin": "0.5"
     },
     "884": {
+        "crouchWalkingCofMax": "0.5",
+        "crouchWalkingCofMin": "0.5",
+        "crouchingCofMax": "0.5",
+        "crouchingCofMin": "0.5",
         "description": "Upon detonation, this Revive Grenade releases a swarm of Rebirth nanites capable of healing fallen allies to 50% health. <font color=\"#dc9c36\"><br><br>2.5 second fuse.</font>",
-        "fireModes": [],
+        "fallingCofMax": "7",
+        "fallingCofMin": "7",
+        "fireModes": [
+            "Thrown"
+        ],
+        "hipCofRecoil": "1",
         "image_id": "3674",
-        "name": "Nanite Revive Grenade"
+        "name": "Nanite Revive Grenade",
+        "runningCofMax": "0.5",
+        "runningCofMin": "0.5",
+        "sprintingCofMax": "0.5",
+        "sprintingCofMin": "0.5",
+        "standingCofMax": "0.5",
+        "standingCofMin": "0.5"
     },
     "89": {
         "adsCofRecoil": "0.15",
