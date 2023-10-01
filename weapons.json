@@ -25022,6 +25022,7 @@
         "standingCofMin": "0"
     },
     "6009517": {
+        "damage": "600",
         "description": "A keepsake from your exploration of the storm-ravaged Esamir, this frost-worn pick is the perfect tool to break the tension.",
         "fireModes": [
             "Quick Melee",
@@ -25030,6 +25031,10 @@
         "hipCofRecoil": "0",
         "image_id": "92890",
         "name": "NS Icebreaker",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
