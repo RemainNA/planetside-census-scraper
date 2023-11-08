@@ -10461,7 +10461,9 @@
     "4600": {
         "defZoom": "1",
         "description": "The M20 Mustang is the standard air superiority nose cannon for the NC Reaver.  Its high caliber rounds allow it to do more damage up close and at range.  NC use only.",
-        "fireModes": [],
+        "fireModes": [
+            "Auto"
+        ],
         "image_id": "2060",
         "maxDamage": "190",
         "maxDamageRange": "200",
@@ -10471,7 +10473,9 @@
         "pelletSpread": "0",
         "pellets": "1",
         "reload": "2400",
-        "speed": "750"
+        "speed": "750",
+        "standingCofMax": "0.3",
+        "standingCofMin": "0.3"
     },
     "4601": {
         "adsCofRecoil": "0",
