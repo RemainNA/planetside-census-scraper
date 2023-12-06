@@ -14,10 +14,30 @@
         "image_id": "10950",
         "name": "Xiphos Anti-Infantry Phalanx Turret"
     },
+    "1001": {
+        "description": "The Flash is an ATV capable of getting the driver and one passenger quickly to the front lines.  The passenger is able to use most of their personal equipment while riding on the back.",
+        "image_id": "3975",
+        "name": "Flash"
+    },
+    "1002": {
+        "description": "The Sunderer is a large transport capable of holding 12 soldiers.  It can also be outfitted with several support functions such as a mobile respawn station, vehicle repair or vehicle ammo resupply.",
+        "image_id": "4002",
+        "name": "Sunderer"
+    },
     "101": {
         "description": "MANA (Manned Aggressor Neutralizing Assault) Anti-Infantry turret is deployed by engineers and is effective against soft and medium armored targets.",
         "image_id": "4040",
         "name": "MANA Anti-Infantry Turret"
+    },
+    "1010": {
+        "description": "The Liberator is a three man gun ship.  The bombardier weapon is very powerful against ground targets and it has a tail gun to ward off enemy fighters.",
+        "image_id": "3981",
+        "name": "Liberator"
+    },
+    "1011": {
+        "description": "The Galaxy is an air transport that can be used to hot drop up to 11 soldiers.  It has four weapon mounts that can be used for defense or outfitted into a gunship role.",
+        "image_id": "3978",
+        "name": "Galaxy"
     },
     "1013": {
         "description": "A remote control aerial drone that can be used to spot enemy forces.",
