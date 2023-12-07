@@ -31957,17 +31957,36 @@
         "verticalRecoil": "0"
     },
     "6014247": {
+        "adsCofRecoil": "0.33",
+        "adsMoveSpeed": "1",
         "damage": "500",
         "defZoom": "5",
         "description": "An automated missile battery with a rotating delivery system capable of firing rockets at threats in any direction.",
-        "fireModes": [],
+        "fireModes": [
+            "Auto"
+        ],
+        "firstShotMultiplier": "0",
+        "headshotMultiplier": "0",
         "heatBleedOff": "200",
         "heatCapacity": "1000",
+        "heatPerShot": "167",
+        "heatRecoveryDelay": "1000",
+        "hipCofRecoil": "0.33",
         "image_id": "95421",
         "name": "Argo Missile Battery",
         "overheatPenalty": "0",
+        "recoilAngleMax": "0",
+        "recoilAngleMin": "0",
+        "recoilHorizontalMax": "0.2",
+        "recoilHorizontalMin": "0.2",
+        "recoilHorizontalTolerance": "0.2",
         "reload": "3000",
-        "speed": "250"
+        "speed": "250",
+        "standingCofMax": "2",
+        "standingCofMaxADS": "2",
+        "standingCofMin": "0",
+        "standingCofMinADS": "0",
+        "verticalRecoil": "0"
     },
     "6014249": {
         "adsCofRecoil": "0.33",
