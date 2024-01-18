@@ -302,7 +302,7 @@
     "217000": {
         "continent": "6",
         "name": "The Bastion",
-        "type": "Large CTF Outpost"
+        "type": "Large Outpost"
     },
     "218": {
         "continent": "2",
@@ -322,7 +322,7 @@
     "219000": {
         "continent": "6",
         "name": "Splitpeak Pass",
-        "type": "Large CTF Outpost"
+        "type": "Large Outpost"
     },
     "220": {
         "continent": "2",
@@ -332,7 +332,7 @@
     "220000": {
         "continent": "6",
         "name": "West Pass Watchtower",
-        "type": "Large CTF Outpost"
+        "type": "Large Outpost"
     },
     "221": {
         "continent": "2",
@@ -597,7 +597,7 @@
     "237000": {
         "continent": "8",
         "name": "The Traverse",
-        "type": "Small CTF Outpost"
+        "type": "Small Outpost"
     },
     "239": {
         "continent": "2",
@@ -682,7 +682,7 @@
     "246000": {
         "continent": "8",
         "name": "Mattherson's Triumph",
-        "type": "Large CTF Outpost"
+        "type": "Large Outpost"
     },
     "247": {
         "continent": "2",
@@ -887,7 +887,7 @@
     "279000": {
         "continent": "4",
         "name": "Hunter's Blind",
-        "type": "Small CTF Outpost"
+        "type": "Small Outpost"
     },
     "280000": {
         "continent": "4",
@@ -997,7 +997,7 @@
     "290000": {
         "continent": "4",
         "name": "Fort Drexler",
-        "type": "Large CTF Outpost"
+        "type": "Large Outpost"
     },
     "291000": {
         "continent": "4",
@@ -1372,7 +1372,7 @@
     "400314": {
         "continent": "8",
         "name": "Baldur",
-        "type": "Amp Station CTF"
+        "type": "Amp Station"
     },
     "400315": {
         "continent": "8",
@@ -1397,7 +1397,7 @@
     "400328": {
         "continent": "8",
         "name": "Spral Oasis",
-        "type": "Construction Outpost CTF"
+        "type": "Construction Outpost"
     },
     "400329": {
         "continent": "344",
@@ -1787,12 +1787,12 @@
     "5100": {
         "continent": "2",
         "name": "Indar Excavation Site",
-        "type": "Large CTF Outpost"
+        "type": "Large Outpost"
     },
     "5200": {
         "continent": "2",
         "name": "J908 Impact Site",
-        "type": "Large CTF Outpost"
+        "type": "Large Outpost"
     },
     "5300": {
         "continent": "2",
