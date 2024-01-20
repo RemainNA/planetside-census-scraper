@@ -41472,12 +41472,7 @@
         ],
         "hipCofRecoil": "0",
         "image_id": "82148",
-        "maxDamage": "100",
-        "maxDamageRange": "10",
-        "minDamage": "50",
-        "minDamageRange": "50",
         "name": "Spitfire Auto-Turret",
-        "speed": "425",
         "standingCofMax": "0.15",
         "standingCofMin": "0.15"
     },
