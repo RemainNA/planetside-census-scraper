@@ -12467,6 +12467,9 @@
     "5521": {
         "defZoom": "1",
         "description": "The A30 Walker is a heavy machine gun with soft point ammunition designed to be more effective against enemy aircraft. All factions can use this weapon.",
+        "fireModes": [
+            "Auto"
+        ],
         "image_id": "10045",
         "maxDamage": "130",
         "maxDamageRange": "50",
@@ -12474,7 +12477,9 @@
         "minDamageRange": "400",
         "name": "A30 Walker",
         "reload": "2000",
-        "speed": "850"
+        "speed": "850",
+        "standingCofMax": "0.65",
+        "standingCofMin": "0.65"
     },
     "5522": {
         "adsCofRecoil": "0",
