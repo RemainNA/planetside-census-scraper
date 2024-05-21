@@ -487,6 +487,10 @@
         "description": "Survive the nanite storm.",
         "name": "Nanite Storm"
     },
+    "260": {
+        "description": "Kill as many enemies as possible",
+        "name": "Sudden Death"
+    },
     "3": {
         "description": "Capture Amerish within the time limit",
         "name": "Seeing Green"

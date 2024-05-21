@@ -247,10 +247,6 @@
         "desc": "While piloting a vehicle, that vehicle becomes capable of spawning squadmates directly into it if there is an open seat.<font color=\"#dc9c36\"> Does not apply to Bastion Fleet Carriers.</font>",
         "image": "88154"
     },
-    "Logistics Specialist [Perfect]": {
-        "desc": "While piloting a vehicle, that vehicle becomes capable of spawning squadmates directly into it if there is an open seat.<font color=\"#dc9c36\"> Does not apply to Bastion Fleet Carriers.<br><br>Perfect implants cannot be broken down.</font>",
-        "image": "96072"
-    },
     "Mending Field": {
         "1": "Allies who are below 100 health passively heal for 15 health per second while you are within 7 meters. <font color=\"#dc9c36\">Combat Medic only.</font>",
         "2": "Allies who are below 150 health passively heal for 15 health per second while you are within 7 meters. <font color=\"#dc9c36\">Combat Medic only.</font>",
@@ -326,10 +322,6 @@
     "Phylactery": {
         "desc": "Each time you are revived, a charge is added to the phylactery. At 3 charges, your next death will allow you to self-revive once at 50% health. Phylactery's self-revive does not count toward these charges. <font color=\"#dc9c36\">Charges cannot be gained while in a vehicle, and redeploying or using an equipment terminal will wipe your current progress.</font>",
         "image": "88254"
-    },
-    "Phylactery [Perfect]": {
-        "desc": "Each time you are revived, a charge is added to the phylactery. At 3 charges, your next death will allow you to self-revive once at 50% health. Phylactery's self-revive does not count toward these charges. <font color=\"#dc9c36\">Charges cannot be gained while in a vehicle, and redeploying or using an equipment terminal will wipe your current progress.</font>",
-        "image": "96708"
     },
     "Ransack": {
         "1": "Killing a vehicle within 25 meters restores one tick of ammunition for you or your vehicle. <font color=\"#dc9c36\"> Works in vehicles.</font>",
