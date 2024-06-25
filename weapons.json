@@ -10685,9 +10685,7 @@
         "name": "Hornet Missiles",
         "pellets": "1",
         "reload": "3000",
-        "speed": "125",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
+        "speed": "125"
     },
     "4747": {
         "damage": "55",
