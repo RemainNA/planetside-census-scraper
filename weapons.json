@@ -45818,8 +45818,14 @@
     },
     "804722": {
         "chamber": "1000",
+        "crouchWalkingCofMax": "2.5",
+        "crouchWalkingCofMin": "1.65",
+        "crouchingCofMax": "2.25",
+        "crouchingCofMin": "1.5",
         "damage": "125",
         "description": "This black right-handed NS-20 Gorgon is a slow firing heavy machine gun effective at eliminating armored targets, but can challenge close-range infantry as well. All factions can use NS weapons.",
+        "fallingCofMax": "7",
+        "fallingCofMin": "7",
         "fireModes": [
             "Auto"
         ],
@@ -45831,7 +45837,13 @@
         "pellets": "1",
         "recoilHorizontalTolerance": "0.3",
         "reload": "3400",
+        "runningCofMax": "3",
+        "runningCofMin": "2.25",
         "speed": "490",
+        "sprintingCofMax": "5",
+        "sprintingCofMin": "5",
+        "standingCofMax": "2.25",
+        "standingCofMin": "1.75",
         "verticalRecoil": "0.2"
     },
     "804723": {
