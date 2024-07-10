@@ -274,6 +274,22 @@
         "description": "Spitfire Auto-Turrets are placed by engineers and automatically engage hostile infantry within 50 meters.",
         "name": "Spitfire \"Prime Directive\" Auto-Turret"
     },
+    "2147": {
+        "description": "Deploys a utility station that replenishes ammo to nearby friendly vehicles.",
+        "name": "Ammo Tower"
+    },
+    "2148": {
+        "description": "Passively detects nearby enemies while mounted.  Activate to deploy a RADAR with increased range and permenant detection.",
+        "name": "Scout Radar"
+    },
+    "2149": {
+        "description": "Passively repairs nearby, non-sunderer, vehicles for a small amount.  Activate to deploy a repair station with increased range and repair.  Sunderers recieve reduced repair from deployed stations and none from undeployed.",
+        "name": "Repair Station"
+    },
+    "2150": {
+        "description": "Deploys a cargo device that grants Gate Diffuser to nearby friendly vehicles, allowing them to pass through.",
+        "name": "Shield Disruptor"
+    },
     "3": {
         "description": "The Lightning is a light one man tank.  The Lightning can be outfitted with various types of turrets allowing it to fill anti-air and anti-armor roles.",
         "image_id": "3984",
