@@ -33288,6 +33288,50 @@
         "image_id": "3713",
         "name": "Glaive Targeting Laser"
     },
+    "6015075": {
+        "description": "Deploys a Spitfire Auto-Turret that automatically engages hostile infantry within 50 meters. Only one spitfire can be active at a time. <font color=\"#dc9c36\"><br><br>35 second cooldown.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96587",
+        "name": "Spitfire \"Prime Directive\" Auto-Turret",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6015076": {
+        "description": "Deploys a Spitfire Auto-Turret that automatically engages hostile infantry within 50 meters. Only one spitfire can be active at a time. <font color=\"#dc9c36\"><br><br>35 second cooldown.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96587",
+        "name": "Spitfire \"Prime Directive\" Auto-Turret",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6015077": {
+        "description": "Deploys a Spitfire Auto-Turret that automatically engages hostile infantry within 50 meters. Only one spitfire can be active at a time. <font color=\"#dc9c36\"><br><br>35 second cooldown.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96587",
+        "name": "Spitfire \"Prime Directive\" Auto-Turret",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6015078": {
+        "description": "Deploys a Spitfire Auto-Turret that automatically engages hostile infantry within 50 meters. Only one spitfire can be active at a time. <font color=\"#dc9c36\"><br><br>35 second cooldown.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96587",
+        "name": "Spitfire \"Prime Directive\" Auto-Turret",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
     "6015086": {
         "description": "The Spitfire Auto-Turret is a deployable that automatically fires at hostile infantry within 50 meters.",
         "fireModes": [
