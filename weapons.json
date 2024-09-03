@@ -16785,18 +16785,10 @@
         "damage": "700",
         "defZoom": "1",
         "description": "The Python AP is loaded with fast-moving armor-piercing rounds that are strong against armored targets, but have little explosive yield. All factions can use this weapon.",
-        "fireModes": [
-            "Semi-Auto"
-        ],
         "image_id": "89681",
         "name": "LB00 Python AP",
-        "recoilAngleMax": "0",
-        "recoilAngleMin": "0",
         "reload": "3000",
-        "speed": "250",
-        "standingCofMax": "0",
-        "standingCofMin": "0",
-        "verticalRecoil": "3"
+        "speed": "250"
     },
     "6005070": {
         "damage": "700",
