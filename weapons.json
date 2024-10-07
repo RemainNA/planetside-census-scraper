@@ -36687,16 +36687,12 @@
         "standingCofMin": "0.7"
     },
     "6562": {
-        "damage": "575",
-        "defZoom": "1",
         "description": "The VLG fires a laser guided missile that seeks toward the gunner's crosshairs. The missile is effective against armor on direct hits and produces a moderate blast. Missile will detonate after traveling 400 meters. All factions can use this weapon.",
         "fireModes": [
             "Laser Guided"
         ],
         "image_id": "79709",
-        "name": "VLG Missile Launcher",
-        "reload": "2200",
-        "speed": "50"
+        "name": "VLG Missile Launcher"
     },
     "6563": {
         "damage": "575",
