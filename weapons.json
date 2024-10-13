@@ -35195,19 +35195,7 @@
     "6015721": {
         "adsCofRecoil": "0",
         "adsMoveSpeed": "1",
-        "crouchWalkingCofMax": "7",
-        "crouchWalkingCofMaxADS": "7",
-        "crouchWalkingCofMin": "3",
-        "crouchWalkingCofMinADS": "3",
-        "crouchingCofMax": "7",
-        "crouchingCofMaxADS": "7",
-        "crouchingCofMin": "3",
-        "crouchingCofMinADS": "3",
         "description": "The Nano-Armor Kit repairs friendly vehicles, MAX's, equipment and can deconstruct enemy tank mines. Thanks to generous donations from loyal Auraxians, the Terran Republic are able to keep their MAX's in the fight longer, giving the Republic Extra edge against the enemy, making the Life of enemy forces who cross their path, obsolete.<font color=\"#dc9c36\"><br><br>Hold Fire to repair and Aim to deconstruct.</font>",
-        "fallingCofMax": "8",
-        "fallingCofMaxADS": "8",
-        "fallingCofMin": "8",
-        "fallingCofMinADS": "8",
         "fireModes": [
             "Auto"
         ],
@@ -35218,19 +35206,7 @@
         "hipCofRecoil": "0",
         "image_id": "97946",
         "name": "EL Nano-Armor Kit 2",
-        "overheatPenalty": "2000",
-        "runningCofMax": "7",
-        "runningCofMaxADS": "7",
-        "runningCofMin": "5",
-        "runningCofMinADS": "5",
-        "sprintingCofMax": "8",
-        "sprintingCofMaxADS": "8",
-        "sprintingCofMin": "8",
-        "sprintingCofMinADS": "8",
-        "standingCofMax": "7",
-        "standingCofMaxADS": "7",
-        "standingCofMin": "4",
-        "standingCofMinADS": "4"
+        "overheatPenalty": "2000"
     },
     "6015722": {
         "adsCofRecoil": "0",
