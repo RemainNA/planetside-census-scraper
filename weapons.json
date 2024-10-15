@@ -32496,14 +32496,9 @@
     },
     "6014587": {
         "description": "Reserve Silos hold up to 25,000 Cortium and offer supplemental storage for the builder of the base. ANTs are required to deposit additional Cortium into a Silo.",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
+        "fireModes": [],
         "image_id": "96104",
-        "name": "Cortium Silo Reserve",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
+        "name": "Cortium Silo Reserve"
     },
     "6014588": {
         "description": "Reserve Silos hold up to 25,000 Cortium and offer supplemental storage for the builder of the base. ANTs are required to deposit additional Cortium into a Silo.",
