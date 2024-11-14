@@ -40199,7 +40199,7 @@
         "crouchingCofMin": "5",
         "crouchingCofMinADS": "0",
         "defZoom": "6",
-        "description": "Cutting edge railgun tech found in Auraxis' Firearms Railjack sniper rifle allows for lightning-fast bullet velocities. Projectiles pierce through infantry targets following a split-second charge-up delay from its powerful superconductor.",
+        "description": "Cutting edge railgun tech found in Auraxis' Firearms Railjack sniper rifle allows for lightning-fast bullet velocities. Projectiles pierce through infantry targets following a split-second charge-up delay from its powerful superconductor.<br><br><font color=\"#dc9c36\">NC use only.</font>",
         "fallingCofMax": "7",
         "fallingCofMaxADS": "2",
         "fallingCofMin": "7",
