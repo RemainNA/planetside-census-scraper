@@ -36273,6 +36273,74 @@
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
+    "6015789": {
+        "damage": "500",
+        "description": "This knife is given to Anunnaki Zealots who pass the trials set by the Sept of Anu.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98110",
+        "name": "Anunnaki Blade",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6015790": {
+        "damage": "500",
+        "description": "A structural prototype of a programmable blade by VEX Biologics for use with NS Operatives.  Although the electronicss and software don't function in this model, the design of this knife alone can cause horrific damage to its victim.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98119",
+        "name": "VEX-B Proto Data Point",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6015791": {
+        "damage": "500",
+        "description": "A versatile knife with a razor sharp true-edge and a serrated false edge.  A very useful tool for any Justiciar looking to gain intel from stubborn suspects.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98107",
+        "name": "WMC Inquirer",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6015792": {
+        "damage": "500",
+        "description": "Genudine Multiplanetary originally manufactured this knife for Private Military Contractor \"Osprey Defense\".  The lightweight and robust design proved very popular amongst the PMC group.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98104",
+        "name": "GM Osprey",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
     "6050": {
         "crouchWalkingCofMax": "0.5",
         "crouchWalkingCofMin": "0.5",
