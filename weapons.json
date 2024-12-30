@@ -39635,25 +39635,14 @@
         "verticalRecoil": "0.3"
     },
     "726": {
-        "adsCofRecoil": "0",
-        "adsMoveSpeed": "1",
         "damage": "850",
         "defZoom": "1",
         "description": "The Xiphos Anti-Infantry Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
-        "fireModes": [
-            "Semi-Auto"
-        ],
-        "hipCofRecoil": "0",
         "image_id": "880",
         "name": "Xiphos Anti-Infantry Phalanx Turret",
         "pellets": "1",
         "reload": "3750",
-        "speed": "275",
-        "standingCofMax": "0",
-        "standingCofMaxADS": "0",
-        "standingCofMin": "0",
-        "standingCofMinADS": "0",
-        "verticalRecoil": "2"
+        "speed": "275"
     },
     "727": {
         "defZoom": "1.5",
