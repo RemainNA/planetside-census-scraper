@@ -23341,6 +23341,9 @@
     "6009030": {
         "defZoom": "1",
         "description": "The Twin-Saron is a high-capacity variant of the standard issue Saron Laser Cannon, meant for use with interceptor variants of the Scythe. VS use only.",
+        "fireModes": [
+            "Auto"
+        ],
         "image_id": "3707",
         "maxDamage": "160",
         "maxDamageRange": "200",
@@ -23349,7 +23352,9 @@
         "name": "Twin-Saron LC",
         "pellets": "1",
         "reload": "2000",
-        "speed": "750"
+        "speed": "750",
+        "standingCofMax": "0.3",
+        "standingCofMin": "0.3"
     },
     "6009036": {
         "adsCofRecoil": "0.33",
