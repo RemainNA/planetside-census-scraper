@@ -2977,6 +2977,7 @@
         "crouchingCofMaxADS": "3",
         "crouchingCofMin": "3.25",
         "crouchingCofMinADS": "0",
+        "damage": "125",
         "defZoom": "1",
         "description": "Co-developed with Genudine's Offense Development team, the NC6A GODSAW incorporates an alternate firing mode which allows the weapon to pierce heavy armor in exchange for reduced infantry damage.",
         "fallingCofMax": "7",
@@ -6839,7 +6840,7 @@
         "verticalRecoil": "0.3"
     },
     "271": {
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although slower than the NC standard issue Mag-Cutter, when wielded, this knife can be activated, increasing its damage output. NC use only.",
         "fireModes": [
@@ -7443,7 +7444,7 @@
         "verticalRecoil": "2"
     },
     "285": {
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although slower than the TR standard issue Chainblade, when wielded this knife can be activated, increasing its damage output. TR use only.",
         "fireModes": [
@@ -7462,7 +7463,7 @@
         "standingCofMin": "0"
     },
     "286": {
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although slower than the VS standard issue Force-Blade, when wielded this knife can be activated, increasing its damage output. VS use only.",
         "fireModes": [
@@ -13471,7 +13472,7 @@
         "runningCofMaxADS": "3",
         "runningCofMin": "5",
         "runningCofMinADS": "1",
-        "speed": "50",
+        "speed": "150",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "7",
@@ -18855,7 +18856,7 @@
         "standingCofMin": "4"
     },
     "6005451": {
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although slower than the VS standard issue Force-Blade, when wielded this knife can be activated, increasing its damage output. VS use only.",
         "fireModes": [
@@ -25587,7 +25588,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11 \"Endeavor\" Carbine",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -32606,6 +32606,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11C Frostbite",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -33504,6 +33505,7 @@
         "crouchingCofMaxADS": "4",
         "crouchingCofMin": "1.5",
         "crouchingCofMinADS": "0.3",
+        "damage": "200",
         "defZoom": "1",
         "description": "The NS-D Helios is a fiery weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
         "fallingCofMax": "7",
@@ -33523,7 +33525,6 @@
         "minDamage": "100",
         "minDamageRange": "40",
         "name": "NS-D Helios",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "25",
         "recoilAngleMin": "23",
@@ -33535,7 +33536,7 @@
         "runningCofMaxADS": "4",
         "runningCofMin": "2.5",
         "runningCofMinADS": "0.4",
-        "speed": "600",
+        "speed": "40",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "7",
         "sprintingCofMin": "5",
@@ -33692,7 +33693,6 @@
         "crouchingCofMaxADS": "4",
         "crouchingCofMin": "1.5",
         "crouchingCofMinADS": "0.3",
-        "damage": "200",
         "defZoom": "1",
         "description": "The Doombringer is a fiery full-auto weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
         "fallingCofMax": "7",
@@ -33712,6 +33712,7 @@
         "minDamage": "100",
         "minDamageRange": "40",
         "name": "NS-D \"Doombringer\" Helios",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "25",
         "recoilAngleMin": "23",
@@ -33723,7 +33724,7 @@
         "runningCofMaxADS": "4",
         "runningCofMin": "2.5",
         "runningCofMinADS": "0.4",
-        "speed": "40",
+        "speed": "600",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "7",
         "sprintingCofMin": "5",
@@ -36087,23 +36088,6 @@
         "standingCofMin": "4",
         "standingCofMinADS": "4"
     },
-    "6015746": {
-        "damage": "500",
-        "description": "The Mittani sends his regards.",
-        "fireModes": [
-            "Quick Melee",
-            "Melee"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "97967",
-        "name": "Iceberg Knife",
-        "pelletSpread": "0",
-        "pellets": "1",
-        "reload": "0",
-        "speed": "13",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
     "6015789": {
         "damage": "500",
         "description": "This knife is given to Anunnaki Zealots who pass the trials set by the Sept of Anu.",
@@ -37139,7 +37123,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11P",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -41090,6 +41073,7 @@
         "crouchingCofMaxADS": "3",
         "crouchingCofMin": "1",
         "crouchingCofMinADS": "0.5",
+        "damage": "50",
         "defZoom": "1",
         "description": "Reverse-engineered from ancient Vanu tech, the Spiker makes use of a standard 2x burst, as well as an alternate firing mode which charges up an armor piercing blast.",
         "fallingCofMax": "7",
@@ -41485,7 +41469,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11C",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -42232,7 +42215,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CP",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -42370,8 +42352,8 @@
         "hipCofRecoil": "0",
         "image_id": "2438",
         "name": "NC05 Jackhammer",
-        "pelletSpread": "3.5",
-        "pellets": "4",
+        "pelletSpread": "2.5",
+        "pellets": "5",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
         "recoilHorizontalMax": "0.4",
@@ -43274,6 +43256,7 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11AB",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -43327,6 +43310,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CB",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
