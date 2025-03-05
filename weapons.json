@@ -36229,6 +36229,23 @@
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
+    "6015923": {
+        "damage": "500",
+        "description": "Imbued with an ethereal violet hue, the NS \"Primed Amethyst\" Shard is not merely a weapon, but a statement. This blade resonates with those who seek to elevate themselves beyond the mundane, cutting through ignorance to carve paths to enlightenment.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98368",
+        "name": "NS \"Primed Amethyst\" Shard",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
     "6050": {
         "crouchWalkingCofMax": "0.5",
         "crouchWalkingCofMin": "0.5",
