@@ -290,6 +290,11 @@
         "description": "Deploys a cargo device that grants Gate Diffuser to nearby friendly vehicles, allowing them to pass through.",
         "name": "Shield Disruptor"
     },
+    "2153": {
+        "description": "The Magrider is a hover tank used exclusively by the Vanu Sovereignty.  Its hover capabilities allow it ability strafe and climb more types of terrain beyond other tanks.",
+        "image_id": "3987",
+        "name": "Stryder"
+    },
     "3": {
         "description": "The Lightning is a light one man tank.  The Lightning can be outfitted with various types of turrets allowing it to fill anti-air and anti-armor roles.",
         "image_id": "3984",
