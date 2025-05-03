@@ -33617,6 +33617,23 @@
         "standingCofMinADS": "0.3",
         "verticalRecoil": "0.2"
     },
+    "6014991": {
+        "damage": "500",
+        "description": "The Fusion Blade boasts an impossibly sharp edge designed for close quarters combat.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96212",
+        "name": "NSX Fusion Blade",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
     "6014996": {
         "description": "Aim at a location you want the Flail to hit.  Must maintain fire for several seconds to establish a target. Each tool is linked to and can only be used to designate targets for the Flail it is pulled from.",
         "fireModes": [],
@@ -36399,6 +36416,74 @@
         "sprintingCofMin": "0.5",
         "standingCofMax": "0.5",
         "standingCofMin": "0.5"
+    },
+    "6015987": {
+        "damage": "500",
+        "description": "Bringing a knife to a gun fight just got a whole lot cooler.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98500",
+        "name": "Wrench Knife",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6015988": {
+        "damage": "500",
+        "description": "Bringing a knife to a gun fight just got a whole lot cooler.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98503",
+        "name": "Wrench Knife",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6015989": {
+        "damage": "500",
+        "description": "Bringing a knife to a gun fight just got a whole lot cooler.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98506",
+        "name": "Wrench Knife",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6015990": {
+        "damage": "500",
+        "description": "Bringing a knife to a gun fight just got a whole lot cooler.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98509",
+        "name": "Wrench Knife",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
     },
     "6050": {
         "crouchWalkingCofMax": "0.5",
