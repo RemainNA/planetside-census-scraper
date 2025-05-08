@@ -18915,16 +18915,12 @@
         "damage": "300",
         "defZoom": "1",
         "description": "The L-30R Vektor is accurate but slow firing and can pierce all types of armor. All factions can use this weapon.",
-        "fireModes": [
-            "Auto"
-        ],
+        "fireModes": [],
         "image_id": "2024",
         "name": "L-30R Vektor",
         "pellets": "1",
         "reload": "4000",
-        "speed": "750",
-        "standingCofMax": "0.3",
-        "standingCofMin": "0.3"
+        "speed": "750"
     },
     "6005455": {
         "defZoom": "1",
