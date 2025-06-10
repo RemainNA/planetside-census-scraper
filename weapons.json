@@ -19129,9 +19129,7 @@
         "pelletSpread": "0",
         "pellets": "3",
         "reload": "0",
-        "speed": "40",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
+        "speed": "40"
     },
     "6005473": {
         "defZoom": "1",
