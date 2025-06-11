@@ -19129,7 +19129,9 @@
         "pelletSpread": "0",
         "pellets": "3",
         "reload": "0",
-        "speed": "40"
+        "speed": "40",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
     },
     "6005473": {
         "defZoom": "1",
@@ -32679,22 +32681,6 @@
         "standingCofMinADS": "0.1",
         "verticalRecoil": "0.3"
     },
-    "6014527": {
-        "damage": "600",
-        "description": "Dig deep with this combat-ready trench shovel. All factions can use this weapon.",
-        "fireModes": [
-            "Melee",
-            "Quick Melee"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "95858",
-        "name": "Trench Shovel",
-        "pelletSpread": "0",
-        "pellets": "1",
-        "speed": "13",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
     "6014537": {
         "adsCofRecoil": "0.05",
         "adsMoveSpeed": "0.75",
@@ -33212,23 +33198,6 @@
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
-    "6014780": {
-        "damage": "600",
-        "description": "Once used to skewer fish on Earth, it found renewed purpose in skewering your foes on Auraxis. All factions can use this weapon.",
-        "fireModes": [
-            "Quick Melee",
-            "Melee"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "96066",
-        "name": "Wavestinger Harpoon",
-        "pelletSpread": "0",
-        "pellets": "1",
-        "reload": "0",
-        "speed": "13",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
     "6014813": {
         "description": "Allows cortium to be used to create a bridge that can be used by infantry and vehicle units.",
         "fireModes": [
@@ -33614,23 +33583,6 @@
         "standingCofMin": "2",
         "standingCofMinADS": "0.3",
         "verticalRecoil": "0.2"
-    },
-    "6014991": {
-        "damage": "500",
-        "description": "The Fusion Blade boasts an impossibly sharp edge designed for close quarters combat.",
-        "fireModes": [
-            "Quick Melee",
-            "Melee"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "96212",
-        "name": "NSX Fusion Blade",
-        "pelletSpread": "0",
-        "pellets": "1",
-        "reload": "0",
-        "speed": "13",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
     },
     "6014996": {
         "description": "Aim at a location you want the Flail to hit.  Must maintain fire for several seconds to establish a target. Each tool is linked to and can only be used to designate targets for the Flail it is pulled from.",
@@ -36132,23 +36084,6 @@
         "standingCofMin": "4",
         "standingCofMinADS": "4"
     },
-    "6015746": {
-        "damage": "500",
-        "description": "Forged from deep azure crystal, the NS \"Primed Lapis\" Shard is a blade for those who seek clarity in chaos. Its edge is as sharp as the truths it represents, cutting through lies and uncertainty with precision.",
-        "fireModes": [
-            "Quick Melee",
-            "Melee"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "97967",
-        "name": "NS \"Primed Lapis\" Shard",
-        "pelletSpread": "0",
-        "pellets": "1",
-        "reload": "0",
-        "speed": "13",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
     "6015789": {
         "damage": "500",
         "description": "This knife is given to Anunnaki Zealots who pass the trials set by the Sept of Anu.",
@@ -36302,23 +36237,6 @@
         "standingCofMin": "0",
         "verticalRecoil": "2"
     },
-    "6015921": {
-        "damage": "500",
-        "description": "Radiating with an intense crimson glow, the NS \"Primed Ruby\" Shard is the embodiment of fiery passion and loyalty. Each cut it makes is a testament to the price of freedom and the courage to pay it.",
-        "fireModes": [
-            "Quick Melee",
-            "Melee"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "98362",
-        "name": "NS \"Primed Ruby\" Shard",
-        "pelletSpread": "0",
-        "pellets": "1",
-        "reload": "0",
-        "speed": "13",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
     "6015922": {
         "damage": "500",
         "description": "The NS \"Primed Diamond\" Shard is a paragon of strength and resilience. Its flawless edge mirrors the unbreakable will of its wielder, offering clarity in the fog of war and a promise of enduring fortitude.",
@@ -36329,23 +36247,6 @@
         "hipCofRecoil": "0",
         "image_id": "98365",
         "name": "NS \"Primed Diamond\" Shard",
-        "pelletSpread": "0",
-        "pellets": "1",
-        "reload": "0",
-        "speed": "13",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "6015923": {
-        "damage": "500",
-        "description": "Imbued with an ethereal violet hue, the NS \"Primed Amethyst\" Shard is not merely a weapon, but a statement. This blade resonates with those who seek to elevate themselves beyond the mundane, cutting through ignorance to carve paths to enlightenment.",
-        "fireModes": [
-            "Quick Melee",
-            "Melee"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "98368",
-        "name": "NS \"Primed Amethyst\" Shard",
         "pelletSpread": "0",
         "pellets": "1",
         "reload": "0",
