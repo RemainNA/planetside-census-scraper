@@ -13337,8 +13337,14 @@
     },
     "6002490": {
         "description": "Vehicle Gates are large walls with an opening wide enough for vehicles to pass through; the opening is sealed with an energy shield that will block enemy vehicles and large projectiles.",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
         "image_id": "86738",
-        "name": "Vehicle Gate"
+        "name": "Vehicle Gate",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
     },
     "6002491": {
         "description": "Vehicle Gates are large walls with an opening wide enough for vehicles to pass through; the opening is sealed with an energy shield that will block enemy vehicles and large projectiles.",
