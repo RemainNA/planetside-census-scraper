@@ -36084,6 +36084,23 @@
         "standingCofMin": "4",
         "standingCofMinADS": "4"
     },
+    "6015746": {
+        "damage": "500",
+        "description": "Forged from deep azure crystal, the NS \"Primed Lapis\" Shard is a blade for those who seek clarity in chaos. Its edge is as sharp as the truths it represents, cutting through lies and uncertainty with precision.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "97967",
+        "name": "NS \"Primed Lapis\" Shard",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
     "6015789": {
         "damage": "500",
         "description": "This knife is given to Anunnaki Zealots who pass the trials set by the Sept of Anu.",
