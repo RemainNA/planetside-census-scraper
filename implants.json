@@ -79,6 +79,14 @@
         "desc": "Your personal shield health is increased by 400, and 400 health is removed from your health pool.<br><br><font color=\"#dc9c36\">Perfect implants cannot be broken down.</font>",
         "image": "92204"
     },
+    "Bull Market": {
+        "2": "Shows nearby A7 terminal locations on your HUD.",
+        "3": "Shows nearby A7 terminal locations on your HUD.",
+        "4": "Shows nearby A7 terminal locations on your HUD.",
+        "5": "Shows nearby A7 terminal locations on your HUD.",
+        "desc": "Shows nearby A7 terminal locations on your HUD.",
+        "image": "87452"
+    },
     "Carapace": {
         "desc": "Your personal shield is removed and replaced with 500 additional health. Equipment that adds or modifies shield health does not stack with this implant.",
         "image": "88039"
