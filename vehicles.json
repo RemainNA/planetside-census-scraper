@@ -295,6 +295,10 @@
         "image_id": "3987",
         "name": "Stryder"
     },
+    "2154": {
+        "description": "Spitfire Auto-Turrets are placed by engineers and automatically engage hostile infantry within 50 meters.",
+        "name": "Spitfire Auto-Turret"
+    },
     "3": {
         "description": "The Lightning is a light one man tank.  The Lightning can be outfitted with various types of turrets allowing it to fill anti-air and anti-armor roles.",
         "image_id": "3984",
