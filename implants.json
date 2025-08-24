@@ -51,6 +51,10 @@
         "desc": "Your movements no longer trigger anti-infantry mines, and you are no longer targeted by Spitfire turrets.",
         "image": "89583"
     },
+    "Avoidance [Perfect]": {
+        "desc": "Your movements no longer trigger anti-infantry mines, and you are no longer targeted by Spitfire turrets.<br><br><font color=\"#dc9c36\">Perfect implants cannot be broken down.</font>",
+        "image": "94914"
+    },
     "Battle Hardened": {
         "1": "Reduces camera shake and flinch from explosions and bullet impacts by 30%. <font color=\"#dc9c36\">MAX units can equip.</font>",
         "2": "Reduces camera shake and flinch from explosions and bullet impacts by 33%. <font color=\"#dc9c36\">MAX units can equip.</font>",
@@ -223,6 +227,10 @@
         "desc": "While equipped, the player will highlight non-cloaked infantry and vehicles within 125 meters, while reducing vision at long range. <font color=\"#dc9c36\">MAX units can equip. Does not work in vehicles.</font>",
         "image": "87774"
     },
+    "Infravision [Perfect]": {
+        "desc": "While equipped, the player will highlight infantry and vehicles within 125 meters, while reducing vision at long range. <font color=\"#dc9c36\">MAX units can equip. Does not work in vehicles.</font><br><br><font color=\"#dc9c36\">Perfect implants cannot be broken down.</font>",
+        "image": "94908"
+    },
     "Jockey": {
         "1": "While riding in an exposed vehicle seat or gunning an Engineer MANA Turret, you receive an additional 30% maximum shield health.",
         "2": "While riding in an exposed vehicle seat or gunning an Engineer MANA Turret, you receive an additional 33% maximum shield health.",
@@ -258,6 +266,10 @@
     "Minor Cloak": {
         "desc": "Remaining stationary for 8 seconds will cloak the user. Movement will break this cloak, though short bouts of movement will let you return to cloak more quickly after breaking it. Firing a weapon will reset the 8 second recharge countdown.",
         "image": "87503"
+    },
+    "Minor Cloak [Perfect]": {
+        "desc": "Remaining stationary for 8 seconds will cloak the user. Movement will break this cloak, though short bouts of movement will let you return to cloak more quickly after breaking it. Firing a weapon will reset the 8 second recharge countdown.<br><br><font color=\"#dc9c36\">Perfect implants cannot be broken down.</font>",
+        "image": "94911"
     },
     "Mobility Mesh": {
         "1": "Reduces the movement speed penalty while your overshield is active by 15%. <font color=\"#dc9c36\">Heavy Assault only.</font>",
