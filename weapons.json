@@ -25140,17 +25140,6 @@
         "standingCofMinADS": "0.15",
         "verticalRecoil": "1"
     },
-    "6009460": {
-        "description": "Deploys a drone for the Metal Detector mission",
-        "fireModes": [
-            "Activate Drone"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "92798",
-        "name": "Metal Detector",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
     "6009461": {
         "defZoom": "1",
         "description": "The Anaconda is a hybrid combat platform equipped with an anti-vehicle chaingun and havoc rocket launcher. The havoc rocket fires when aiming the weapon's optics. All factions can use this weapon.",
@@ -33131,61 +33120,6 @@
         "hipCofRecoil": "0",
         "image_id": "96075",
         "name": "Infantry Awning",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "6014760": {
-        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within 10 meters passively recover 40 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "93425",
-        "name": "Repair Drone 1",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "6014761": {
-        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within 10 meters passively recover 43 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "93425",
-        "name": "Repair Drone 2",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "6014762": {
-        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within 10 meters passively recover 46 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "93425",
-        "name": "Repair Drone 3",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "6014763": {
-        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within 10 meters passively recover 49 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "93425",
-        "name": "Repair Drone 4",
-        "standingCofMax": "0",
-        "standingCofMin": "0"
-    },
-    "6014764": {
-        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, MAX units, and construction objects within 10 meters passively recover 52 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
-        "fireModes": [
-            "Auto"
-        ],
-        "hipCofRecoil": "0",
-        "image_id": "93425",
-        "name": "Repair Drone 5",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
