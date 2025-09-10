@@ -33123,6 +33123,61 @@
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
+    "6014760": {
+        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within 10 meters passively recover 40 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "93425",
+        "name": "Repair Drone 1",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014761": {
+        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within 10 meters passively recover 43 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "93425",
+        "name": "Repair Drone 2",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014762": {
+        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within 10 meters passively recover 46 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "93425",
+        "name": "Repair Drone 3",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014763": {
+        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, and MAX units within 10 meters passively recover 49 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "93425",
+        "name": "Repair Drone 4",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6014764": {
+        "description": "Activates a Repair Drone that hovers nearby. Friendly vehicles, equipment, MAX units, and construction objects within 10 meters passively recover 52 health every second. 45 second cooldown.<font color=\"#dc9c36\"><br><br>Only one drone can be active at a time. Destroyed when you enter a vehicle.</font>",
+        "fireModes": [
+            "Auto"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "93425",
+        "name": "Repair Drone 5",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
     "6014778": {
         "description": "Constructs a secure spawn location with a built-in equipment terminal and two module sockets.",
         "fireModes": [
