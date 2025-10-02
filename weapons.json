@@ -33806,6 +33806,22 @@
         "standingCofMinADS": "0.3",
         "verticalRecoil": "0.2"
     },
+    "6015205": {
+        "damage": "600",
+        "description": "Knock your enemies for six with this Home Run Bat! All factions can use this weapon.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96693",
+        "name": "NS Homerun",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
     "6015212": {
         "adsCofRecoil": "0.2",
         "adsMoveSpeed": "0.75",
