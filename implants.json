@@ -223,6 +223,10 @@
         "5": "Reduces screen shake caused by explosions by 95%, and you are no longer affected by knockbacks caused by enemies or allies. Additionally, whenever you take fall damage, you will emit an impulse that knocks back enemy infantry. <font color=\"#dc9c36\">MAX units can equip.</font>",
         "image": "89405"
     },
+    "Hospitaller": {
+        "desc": "While reviving a fallen ally, the Combat Medic's personal shield capacity is extended by 200.",
+        "image": "98902"
+    },
     "Infravision": {
         "desc": "While equipped, the player will highlight non-cloaked infantry and vehicles within 125 meters, while reducing vision at long range. <font color=\"#dc9c36\">MAX units can equip. Does not work in vehicles.</font>",
         "image": "87774"
@@ -295,6 +299,10 @@
         "5": "Killing an enemy while wielding a melee weapon, or while within 5 meters of your target will cloak you for 2 seconds. Firing your weapon will immediately decloak you.",
         "image": "87473"
     },
+    "Observer": {
+        "desc": "Experimental technology rarely seen on a battlefield, the Observer search engine analyzes incoming images to detect visual fluctuations made by Infiltrator cloaks. Engineer Spitfire turret can now spot cloaked targets.",
+        "image": "98758"
+    },
     "Ocular Shield": {
         "1": "Reduces the duration of Concussion, Flash, and EMP Grenades used against you by 45%. <font color=\"#dc9c36\">MAX units can equip.</font>",
         "2": "Reduces the duration of Concussion, Flash, and EMP Grenades used against you by 50%. <font color=\"#dc9c36\">MAX units can equip.</font>",
@@ -359,6 +367,10 @@
         "5": "Regenerates 35 health per second when out of combat for 10 seconds, and headshot kills regenerate 100 health over 2 seconds.",
         "image": "87476"
     },
+    "Remote Hacking": {
+        "desc": "Remote Hacking Implant allows the Infiltrator to use the Recon Drone for hacking by establishing additional connection protocols.",
+        "image": "99048"
+    },
     "Response Jacket": {
         "1": "Receiving damage from a standard explosive or light anti-vehicle weapon will trigger a shield that reduces damage from both resistance types by 50% for 6 seconds.",
         "2": "Receiving damage from a standard explosive or light anti-vehicle weapon will trigger a shield that reduces damage from both resistance types by 50% for 8 seconds.",
@@ -422,6 +434,14 @@
         "4": "Your radar signature no longer appears on detection devices outside of 10 meters.",
         "5": "Your radar signature no longer appears on detection devices outside of 10 meters, and while walking, you cannot be detected by recon devices at all.",
         "image": "87816"
+    },
+    "Sharing Is Caring": {
+        "1": "An engineer with this implant transfers his shield to his allies in a squad. Squad member shield increases by 60 ",
+        "2": "An engineer with this implant transfers his shield to his allies in a squad. Squad member shield increases by 80",
+        "3": "An engineer with this implant transfers his shield to his allies in a squad. Squad member shield increases by 100.",
+        "4": "An engineer with this implant transfers his shield to his allies in a squad. Squad member shield increases by 140.",
+        "5": "An engineer with this implant transfers his shield to his allies in a squad. Squad member shield increases by 200.",
+        "image": "98917"
     },
     "Sidewinder": {
         "1": "Your strafe speed is increased by 20%, but accelerating and decelerating while strafing takes twice as long.",

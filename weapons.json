@@ -8060,7 +8060,7 @@
     "309": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10639,7 +10639,7 @@
     "471": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10658,7 +10658,7 @@
     "472": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10677,7 +10677,7 @@
     "473": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10696,7 +10696,7 @@
     "474": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10766,7 +10766,7 @@
     "475": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10785,7 +10785,7 @@
     "476": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10804,7 +10804,7 @@
     "477": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10823,7 +10823,7 @@
     "478": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10842,7 +10842,7 @@
     "479": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10861,7 +10861,7 @@
     "480": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10880,7 +10880,7 @@
     "481": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10899,7 +10899,7 @@
     "482": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10918,7 +10918,7 @@
     "483": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10937,7 +10937,7 @@
     "484": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10956,7 +10956,7 @@
     "485": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10975,7 +10975,7 @@
     "486": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -10994,7 +10994,7 @@
     "487": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -13471,7 +13471,7 @@
         "runningCofMaxADS": "3",
         "runningCofMin": "5",
         "runningCofMinADS": "1",
-        "speed": "150",
+        "speed": "50",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "7",
@@ -14548,7 +14548,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A \"Heatwave\"",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -15802,8 +15801,8 @@
         "hipCofRecoil": "0",
         "image_id": "88577",
         "name": "NC05-P Jackhammer",
-        "pelletSpread": "2.5",
-        "pellets": "5",
+        "pelletSpread": "3.5",
+        "pellets": "4",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
         "recoilHorizontalMax": "0.4",
@@ -17073,7 +17072,7 @@
     "6005169": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 3.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -17092,7 +17091,7 @@
     "6005170": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 3 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -17111,7 +17110,7 @@
     "6005171": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2.75 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -17130,7 +17129,7 @@
     "6005172": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2.5 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -17149,7 +17148,7 @@
     "6005173": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2.25 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -17168,7 +17167,7 @@
     "6005174": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds.",
+        "description": "The Recon Detection Device's dart pulses every 2 seconds to momentarily detect the location of fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -18893,7 +18892,7 @@
         "standingCofMin": "0"
     },
     "6005453": {
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although slower than the NC standard issue Mag-Cutter, when wielded, this knife can be activated, increasing its damage output. NC use only.",
         "fireModes": [
@@ -25589,6 +25588,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11 \"Endeavor\" Carbine",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -30488,7 +30488,7 @@
         "verticalRecoil": "1"
     },
     "6012441": {
-        "damage": "600",
+        "damage": "500",
         "defZoom": "1",
         "description": "When in doubt, bonk it over the head with this giant, squeaky hammer. All factions can use this weapon.",
         "fireModes": [
@@ -32589,7 +32589,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A Frontline",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -34063,7 +34062,7 @@
         "runningCofMaxADS": "3",
         "runningCofMin": "5",
         "runningCofMinADS": "1",
-        "speed": "50",
+        "speed": "150",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "7",
@@ -36393,7 +36392,7 @@
         "verticalRecoil": "0.2"
     },
     "6015844": {
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although primarily a knife, the pommel of this weapon contains a small computer capable of bypassing specific security protocols remotely, or through a unique port found on some of Nanite Systems technology.  Senior Nanite Systems technicians use these \"Skeleton Keys\" for debugging and overriding parameters when testing specific projects. Due to being a potential security risk, these \"Skeleton Keys\" are heavily guarded.",
         "fireModes": [
@@ -36635,6 +36634,50 @@
         "pellets": "1",
         "reload": "0",
         "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6016136": {
+        "description": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide battlefield overview. The range is limited to 60 meters. The recon drone's battery life is 40 seconds. ",
+        "fireModes": [
+            "Activate Drone"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98753",
+        "name": "Recon Drone 1",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6016137": {
+        "description": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 80 meters and a 40-second battery lifetime.",
+        "fireModes": [
+            "Activate Drone"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98753",
+        "name": "Recon Drone 2",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6016138": {
+        "description": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 120 meters and a 60-second battery lifetime.",
+        "fireModes": [
+            "Activate Drone"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98753",
+        "name": "Recon Drone 3",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6016139": {
+        "description": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 160 meters and a 120-second battery lifetime.",
+        "fireModes": [
+            "Activate Drone"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98753",
+        "name": "Recon Drone 4",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -37532,7 +37575,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11P",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -37750,7 +37792,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -41879,7 +41920,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11C",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -42626,7 +42666,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CP",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -42764,8 +42803,8 @@
         "hipCofRecoil": "0",
         "image_id": "2438",
         "name": "NC05 Jackhammer",
-        "pelletSpread": "2.5",
-        "pellets": "5",
+        "pelletSpread": "3.5",
+        "pellets": "4",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
         "recoilHorizontalMax": "0.4",
@@ -42788,7 +42827,7 @@
         "verticalRecoil": "1.2"
     },
     "75285": {
-        "description": "While deployed, shares the locations of enemy infantry within 30 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds, two can be carried.",
+        "description": "While deployed, shares the locations of enemy infantry within 30 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds.",
         "fireModes": [
             "Deployable"
         ],
@@ -42799,7 +42838,7 @@
         "standingCofMin": "0"
     },
     "75286": {
-        "description": "While deployed, shares the locations of enemy infantry within 35 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds, three can be carried.",
+        "description": "While deployed, shares the locations of enemy infantry within 35 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 120 seconds.",
         "fireModes": [
             "Deployable"
         ],
@@ -42810,7 +42849,7 @@
         "standingCofMin": "0"
     },
     "75287": {
-        "description": "While deployed, shares the locations of enemy infantry within 40 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, three can be carried.",
+        "description": "While deployed, shares the locations of enemy infantry within 40 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds.",
         "fireModes": [
             "Deployable"
         ],
@@ -42821,7 +42860,7 @@
         "standingCofMin": "0"
     },
     "75288": {
-        "description": "While deployed, shares the locations of enemy infantry within 45 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, four can be carried.",
+        "description": "While deployed, shares the locations of enemy infantry within 45 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 180 seconds, two can be carried.",
         "fireModes": [
             "Deployable"
         ],
@@ -42832,7 +42871,7 @@
         "standingCofMin": "0"
     },
     "75289": {
-        "description": "While deployed, shares the locations of enemy infantry within 50 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 240 seconds, five can be carried.",
+        "description": "While deployed, shares the locations of enemy infantry within 50 meters every 1.5 seconds; the Infiltrator also receives live movement updates of enemies within 20 meters. Lasts 240 seconds, three can be carried.",
         "fireModes": [
             "Deployable"
         ],
@@ -43151,6 +43190,17 @@
         "standingCofMin": "1",
         "standingCofMinADS": "1",
         "verticalRecoil": "0.8"
+    },
+    "75564": {
+        "description": "A remote control aerial drone that can be used to spot enemy forces.",
+        "fireModes": [
+            "Activate Drone"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "13482",
+        "name": "Recon Drone",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
     },
     "7609": {
         "description": "This single-use Restoration Kit regenerates 70 health per second for 12 seconds through needle-free, subcutaneous delivery of adrenaline and nanite-based coagulants.",
@@ -43721,7 +43771,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CB",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -43828,6 +43877,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CG",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -45061,7 +45111,7 @@
         "runningCofMaxADS": "3",
         "runningCofMin": "5",
         "runningCofMinADS": "1",
-        "speed": "150",
+        "speed": "50",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "7",
@@ -49716,7 +49766,7 @@
     "804869": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49735,7 +49785,7 @@
     "804870": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49754,7 +49804,7 @@
     "804871": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49773,7 +49823,7 @@
     "804872": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 20 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 3.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 20 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49792,7 +49842,7 @@
     "804873": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 3 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 3 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49811,7 +49861,7 @@
     "804874": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 3 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 3 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49830,7 +49880,7 @@
     "804875": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 3 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 25 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 3 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 20 meter radius for 25 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49849,7 +49899,7 @@
     "804876": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.75 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.75 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49868,7 +49918,7 @@
     "804877": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.75 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.75 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49887,7 +49937,7 @@
     "804878": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.75 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 30 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.75 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 25 meter radius for 30 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49906,7 +49956,7 @@
     "804879": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.5 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.5 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49925,7 +49975,7 @@
     "804880": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.5 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.5 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49944,7 +49994,7 @@
     "804881": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.5 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 35 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.5 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 30 meter radius for 35 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49963,7 +50013,7 @@
     "804882": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -49982,7 +50032,7 @@
     "804883": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -50001,7 +50051,7 @@
     "804884": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 45 meter radius for 40 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2.25 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 35 meter radius for 40 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -50020,7 +50070,7 @@
     "804885": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds.",
         "fireModes": [
             "Single Shot"
         ],
@@ -50039,7 +50089,7 @@
     "804886": {
         "adsCofRecoil": "1.2",
         "adsMoveSpeed": "1",
-        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 50 meter radius for 45 seconds.",
+        "description": "This gold plated version of the Recon Detection Device fires darts which pulse every 2 seconds, momentarily detecting fast-moving enemies, including cloaked infiltrators, in a 40 meter radius for 45 seconds.",
         "fireModes": [
             "Single Shot"
         ],
