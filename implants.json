@@ -371,6 +371,10 @@
         "desc": "Remote Hacking Implant allows the Infiltrator to use the Recon Drone for hacking by establishing additional connection protocols.",
         "image": "99048"
     },
+    "Remote Hacking [Perfect]": {
+        "desc": "Remote Hacking Implant allows the Infiltrator to use the Recon Drone for hacking by establishing additional connection protocols.<br><br><font color=\"#dc9c36\">Perfect implants cannot be broken down.</font>",
+        "image": "99066"
+    },
     "Response Jacket": {
         "1": "Receiving damage from a standard explosive or light anti-vehicle weapon will trigger a shield that reduces damage from both resistance types by 50% for 6 seconds.",
         "2": "Receiving damage from a standard explosive or light anti-vehicle weapon will trigger a shield that reduces damage from both resistance types by 50% for 8 seconds.",

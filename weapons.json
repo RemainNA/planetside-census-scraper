@@ -7462,7 +7462,7 @@
         "standingCofMin": "0"
     },
     "286": {
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although slower than the VS standard issue Force-Blade, when wielded this knife can be activated, increasing its damage output. VS use only.",
         "fireModes": [
@@ -18873,7 +18873,7 @@
         "standingCofMin": "0"
     },
     "6005452": {
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although slower than the TR standard issue Chainblade, when wielded this knife can be activated, increasing its damage output. TR use only.",
         "fireModes": [
@@ -30488,7 +30488,7 @@
         "verticalRecoil": "1"
     },
     "6012441": {
-        "damage": "500",
+        "damage": "600",
         "defZoom": "1",
         "description": "When in doubt, bonk it over the head with this giant, squeaky hammer. All factions can use this weapon.",
         "fireModes": [
@@ -32589,6 +32589,7 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A Frontline",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -33543,6 +33544,7 @@
         "crouchingCofMaxADS": "4",
         "crouchingCofMin": "1.5",
         "crouchingCofMinADS": "0.3",
+        "damage": "200",
         "defZoom": "1",
         "description": "The NS-D Helios is a fiery weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
         "fallingCofMax": "7",
@@ -33562,7 +33564,6 @@
         "minDamage": "100",
         "minDamageRange": "40",
         "name": "NS-D Helios",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "25",
         "recoilAngleMin": "23",
@@ -33574,7 +33575,7 @@
         "runningCofMaxADS": "4",
         "runningCofMin": "2.5",
         "runningCofMinADS": "0.4",
-        "speed": "600",
+        "speed": "40",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "7",
         "sprintingCofMin": "5",
@@ -33597,6 +33598,7 @@
         "crouchingCofMaxADS": "4",
         "crouchingCofMin": "1.5",
         "crouchingCofMinADS": "0.3",
+        "damage": "200",
         "defZoom": "1",
         "description": "The NS-D Helios is a fiery weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
         "fallingCofMax": "7",
@@ -33616,7 +33618,6 @@
         "minDamage": "100",
         "minDamageRange": "40",
         "name": "NS-D Helios EX",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "25",
         "recoilAngleMin": "23",
@@ -33628,7 +33629,7 @@
         "runningCofMaxADS": "4",
         "runningCofMin": "2.5",
         "runningCofMinADS": "0.4",
-        "speed": "600",
+        "speed": "40",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "7",
         "sprintingCofMin": "5",
@@ -34062,7 +34063,7 @@
         "runningCofMaxADS": "3",
         "runningCofMin": "5",
         "runningCofMinADS": "1",
-        "speed": "150",
+        "speed": "50",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "7",
@@ -36392,7 +36393,7 @@
         "verticalRecoil": "0.2"
     },
     "6015844": {
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although primarily a knife, the pommel of this weapon contains a small computer capable of bypassing specific security protocols remotely, or through a unique port found on some of Nanite Systems technology.  Senior Nanite Systems technicians use these \"Skeleton Keys\" for debugging and overriding parameters when testing specific projects. Due to being a potential security risk, these \"Skeleton Keys\" are heavily guarded.",
         "fireModes": [
@@ -36678,6 +36679,23 @@
         "hipCofRecoil": "0",
         "image_id": "98753",
         "name": "Recon Drone 4",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
+    "6016250": {
+        "damage": "500",
+        "description": "An artifact found at an excavation site that was used for rituals by a lost civilization.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "98928",
+        "name": "Antebrachium",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
@@ -40731,10 +40749,10 @@
         "heatRecoveryDelay": "700",
         "hipCofRecoil": "0.8",
         "image_id": "13758",
-        "maxDamage": "550",
+        "maxDamage": "400",
         "maxDamageRange": "10",
-        "minDamage": "400",
-        "minDamageRange": "400",
+        "minDamage": "334",
+        "minDamageRange": "85",
         "name": "Phaseshift VX-S",
         "overheatPenalty": "1000",
         "pelletSpread": "0",
@@ -41525,6 +41543,7 @@
         "crouchingCofMaxADS": "3",
         "crouchingCofMin": "1",
         "crouchingCofMinADS": "0.5",
+        "damage": "50",
         "defZoom": "1",
         "description": "Reverse-engineered from ancient Vanu tech, the Spiker makes use of a standard 2x burst, as well as an alternate firing mode which charges up an armor piercing blast.",
         "fallingCofMax": "7",
@@ -42666,6 +42685,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CP",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -45111,7 +45131,7 @@
         "runningCofMaxADS": "3",
         "runningCofMin": "5",
         "runningCofMinADS": "1",
-        "speed": "50",
+        "speed": "150",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "7",
@@ -46657,8 +46677,8 @@
         "hipCofRecoil": "0",
         "image_id": "84814",
         "name": "NC05 Jackhammer AE",
-        "pelletSpread": "3.5",
-        "pellets": "4",
+        "pelletSpread": "2.5",
+        "pellets": "5",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
         "recoilHorizontalMax": "0.4",
