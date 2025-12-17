@@ -2977,6 +2977,7 @@
         "crouchingCofMaxADS": "3",
         "crouchingCofMin": "3.25",
         "crouchingCofMinADS": "0",
+        "damage": "125",
         "defZoom": "1",
         "description": "Co-developed with Genudine's Offense Development team, the NC6A GODSAW incorporates an alternate firing mode which allows the weapon to pierce heavy armor in exchange for reduced infantry damage.",
         "fallingCofMax": "7",
@@ -7462,7 +7463,7 @@
         "standingCofMin": "0"
     },
     "286": {
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although slower than the VS standard issue Force-Blade, when wielded this knife can be activated, increasing its damage output. VS use only.",
         "fireModes": [
@@ -13471,7 +13472,7 @@
         "runningCofMaxADS": "3",
         "runningCofMin": "5",
         "runningCofMinADS": "1",
-        "speed": "50",
+        "speed": "150",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "7",
@@ -18873,7 +18874,7 @@
         "standingCofMin": "0"
     },
     "6005452": {
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although slower than the TR standard issue Chainblade, when wielded this knife can be activated, increasing its damage output. TR use only.",
         "fireModes": [
@@ -18892,7 +18893,7 @@
         "standingCofMin": "0"
     },
     "6005453": {
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although slower than the NC standard issue Mag-Cutter, when wielded, this knife can be activated, increasing its damage output. NC use only.",
         "fireModes": [
@@ -25356,7 +25357,7 @@
         "standingCofMin": "0"
     },
     "6009600": {
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Originally developed for exploration on Esamir as a companion tool to the NS Icebreaker, the Firebug has recently gained popularity among soldiers looking for a more dramatic option in close-quarters combat.",
         "fireModes": [
@@ -25369,7 +25370,6 @@
         "name": "NS Firebug",
         "pelletSpread": "0",
         "pellets": "1",
-        "reload": "0",
         "speed": "13",
         "standingCofMax": "0",
         "standingCofMin": "0"
@@ -25588,7 +25588,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11 \"Endeavor\" Carbine",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -32002,7 +32001,7 @@
         "runningCofMaxADS": "3",
         "runningCofMin": "5",
         "runningCofMinADS": "1",
-        "speed": "50",
+        "speed": "150",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "7",
@@ -33266,7 +33265,7 @@
         "standingCofMin": "0"
     },
     "6014815": {
-        "description": "Allows cortium to be used to create a narrow bulwark wall that can be used by infantry units.",
+        "description": "Constructs a narrow bulwark wall that can be used by infantry units.",
         "fireModes": [
             "Auto"
         ],
@@ -33544,7 +33543,6 @@
         "crouchingCofMaxADS": "4",
         "crouchingCofMin": "1.5",
         "crouchingCofMinADS": "0.3",
-        "damage": "200",
         "defZoom": "1",
         "description": "The NS-D Helios is a fiery weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
         "fallingCofMax": "7",
@@ -33564,6 +33562,7 @@
         "minDamage": "100",
         "minDamageRange": "40",
         "name": "NS-D Helios",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "25",
         "recoilAngleMin": "23",
@@ -33575,7 +33574,7 @@
         "runningCofMaxADS": "4",
         "runningCofMin": "2.5",
         "runningCofMinADS": "0.4",
-        "speed": "40",
+        "speed": "600",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "7",
         "sprintingCofMin": "5",
@@ -33829,7 +33828,6 @@
         "crouchingCofMaxADS": "4",
         "crouchingCofMin": "1.5",
         "crouchingCofMinADS": "0.3",
-        "damage": "200",
         "defZoom": "1",
         "description": "The Doombringer is a fiery full-auto weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
         "fallingCofMax": "7",
@@ -33849,6 +33847,7 @@
         "minDamage": "100",
         "minDamageRange": "40",
         "name": "NS-D \"Doombringer\" Helios",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "25",
         "recoilAngleMin": "23",
@@ -33860,7 +33859,7 @@
         "runningCofMaxADS": "4",
         "runningCofMin": "2.5",
         "runningCofMinADS": "0.4",
-        "speed": "40",
+        "speed": "600",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "7",
         "sprintingCofMin": "5",
@@ -36350,7 +36349,6 @@
         "crouchingCofMaxADS": "4",
         "crouchingCofMin": "1.5",
         "crouchingCofMinADS": "0.3",
-        "damage": "200",
         "defZoom": "1",
         "description": "The Ice Dragon is a fiery weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
         "fallingCofMax": "7",
@@ -36370,6 +36368,7 @@
         "minDamage": "100",
         "minDamageRange": "40",
         "name": "NS-D \"Ice Dragon\" Helios",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "25",
         "recoilAngleMin": "23",
@@ -36381,7 +36380,7 @@
         "runningCofMaxADS": "4",
         "runningCofMin": "2.5",
         "runningCofMinADS": "0.4",
-        "speed": "40",
+        "speed": "600",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "7",
         "sprintingCofMin": "5",
@@ -36393,7 +36392,7 @@
         "verticalRecoil": "0.2"
     },
     "6015844": {
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although primarily a knife, the pommel of this weapon contains a small computer capable of bypassing specific security protocols remotely, or through a unique port found on some of Nanite Systems technology.  Senior Nanite Systems technicians use these \"Skeleton Keys\" for debugging and overriding parameters when testing specific projects. Due to being a potential security risk, these \"Skeleton Keys\" are heavily guarded.",
         "fireModes": [
@@ -36639,7 +36638,7 @@
         "standingCofMin": "0"
     },
     "6016136": {
-        "description": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide battlefield overview. The range is limited to 60 meters. The recon drone's battery life is 40 seconds. ",
+        "description": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide battlefield overview. The range is limited to 90 meters. The recon drone's battery life is 60 seconds. ",
         "fireModes": [
             "Activate Drone"
         ],
@@ -36650,7 +36649,7 @@
         "standingCofMin": "0"
     },
     "6016137": {
-        "description": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 80 meters and a 40-second battery lifetime.",
+        "description": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 120 meters and a 80-second battery lifetime.",
         "fireModes": [
             "Activate Drone"
         ],
@@ -36661,7 +36660,7 @@
         "standingCofMin": "0"
     },
     "6016138": {
-        "description": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 120 meters and a 60-second battery lifetime.",
+        "description": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 150 meters and a 100-second battery lifetime.",
         "fireModes": [
             "Activate Drone"
         ],
@@ -36672,7 +36671,7 @@
         "standingCofMin": "0"
     },
     "6016139": {
-        "description": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 160 meters and a 120-second battery lifetime.",
+        "description": "A remotely controlled unmanned aerial vehicle designed to detect the enemy and provide a battlefield overview. This upgraded version has a range of 200 meters and a 140-second battery lifetime.",
         "fireModes": [
             "Activate Drone"
         ],
@@ -37810,6 +37809,7 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11A",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -40749,10 +40749,10 @@
         "heatRecoveryDelay": "700",
         "hipCofRecoil": "0.8",
         "image_id": "13758",
-        "maxDamage": "400",
+        "maxDamage": "550",
         "maxDamageRange": "10",
-        "minDamage": "334",
-        "minDamageRange": "85",
+        "minDamage": "400",
+        "minDamageRange": "400",
         "name": "Phaseshift VX-S",
         "overheatPenalty": "1000",
         "pelletSpread": "0",
@@ -42685,7 +42685,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CP",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -42823,8 +42822,8 @@
         "hipCofRecoil": "0",
         "image_id": "2438",
         "name": "NC05 Jackhammer",
-        "pelletSpread": "3.5",
-        "pellets": "4",
+        "pelletSpread": "2.5",
+        "pellets": "5",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
         "recoilHorizontalMax": "0.4",
@@ -43791,6 +43790,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CB",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -43897,7 +43897,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CG",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -46677,8 +46676,8 @@
         "hipCofRecoil": "0",
         "image_id": "84814",
         "name": "NC05 Jackhammer AE",
-        "pelletSpread": "2.5",
-        "pellets": "5",
+        "pelletSpread": "3.5",
+        "pellets": "4",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
         "recoilHorizontalMax": "0.4",
