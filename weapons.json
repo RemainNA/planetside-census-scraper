@@ -32736,6 +32736,22 @@
         "standingCofMinADS": "0.1",
         "verticalRecoil": "0.3"
     },
+    "6014527": {
+        "damage": "600",
+        "description": "Dig deep with this combat-ready trench shovel. All factions can use this weapon.",
+        "fireModes": [
+            "Melee",
+            "Quick Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "95858",
+        "name": "Trench Shovel",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
     "6014537": {
         "adsCofRecoil": "0.05",
         "adsMoveSpeed": "0.75",
