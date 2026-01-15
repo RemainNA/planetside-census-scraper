@@ -19636,7 +19636,7 @@
         "standingCofMin": "0"
     },
     "6005634": {
-        "description": "Large wall that once fully constructed can withstand a moderate amount of damage.",
+        "description": "Large wall that once fully constructed can withstand a moderate amount of damage. This object shares its maximum in-world limit with at least one other construction item.",
         "fireModes": [
             "Auto"
         ],
@@ -19818,7 +19818,7 @@
         "standingCofMin": "0"
     },
     "6005698": {
-        "description": "Constructs a large, fortified wall with firing areas for infantry.",
+        "description": "Constructs a large, fortified wall with firing areas for infantry. This object shares its maximum in-world limit with at least one other construction item.",
         "fireModes": [
             "Auto"
         ],
@@ -33281,7 +33281,7 @@
         "standingCofMin": "0"
     },
     "6014815": {
-        "description": "Constructs a narrow bulwark wall that can be used by infantry units.",
+        "description": "Constructs a narrow bulwark wall that can be used by infantry units. This object shares its maximum in-world limit with at least one other construction item.",
         "fireModes": [
             "Auto"
         ],
@@ -33292,7 +33292,7 @@
         "standingCofMin": "0"
     },
     "6014817": {
-        "description": "Allows cortium to be used to create a wide bulwark wall that can be used by infantry units.",
+        "description": "Allows cortium to be used to create a wide bulwark wall that can be used by infantry units. This object shares its maximum in-world limit with at least one other construction item.",
         "fireModes": [
             "Auto"
         ],
@@ -46427,7 +46427,7 @@
         "standingCofMin": "0"
     },
     "803605": {
-        "description": "Constructs a large, fortified wall with firing areas for infantry.",
+        "description": "Constructs a large, fortified wall with firing areas for infantry. This object shares its maximum in-world limit with at least one other construction item.",
         "fireModes": [
             "Auto"
         ],
@@ -46438,7 +46438,7 @@
         "standingCofMin": "0"
     },
     "803606": {
-        "description": "Constructs a large, fortified wall with firing areas for infantry.",
+        "description": "Constructs a large, fortified wall with firing areas for infantry. This object shares its maximum in-world limit with at least one other construction item.",
         "fireModes": [
             "Auto"
         ],
@@ -46449,7 +46449,7 @@
         "standingCofMin": "0"
     },
     "803607": {
-        "description": "Constructs a large, fortified wall with firing areas for infantry.",
+        "description": "Constructs a large, fortified wall with firing areas for infantry. This object shares its maximum in-world limit with at least one other construction item.",
         "fireModes": [
             "Auto"
         ],
@@ -50321,7 +50321,7 @@
         "verticalRecoil": "3"
     },
     "804980": {
-        "description": "Large wall that once fully constructed can withstand a moderate amount of damage.",
+        "description": "Large wall that once fully constructed can withstand a moderate amount of damage. This object shares its maximum in-world limit with at least one other construction item.",
         "fireModes": [
             "Auto"
         ],
@@ -50332,7 +50332,7 @@
         "standingCofMin": "0"
     },
     "804981": {
-        "description": "Large wall that once fully constructed can withstand a moderate amount of damage.",
+        "description": "Large wall that once fully constructed can withstand a moderate amount of damage. This object shares its maximum in-world limit with at least one other construction item.",
         "fireModes": [
             "Auto"
         ],
@@ -50343,7 +50343,7 @@
         "standingCofMin": "0"
     },
     "804982": {
-        "description": "Large wall that once fully constructed can withstand a moderate amount of damage.",
+        "description": "Large wall that once fully constructed can withstand a moderate amount of damage. This object shares its maximum in-world limit with at least one other construction item.",
         "fireModes": [
             "Auto"
         ],
