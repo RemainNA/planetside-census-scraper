@@ -36503,6 +36503,90 @@
         "standingCofMin": "0",
         "verticalRecoil": "2"
     },
+    "6015932": {
+        "crouchWalkingCofMax": "0.5",
+        "crouchWalkingCofMin": "0.5",
+        "crouchingCofMax": "0.5",
+        "crouchingCofMin": "0.5",
+        "description": "The Love Bomber grenade, capable of<br>heavily damaging infantry targets. <font color=\"#dc9c36\"><br><br>3 second fuse.</font>",
+        "fallingCofMax": "7",
+        "fallingCofMin": "7",
+        "fireModes": [
+            "Thrown"
+        ],
+        "hipCofRecoil": "1",
+        "image_id": "98423",
+        "name": "Love Bomber Plasma Grenade",
+        "runningCofMax": "0.5",
+        "runningCofMin": "0.5",
+        "sprintingCofMax": "0.5",
+        "sprintingCofMin": "0.5",
+        "standingCofMax": "0.5",
+        "standingCofMin": "0.5"
+    },
+    "6015935": {
+        "crouchWalkingCofMax": "0.5",
+        "crouchWalkingCofMin": "0.5",
+        "crouchingCofMax": "0.5",
+        "crouchingCofMin": "0.5",
+        "description": "The Love Bomber grenade, capable of<br>heavily damaging infantry targets. <font color=\"#dc9c36\"><br><br>3 second fuse.</font>",
+        "fallingCofMax": "7",
+        "fallingCofMin": "7",
+        "fireModes": [
+            "Thrown"
+        ],
+        "hipCofRecoil": "1",
+        "image_id": "98423",
+        "name": "Love Bomber Frag Grenade",
+        "runningCofMax": "0.5",
+        "runningCofMin": "0.5",
+        "sprintingCofMax": "0.5",
+        "sprintingCofMin": "0.5",
+        "standingCofMax": "0.5",
+        "standingCofMin": "0.5"
+    },
+    "6015936": {
+        "crouchWalkingCofMax": "0.5",
+        "crouchWalkingCofMin": "0.5",
+        "crouchingCofMax": "0.5",
+        "crouchingCofMin": "0.5",
+        "description": "The Love Bomber grenade, capable of<br>heavily damaging infantry targets. <font color=\"#dc9c36\"><br><br>3 second fuse.</font>",
+        "fallingCofMax": "7",
+        "fallingCofMin": "7",
+        "fireModes": [
+            "Thrown"
+        ],
+        "hipCofRecoil": "1",
+        "image_id": "98423",
+        "name": "Love Bomber Frag Grenade",
+        "runningCofMax": "0.5",
+        "runningCofMin": "0.5",
+        "sprintingCofMax": "0.5",
+        "sprintingCofMin": "0.5",
+        "standingCofMax": "0.5",
+        "standingCofMin": "0.5"
+    },
+    "6015937": {
+        "crouchWalkingCofMax": "0.5",
+        "crouchWalkingCofMin": "0.5",
+        "crouchingCofMax": "0.5",
+        "crouchingCofMin": "0.5",
+        "description": "The Love Bomber grenade, capable of<br>heavily damaging infantry targets. <font color=\"#dc9c36\"><br><br>3 second fuse.</font>",
+        "fallingCofMax": "7",
+        "fallingCofMin": "7",
+        "fireModes": [
+            "Thrown"
+        ],
+        "hipCofRecoil": "1",
+        "image_id": "98423",
+        "name": "Love Bomber Frag Grenade",
+        "runningCofMax": "0.5",
+        "runningCofMin": "0.5",
+        "sprintingCofMax": "0.5",
+        "sprintingCofMin": "0.5",
+        "standingCofMax": "0.5",
+        "standingCofMin": "0.5"
+    },
     "6015979": {
         "crouchWalkingCofMax": "0.5",
         "crouchWalkingCofMin": "0.5",
