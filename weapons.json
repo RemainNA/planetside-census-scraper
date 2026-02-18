@@ -36588,10 +36588,25 @@
         "standingCofMin": "0.5"
     },
     "6015979": {
+        "crouchWalkingCofMax": "0.5",
+        "crouchWalkingCofMin": "0.5",
+        "crouchingCofMax": "0.5",
+        "crouchingCofMin": "0.5",
         "description": "The Easter Egg Grenade, for when you want an egg-splosive presence on the battlefield!<br>Capable of heavily damaging infantry targets. <font color=\"#dc9c36\"><br><br>3 second fuse.<br><br>Available during the Easter Period.</font>",
-        "fireModes": [],
+        "fallingCofMax": "7",
+        "fallingCofMin": "7",
+        "fireModes": [
+            "Thrown"
+        ],
+        "hipCofRecoil": "1",
         "image_id": "98497",
-        "name": "Easter Egg Plasma Grenade"
+        "name": "Easter Egg Plasma Grenade",
+        "runningCofMax": "0.5",
+        "runningCofMin": "0.5",
+        "sprintingCofMax": "0.5",
+        "sprintingCofMin": "0.5",
+        "standingCofMax": "0.5",
+        "standingCofMin": "0.5"
     },
     "6015984": {
         "crouchWalkingCofMax": "0.5",
