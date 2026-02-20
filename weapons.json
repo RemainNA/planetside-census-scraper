@@ -6840,7 +6840,7 @@
         "verticalRecoil": "0.3"
     },
     "271": {
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Although slower than the NC standard issue Mag-Cutter, when wielded, this knife can be activated, increasing its damage output. NC use only.",
         "fireModes": [
@@ -7463,7 +7463,7 @@
         "standingCofMin": "0"
     },
     "286": {
-        "damage": "500",
+        "damage": "900",
         "defZoom": "1",
         "description": "Although slower than the VS standard issue Force-Blade, when wielded this knife can be activated, increasing its damage output. VS use only.",
         "fireModes": [
@@ -21689,7 +21689,6 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "PSA-02 Diamondback",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -25358,7 +25357,7 @@
         "standingCofMin": "0"
     },
     "6009600": {
-        "damage": "900",
+        "damage": "500",
         "defZoom": "1",
         "description": "Originally developed for exploration on Esamir as a companion tool to the NS Icebreaker, the Firebug has recently gained popularity among soldiers looking for a more dramatic option in close-quarters combat.",
         "fireModes": [
@@ -25371,7 +25370,6 @@
         "name": "NS Firebug",
         "pelletSpread": "0",
         "pellets": "1",
-        "reload": "0",
         "speed": "13",
         "standingCofMax": "0",
         "standingCofMin": "0"
@@ -30490,7 +30488,7 @@
         "verticalRecoil": "1"
     },
     "6012441": {
-        "damage": "500",
+        "damage": "600",
         "defZoom": "1",
         "description": "When in doubt, bonk it over the head with this giant, squeaky hammer. All factions can use this weapon.",
         "fireModes": [
@@ -32004,7 +32002,7 @@
         "runningCofMaxADS": "3",
         "runningCofMin": "5",
         "runningCofMinADS": "1",
-        "speed": "150",
+        "speed": "50",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "7",
@@ -32615,7 +32613,7 @@
         "verticalRecoil": "0.22"
     },
     "6014446": {
-        "damage": "500",
+        "damage": "600",
         "defZoom": "1",
         "description": "Carve your way through hordes of frosty foes with this Auraximas-themed hatchet. All factions can use this weapon.",
         "fireModes": [
@@ -34080,7 +34078,7 @@
         "runningCofMaxADS": "3",
         "runningCofMin": "5",
         "runningCofMinADS": "1",
-        "speed": "50",
+        "speed": "150",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "3",
         "sprintingCofMin": "7",
@@ -36367,6 +36365,7 @@
         "crouchingCofMaxADS": "4",
         "crouchingCofMin": "1.5",
         "crouchingCofMinADS": "0.3",
+        "damage": "200",
         "defZoom": "1",
         "description": "The Ice Dragon is a fiery weapon that unleashes 5 round bursts. It can be switched to a secondary fire mode that launches a globe of flame at the cost of 50 ammunition.",
         "fallingCofMax": "7",
@@ -36386,7 +36385,6 @@
         "minDamage": "100",
         "minDamageRange": "40",
         "name": "NS-D \"Ice Dragon\" Helios",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "25",
         "recoilAngleMin": "23",
@@ -36398,7 +36396,7 @@
         "runningCofMaxADS": "4",
         "runningCofMin": "2.5",
         "runningCofMinADS": "0.4",
-        "speed": "600",
+        "speed": "40",
         "sprintingCofMax": "7",
         "sprintingCofMaxADS": "7",
         "sprintingCofMin": "5",
@@ -42041,6 +42039,7 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11C",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -43892,7 +43891,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CB",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -43946,6 +43944,7 @@
         "minDamage": "125",
         "minDamageRange": "65",
         "name": "NS-11AG",
+        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -43999,7 +43998,6 @@
         "minDamage": "112",
         "minDamageRange": "60",
         "name": "NS-11CG",
-        "pelletSpread": "0",
         "pellets": "1",
         "recoilAngleMax": "-17",
         "recoilAngleMin": "-20",
@@ -46779,8 +46777,8 @@
         "hipCofRecoil": "0",
         "image_id": "84814",
         "name": "NC05 Jackhammer AE",
-        "pelletSpread": "3.5",
-        "pellets": "4",
+        "pelletSpread": "2.5",
+        "pellets": "5",
         "recoilAngleMax": "0",
         "recoilAngleMin": "0",
         "recoilHorizontalMax": "0.4",
