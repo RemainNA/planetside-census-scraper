@@ -18670,7 +18670,13 @@
         ],
         "hipCofRecoil": "0",
         "image_id": "82148",
+        "maxDamage": "100",
+        "maxDamageRange": "10",
+        "minDamage": "50",
+        "minDamageRange": "50",
         "name": "Spitfire Auto-Turret",
+        "pellets": "1",
+        "speed": "425",
         "standingCofMax": "0.15",
         "standingCofMin": "0.15"
     },
@@ -23204,6 +23210,7 @@
         "standingCofMin": "0.5"
     },
     "6009021": {
+        "defZoom": "1.5",
         "description": "Manned bastion point defense weapons intended to defend the bastion from aircraft.",
         "fireModes": [
             "Auto"
@@ -23213,8 +23220,15 @@
         "heatPerShot": "11",
         "heatRecoveryDelay": "1000",
         "image_id": "4043",
+        "maxDamage": "150",
+        "maxDamageRange": "100",
+        "minDamage": "125",
+        "minDamageRange": "500",
         "name": "Bastion CIWS",
         "overheatPenalty": "1000",
+        "pellets": "1",
+        "reload": "2000",
+        "speed": "1000",
         "standingCofMax": "0.5",
         "standingCofMin": "0.5"
     },
