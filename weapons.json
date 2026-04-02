@@ -33269,6 +33269,23 @@
         "standingCofMax": "0",
         "standingCofMin": "0"
     },
+    "6014780": {
+        "damage": "600",
+        "description": "Once used to skewer fish on Earth, it found renewed purpose in skewering your foes on Auraxis. All factions can use this weapon.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96066",
+        "name": "Wavestinger Harpoon",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
     "6014813": {
         "description": "Allows cortium to be used to create a bridge that can be used by infantry and vehicle units.",
         "fireModes": [
