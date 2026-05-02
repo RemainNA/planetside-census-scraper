@@ -33672,6 +33672,23 @@
         "standingCofMinADS": "0.3",
         "verticalRecoil": "0.2"
     },
+    "6014991": {
+        "damage": "500",
+        "description": "The Fusion Blade boasts an impossibly sharp edge designed for close quarters combat.",
+        "fireModes": [
+            "Quick Melee",
+            "Melee"
+        ],
+        "hipCofRecoil": "0",
+        "image_id": "96212",
+        "name": "NSX Fusion Blade",
+        "pelletSpread": "0",
+        "pellets": "1",
+        "reload": "0",
+        "speed": "13",
+        "standingCofMax": "0",
+        "standingCofMin": "0"
+    },
     "6014996": {
         "description": "Aim at a location you want the Flail to hit.  Must maintain fire for several seconds to establish a target. Each tool is linked to and can only be used to designate targets for the Flail it is pulled from.",
         "fireModes": [],
